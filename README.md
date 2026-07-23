@@ -1,2 +1,13 @@
-# Data-Science-Internship
-Data Science Internship  day 1 tasks and projects completed during my internship at Codomax Digital Solutions.
+# Data Science Internship
+
+This repository contains my daily tasks and projects completed during the Data Science Internship at Codomax Digital Solutions.
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+
+##Auther - Najrinkhan
