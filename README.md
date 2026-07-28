@@ -95,6 +95,35 @@ This repository contains my daily tasks and projects completed during the Data S
 - GitHub
 
 ---
+# Day 6 - Data Filtering using Pandas
+
+## 📌 Objective
+Learned how to filter, select, and sort data using the Pandas library.
+
+## 📚 Topics Covered
+- Selecting single and multiple columns
+- Filtering rows with conditions
+- Multiple conditions using `&` and `|`
+- Using `isin()` and `between()`
+- String filtering with `str.contains()`
+- Sorting data using `sort_values()`
+- Finding top and bottom records using `nlargest()` and `nsmallest()`
+- Exporting filtered data to a CSV file
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+
+## 📂 Files
+- `DataFiltering.ipynb`
+- `SalesDataset.csv`
+- `Filtered_Data.csv`
+
+## 🎯 Outcome
+Successfully filtered and sorted the dataset using different Pandas operations and generated a filtered dataset for further analysis.
+
+---
 
 ## Author
 Najrin Khan
