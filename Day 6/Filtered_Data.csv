@@ -1,0 +1,256 @@
+Order ID,Order Date,Month,Customer Name,Gender,Region,City,Category,Product Name,Brand,Size,Color,Units Sold,Unit Price,Discount %,Total Sales,Profit,Payment Mode,Delivery Status
+ORD10007,2025-12-02,Dec,Customer_7,Men,East,Bhubaneswar,Bags,Backpack,H&M,M,Green,4,3740,25,11220.0,2684.96,Wallet,Delivered
+ORD10008,2025-03-12,Mar,Customer_8,Men,East,Bhubaneswar,Dresses,Casual Dress,Roadster,M,Pink,5,4541,0,22705.0,7186.21,Wallet,Delivered
+ORD10018,2025-08-05,Aug,Customer_18,Men,West,Ahmedabad,Shirts,Linen Shirt,Levis,Free Size,Black,5,4485,5,21303.75,3608.29,Cash,Delivered
+ORD10020,2025-08-03,Aug,Customer_20,Unisex,North,Delhi,Jackets,Bomber Jacket,Tommy Hilfiger,L,Red,5,4781,10,21514.5,7810.27,Cash,Delivered
+ORD10031,2025-06-03,Jun,Customer_31,Unisex,East,Kolkata,Jeans,Cargo Jeans,Puma,L,White,5,3032,25,11370.0,2571.69,Card,Delivered
+ORD10036,2025-11-10,Nov,Customer_36,Men,East,Guwahati,Caps,Baseball Cap,Allen Solly,XL,Brown,5,3994,30,13979.0,4973.48,Cash,Delivered
+ORD10038,2025-02-02,Feb,Customer_38,Men,South,Chennai,Shoes,Sneakers,Roadster,M,Pink,4,3838,10,13816.8,3607.27,Net Banking,Delivered
+ORD10039,2025-06-02,Jun,Customer_39,Unisex,North,Lucknow,Shirts,Linen Shirt,Allen Solly,M,Brown,4,3931,20,12579.2,790.86,Card,Returned
+ORD10044,2025-10-22,Oct,Customer_44,Unisex,North,Lucknow,Bags,Backpack,Tommy Hilfiger,M,Blue,4,3748,25,11244.0,385.82,Cash,Returned
+ORD10046,2025-04-01,Apr,Customer_46,Women,South,Kochi,Watches,Sports Watch,Allen Solly,XL,Pink,5,2711,20,10844.0,715.99,Wallet,Returned
+ORD10051,2025-10-29,Oct,Customer_51,Men,West,Ahmedabad,Shoes,Sneakers,H&M,L,White,5,2817,0,14085.0,4739.37,Cash,Delivered
+ORD10056,2025-12-28,Dec,Customer_56,Unisex,South,Hyderabad,Caps,Beanie,Nike,Free Size,Red,3,4218,0,12654.0,3780.0,Net Banking,Delivered
+ORD10058,2025-09-14,Sep,Customer_58,Women,West,Ahmedabad,Jeans,Regular Jeans,Levis,L,Green,5,4544,15,19312.0,2721.35,UPI,Delivered
+ORD10062,2025-04-15,Apr,Customer_62,Unisex,West,Mumbai,Watches,Sports Watch,Allen Solly,XL,Blue,3,4998,5,14244.3,5144.97,UPI,Delivered
+ORD10073,2025-01-12,Jan,Customer_73,Unisex,East,Patna,Dresses,Casual Dress,Puma,S,Brown,4,2747,0,10988.0,587.07,Cash,Cancelled
+ORD10078,2025-12-25,Dec,Customer_78,Women,North,Chandigarh,Watches,Sports Watch,H&M,XL,Blue,3,3843,0,11529.0,1802.47,UPI,Delivered
+ORD10079,2025-07-09,Jul,Customer_79,Women,West,Indore,Jackets,Bomber Jacket,Zara,S,Brown,5,3932,20,15728.0,4922.71,Wallet,Delivered
+ORD10086,2025-09-16,Sep,Customer_86,Unisex,East,Guwahati,Watches,Smart Watch,Tommy Hilfiger,Free Size,Red,5,4023,0,20115.0,6561.61,Net Banking,Delivered
+ORD10089,2025-11-04,Nov,Customer_89,Men,North,Lucknow,Watches,Sports Watch,Roadster,XL,Red,3,3379,0,10137.0,2739.61,UPI,Delivered
+ORD10092,2025-08-03,Aug,Customer_92,Women,South,Kochi,Shirts,Formal Shirt,Fastrack,Free Size,Blue,4,3291,5,12505.8,540.79,UPI,Cancelled
+ORD10093,2025-05-20,May,Customer_93,Women,North,Delhi,Shoes,Sneakers,Tommy Hilfiger,M,Blue,4,3972,15,13504.8,3752.17,Cash,Delivered
+ORD10102,2025-11-06,Nov,Customer_102,Men,South,Hyderabad,Shirts,Linen Shirt,Tommy Hilfiger,L,Blue,4,4606,5,17502.8,6458.67,Wallet,Delivered
+ORD10104,2025-10-13,Oct,Customer_104,Unisex,East,Kolkata,Shirts,Polo Shirt,Adidas,M,Grey,4,2826,10,10173.6,627.04,UPI,Cancelled
+ORD10106,2025-04-20,Apr,Customer_106,Men,East,Bhubaneswar,Watches,Analog Watch,Puma,S,Green,3,4482,5,12773.7,2285.23,UPI,Delivered
+ORD10113,2025-05-03,May,Customer_113,Unisex,North,Delhi,Bags,Handbag,Levis,Free Size,Black,4,4243,0,16972.0,2525.82,Wallet,Delivered
+ORD10114,2025-01-01,Jan,Customer_114,Unisex,East,Guwahati,Jackets,Bomber Jacket,Zara,S,Grey,5,3389,5,16097.75,4320.19,UPI,Delivered
+ORD10116,2025-12-17,Dec,Customer_116,Men,East,Bhubaneswar,Shirts,Polo Shirt,Fastrack,XL,Black,4,4419,25,13257.0,2219.12,Cash,Delivered
+ORD10117,2025-06-08,Jun,Customer_117,Men,North,Lucknow,Jackets,Denim Jacket,H&M,M,Green,5,3761,30,13163.5,3438.15,Cash,Delivered
+ORD10118,2025-08-12,Aug,Customer_118,Women,North,Lucknow,Shirts,Polo Shirt,Levis,XL,Grey,4,4101,15,13943.4,2902.31,Wallet,Delivered
+ORD10120,2025-01-22,Jan,Customer_120,Men,East,Guwahati,Dresses,Maxi Dress,Allen Solly,XL,Grey,3,4062,10,10967.4,3139.55,Wallet,Delivered
+ORD10123,2025-05-15,May,Customer_123,Unisex,West,Mumbai,Shirts,Casual Shirt,Allen Solly,XL,Red,3,4154,5,11838.9,4487.59,UPI,Delivered
+ORD10126,2025-09-27,Sep,Customer_126,Women,West,Indore,Jeans,Slim Jeans,Levis,S,Brown,4,3853,30,10788.4,2907.19,Net Banking,Delivered
+ORD10133,2025-09-13,Sep,Customer_133,Men,South,Chennai,Watches,Sports Watch,Puma,S,Pink,5,4323,15,18372.75,6404.0,Wallet,Delivered
+ORD10134,2025-01-26,Jan,Customer_134,Unisex,East,Kolkata,Caps,Baseball Cap,H&M,XL,Green,3,4553,20,10927.2,763.61,Wallet,Cancelled
+ORD10135,2025-07-07,Jul,Customer_135,Unisex,South,Hyderabad,Shirts,Formal Shirt,Roadster,M,Grey,4,3496,0,13984.0,626.91,Wallet,Returned
+ORD10138,2025-07-21,Jul,Customer_138,Unisex,East,Bhubaneswar,Shoes,Formal Shoes,Tommy Hilfiger,XL,Green,5,2950,20,11800.0,489.6,Net Banking,Returned
+ORD10141,2025-09-14,Sep,Customer_141,Men,South,Kochi,Dresses,Maxi Dress,Roadster,M,Red,5,4362,30,15267.0,1039.92,Wallet,Cancelled
+ORD10142,2025-03-30,Mar,Customer_142,Unisex,West,Ahmedabad,Watches,Sports Watch,Allen Solly,L,Brown,4,4866,10,17517.6,918.03,Card,Cancelled
+ORD10148,2025-05-26,May,Customer_148,Unisex,North,Lucknow,Shirts,Polo Shirt,Tommy Hilfiger,XL,Green,4,4949,20,15836.8,3934.13,Card,Delivered
+ORD10150,2025-03-13,Mar,Customer_150,Men,North,Jaipur,Watches,Analog Watch,Roadster,XL,Green,4,3149,5,11966.2,1457.19,Cash,Delivered
+ORD10156,2025-03-11,Mar,Customer_156,Women,West,Pune,Caps,Baseball Cap,Levis,S,White,4,3566,15,12124.4,2868.87,Cash,Delivered
+ORD10161,2025-12-23,Dec,Customer_161,Unisex,West,Ahmedabad,Caps,Baseball Cap,Puma,XL,Red,4,3843,5,14603.4,2891.05,Card,Delivered
+ORD10162,2025-08-02,Aug,Customer_162,Men,North,Chandigarh,Bags,Handbag,Allen Solly,L,Blue,5,4840,5,22990.0,5080.54,Net Banking,Delivered
+ORD10167,2025-09-13,Sep,Customer_167,Unisex,West,Pune,Jackets,Winter Jacket,H&M,XL,Brown,5,3264,10,14688.0,4677.74,Card,Delivered
+ORD10169,2025-04-22,Apr,Customer_169,Unisex,South,Bangalore,Shoes,Sneakers,Adidas,Free Size,Brown,5,4234,10,19053.0,517.16,Net Banking,Cancelled
+ORD10170,2025-01-09,Jan,Customer_170,Unisex,West,Mumbai,Shirts,Formal Shirt,Fastrack,XL,White,5,2749,20,10996.0,4114.09,UPI,Delivered
+ORD10176,2025-01-16,Jan,Customer_176,Women,West,Ahmedabad,Watches,Sports Watch,Tommy Hilfiger,XL,White,3,4189,15,10681.95,383.09,Wallet,Returned
+ORD10180,2025-06-04,Jun,Customer_180,Women,South,Hyderabad,Shoes,Sandals,Zara,XL,Green,3,4538,5,12933.3,1764.74,Net Banking,Delivered
+ORD10185,2025-10-26,Oct,Customer_185,Women,West,Indore,Dresses,Party Dress,Adidas,Free Size,Black,4,4876,20,15603.2,1123.77,Cash,Cancelled
+ORD10195,2025-04-10,Apr,Customer_195,Women,West,Pune,Shirts,Polo Shirt,Nike,XL,Brown,4,4639,25,13917.0,692.21,Net Banking,Cancelled
+ORD10199,2025-09-30,Sep,Customer_199,Women,North,Lucknow,Shoes,Sneakers,H&M,L,Green,3,4912,5,13999.2,571.59,Wallet,Cancelled
+ORD10208,2025-03-05,Mar,Customer_208,Men,North,Jaipur,Caps,Baseball Cap,Adidas,M,Green,5,3644,10,16398.0,6074.55,UPI,Delivered
+ORD10214,2025-06-27,Jun,Customer_214,Men,South,Kochi,Shirts,Casual Shirt,Nike,L,White,5,4736,30,16576.0,5533.93,Cash,Delivered
+ORD10219,2025-02-14,Feb,Customer_219,Unisex,East,Patna,Jeans,Regular Jeans,Levis,L,Red,5,4240,0,21200.0,4577.48,Net Banking,Delivered
+ORD10226,2025-10-12,Oct,Customer_226,Men,West,Indore,Bags,Handbag,Nike,S,Black,5,2545,0,12725.0,3055.67,Card,Delivered
+ORD10228,2025-03-28,Mar,Customer_228,Men,West,Mumbai,Watches,Analog Watch,Nike,XL,Pink,5,4047,30,14164.5,4367.65,Card,Delivered
+ORD10231,2025-10-17,Oct,Customer_231,Women,West,Ahmedabad,Watches,Smart Watch,Fastrack,Free Size,Red,5,3133,15,13315.25,2534.07,UPI,Delivered
+ORD10240,2025-09-03,Sep,Customer_240,Women,West,Mumbai,Caps,Beanie,Puma,S,Grey,5,2346,5,11143.5,2644.74,Cash,Delivered
+ORD10250,2025-03-30,Mar,Customer_250,Unisex,West,Mumbai,Bags,Travel Bag,Allen Solly,XL,Black,3,3800,5,10830.0,608.09,Net Banking,Cancelled
+ORD10254,2025-08-26,Aug,Customer_254,Men,East,Patna,Shirts,Polo Shirt,H&M,M,Grey,5,3750,25,14062.5,1012.5,Net Banking,Cancelled
+ORD10265,2025-11-21,Nov,Customer_265,Men,South,Kochi,Shoes,Sandals,Adidas,S,Red,4,3803,15,12930.2,4796.91,Cash,Delivered
+ORD10267,2025-05-29,May,Customer_267,Unisex,North,Lucknow,Bags,Handbag,Adidas,M,Grey,4,4761,20,15235.2,3904.33,Net Banking,Delivered
+ORD10272,2025-12-19,Dec,Customer_272,Men,West,Pune,Shoes,Running Shoes,Fastrack,S,Brown,4,3207,5,12186.6,294.21,Card,Cancelled
+ORD10275,2025-02-28,Feb,Customer_275,Unisex,East,Bhubaneswar,Bags,Backpack,Puma,XL,Pink,4,3777,15,12841.8,2448.63,Card,Delivered
+ORD10276,2025-08-02,Aug,Customer_276,Men,South,Bangalore,Jeans,Slim Jeans,Nike,Free Size,Pink,5,4453,30,15585.5,4175.75,Cash,Delivered
+ORD10280,2025-09-13,Sep,Customer_280,Unisex,West,Mumbai,Jeans,Regular Jeans,Allen Solly,S,Blue,4,3088,0,12352.0,926.34,Net Banking,Cancelled
+ORD10281,2025-11-06,Nov,Customer_281,Unisex,North,Delhi,Dresses,Maxi Dress,Fastrack,XL,Grey,5,2994,20,11976.0,637.62,Cash,Cancelled
+ORD10282,2025-12-03,Dec,Customer_282,Men,East,Guwahati,Shirts,Casual Shirt,Allen Solly,S,Grey,3,4206,0,12618.0,366.76,Cash,Cancelled
+ORD10287,2025-04-18,Apr,Customer_287,Men,South,Chennai,Watches,Sports Watch,Fastrack,M,Grey,5,2879,25,10796.25,452.96,UPI,Cancelled
+ORD10290,2025-07-15,Jul,Customer_290,Unisex,East,Kolkata,Dresses,Maxi Dress,Fastrack,S,Black,4,3911,30,10950.8,4092.47,Cash,Delivered
+ORD10298,2025-04-16,Apr,Customer_298,Unisex,West,Mumbai,Jackets,Bomber Jacket,H&M,M,Black,5,4064,25,15240.0,5065.11,Net Banking,Delivered
+ORD10301,2025-08-13,Aug,Customer_301,Men,North,Lucknow,Jeans,Regular Jeans,Levis,Free Size,Red,4,3735,30,10458.0,3051.52,Card,Delivered
+ORD10308,2025-10-25,Oct,Customer_308,Unisex,North,Delhi,Jeans,Cargo Jeans,Adidas,L,Brown,5,3817,30,13359.5,3652.61,Card,Delivered
+ORD10309,2025-08-26,Aug,Customer_309,Men,East,Bhubaneswar,Watches,Smart Watch,H&M,M,White,5,4680,0,23400.0,1044.41,Wallet,Returned
+ORD10312,2025-09-22,Sep,Customer_312,Women,East,Kolkata,Shoes,Sandals,Roadster,XL,Brown,3,3581,5,10205.85,2594.91,Wallet,Delivered
+ORD10313,2025-02-09,Feb,Customer_313,Women,South,Chennai,Shirts,Casual Shirt,Allen Solly,Free Size,Blue,5,2799,5,13295.25,2114.78,Card,Delivered
+ORD10321,2025-10-02,Oct,Customer_321,Women,East,Patna,Jeans,Slim Jeans,Roadster,M,Pink,4,3494,20,11180.8,428.55,Wallet,Cancelled
+ORD10322,2025-06-07,Jun,Customer_322,Men,West,Ahmedabad,Caps,Baseball Cap,Puma,S,Red,5,3319,30,11616.5,704.96,Net Banking,Cancelled
+ORD10325,2025-04-14,Apr,Customer_325,Unisex,West,Mumbai,Shirts,Casual Shirt,Allen Solly,Free Size,Red,5,2841,5,13494.75,347.46,Wallet,Returned
+ORD10334,2025-03-03,Mar,Customer_334,Unisex,South,Kochi,Shirts,Polo Shirt,Roadster,M,Pink,5,4267,10,19201.5,5744.99,Wallet,Delivered
+ORD10336,2025-07-25,Jul,Customer_336,Unisex,East,Patna,Dresses,Maxi Dress,Roadster,M,Blue,3,4191,5,11944.35,641.57,Cash,Returned
+ORD10351,2025-04-22,Apr,Customer_351,Women,North,Chandigarh,Jackets,Denim Jacket,Zara,XL,Black,3,3941,10,10640.7,3450.66,Cash,Delivered
+ORD10352,2025-02-06,Feb,Customer_352,Women,East,Guwahati,Jeans,Slim Jeans,Nike,S,Blue,5,4350,5,20662.5,3512.01,Card,Delivered
+ORD10356,2025-12-18,Dec,Customer_356,Women,West,Mumbai,Jeans,Slim Jeans,Zara,M,Blue,5,3271,30,11448.5,3234.6,Card,Delivered
+ORD10359,2025-01-01,Jan,Customer_359,Unisex,East,Guwahati,Bags,Laptop Bag,Fastrack,L,Red,5,3604,25,13515.0,2273.75,Cash,Delivered
+ORD10364,2025-02-24,Feb,Customer_364,Women,South,Kochi,Jackets,Bomber Jacket,H&M,S,White,5,3431,25,12866.25,615.69,Card,Cancelled
+ORD10366,2025-08-20,Aug,Customer_366,Unisex,East,Patna,Jackets,Winter Jacket,Fastrack,S,White,4,3751,0,15004.0,4633.86,Cash,Delivered
+ORD10367,2025-01-12,Jan,Customer_367,Men,South,Hyderabad,Shirts,Polo Shirt,H&M,S,Black,3,4687,20,11248.8,603.78,Net Banking,Returned
+ORD10371,2025-11-01,Nov,Customer_371,Women,West,Indore,Jackets,Denim Jacket,Nike,M,White,5,4633,0,23165.0,4117.4,Cash,Delivered
+ORD10376,2025-04-18,Apr,Customer_376,Unisex,North,Lucknow,Bags,Travel Bag,Allen Solly,XL,White,5,2234,5,10611.5,2780.96,UPI,Delivered
+ORD10378,2025-01-10,Jan,Customer_378,Unisex,East,Kolkata,Jeans,Regular Jeans,Levis,S,Grey,3,3665,5,10445.25,782.86,Net Banking,Returned
+ORD10381,2025-09-24,Sep,Customer_381,Women,North,Chandigarh,Dresses,Casual Dress,Zara,L,Grey,5,2362,15,10038.5,1831.96,Net Banking,Delivered
+ORD10384,2025-01-14,Jan,Customer_384,Unisex,South,Chennai,Shoes,Sneakers,Adidas,M,Red,5,2685,20,10740.0,2872.21,UPI,Delivered
+ORD10387,2025-06-10,Jun,Customer_387,Men,North,Chandigarh,Jackets,Winter Jacket,Roadster,Free Size,Blue,4,4891,20,15651.2,897.64,Net Banking,Cancelled
+ORD10388,2025-10-13,Oct,Customer_388,Men,West,Mumbai,Caps,Baseball Cap,H&M,L,Brown,4,4727,30,13235.6,3758.5,Net Banking,Delivered
+ORD10390,2025-07-31,Jul,Customer_390,Unisex,South,Kochi,Jeans,Slim Jeans,Tommy Hilfiger,M,Brown,3,4192,0,12576.0,418.8,UPI,Returned
+ORD10391,2025-02-28,Feb,Customer_391,Unisex,North,Delhi,Bags,Laptop Bag,Zara,Free Size,White,4,3472,0,13888.0,3558.0,Net Banking,Delivered
+ORD10397,2025-09-27,Sep,Customer_397,Men,East,Patna,Caps,Baseball Cap,Adidas,S,Blue,4,4796,5,18224.8,1096.83,Net Banking,Returned
+ORD10398,2025-09-27,Sep,Customer_398,Unisex,East,Patna,Bags,Travel Bag,Tommy Hilfiger,XL,Brown,5,3397,5,16135.75,4513.42,Card,Delivered
+ORD10414,2025-09-30,Sep,Customer_414,Men,North,Lucknow,Jeans,Regular Jeans,Fastrack,Free Size,White,4,3782,20,12102.4,550.65,Net Banking,Returned
+ORD10415,2025-08-11,Aug,Customer_415,Unisex,South,Kochi,Dresses,Maxi Dress,Puma,S,Brown,5,3302,20,13208.0,3968.67,UPI,Delivered
+ORD10416,2025-04-01,Apr,Customer_416,Unisex,North,Chandigarh,Caps,Beanie,Fastrack,XL,Grey,3,3823,0,11469.0,632.05,Net Banking,Cancelled
+ORD10423,2025-01-20,Jan,Customer_423,Women,East,Kolkata,Bags,Travel Bag,Fastrack,S,White,5,4457,25,16713.75,721.47,Wallet,Returned
+ORD10428,2025-09-11,Sep,Customer_428,Unisex,South,Chennai,Shirts,Polo Shirt,Adidas,M,Red,4,3637,5,13820.6,806.5,Wallet,Cancelled
+ORD10429,2025-03-27,Mar,Customer_429,Unisex,North,Delhi,Watches,Analog Watch,Levis,M,Pink,4,3765,15,12801.0,507.83,Net Banking,Cancelled
+ORD10430,2025-05-28,May,Customer_430,Unisex,West,Mumbai,Caps,Beanie,Zara,S,Blue,4,3628,25,10884.0,439.89,Wallet,Returned
+ORD10435,2025-02-01,Feb,Customer_435,Women,North,Lucknow,Watches,Smart Watch,Zara,M,Brown,4,3682,10,13255.2,5023.05,UPI,Delivered
+ORD10437,2025-10-20,Oct,Customer_437,Unisex,North,Delhi,Bags,Backpack,Nike,S,Black,3,4151,0,12453.0,4397.07,Net Banking,Delivered
+ORD10438,2025-09-21,Sep,Customer_438,Men,West,Mumbai,Bags,Handbag,Puma,Free Size,Red,4,4415,15,15011.0,675.55,UPI,Cancelled
+ORD10439,2025-06-20,Jun,Customer_439,Men,North,Lucknow,Dresses,Casual Dress,Allen Solly,L,Grey,3,3780,0,11340.0,645.0,UPI,Cancelled
+ORD10445,2025-12-17,Dec,Customer_445,Men,East,Kolkata,Watches,Sports Watch,Roadster,Free Size,White,5,4970,5,23607.5,4806.8,Cash,Delivered
+ORD10450,2025-12-17,Dec,Customer_450,Men,North,Jaipur,Bags,Backpack,H&M,L,Green,4,4574,5,17381.2,2807.72,Card,Delivered
+ORD10460,2025-08-07,Aug,Customer_460,Men,North,Lucknow,Dresses,Casual Dress,Puma,Free Size,Grey,3,4942,20,11860.8,774.66,UPI,Cancelled
+ORD10465,2025-05-31,May,Customer_465,Women,South,Bangalore,Shoes,Sandals,Zara,S,Green,4,4934,5,18749.2,4560.09,Card,Delivered
+ORD10467,2025-04-27,Apr,Customer_467,Men,South,Hyderabad,Bags,Handbag,Levis,L,Green,4,3545,10,12762.0,4085.56,Net Banking,Delivered
+ORD10474,2025-08-01,Aug,Customer_474,Unisex,South,Kochi,Caps,Snapback Cap,Adidas,XL,White,4,2863,5,10879.4,3584.49,Wallet,Delivered
+ORD10477,2025-05-15,May,Customer_477,Women,North,Jaipur,Caps,Baseball Cap,Nike,M,Brown,3,4370,0,13110.0,3801.79,Card,Delivered
+ORD10478,2025-11-03,Nov,Customer_478,Unisex,West,Mumbai,Shirts,Formal Shirt,Levis,XL,Blue,3,4435,20,10644.0,2484.07,Cash,Delivered
+ORD10482,2025-10-14,Oct,Customer_482,Unisex,South,Chennai,Jackets,Denim Jacket,Fastrack,S,Pink,5,4805,30,16817.5,868.94,Net Banking,Returned
+ORD10490,2025-11-04,Nov,Customer_490,Women,East,Guwahati,Caps,Baseball Cap,Roadster,M,Blue,3,4135,5,11784.75,3111.39,Net Banking,Delivered
+ORD10491,2025-07-22,Jul,Customer_491,Men,West,Mumbai,Watches,Analog Watch,Nike,XL,Pink,4,4780,25,14340.0,4243.13,Wallet,Delivered
+ORD10493,2025-12-08,Dec,Customer_493,Women,East,Guwahati,Bags,Laptop Bag,Roadster,S,Blue,5,3812,15,16201.0,4098.33,Cash,Delivered
+ORD10495,2025-04-14,Apr,Customer_495,Women,West,Indore,Bags,Backpack,Adidas,Free Size,Black,3,4577,15,11671.35,586.48,UPI,Returned
+ORD10496,2025-07-12,Jul,Customer_496,Unisex,West,Ahmedabad,Dresses,Maxi Dress,Roadster,L,White,4,4264,0,17056.0,438.49,Net Banking,Returned
+ORD10497,2025-02-26,Feb,Customer_497,Unisex,West,Indore,Dresses,Maxi Dress,Levis,XL,Brown,5,4517,25,16938.75,894.31,Wallet,Returned
+ORD10501,2025-06-12,Jun,Customer_501,Men,West,Mumbai,Dresses,Party Dress,Nike,M,Grey,4,3696,10,13305.6,3577.34,Net Banking,Delivered
+ORD10504,2025-08-10,Aug,Customer_504,Unisex,East,Patna,Jackets,Winter Jacket,Adidas,Free Size,Brown,5,3065,5,14558.75,3315.34,Wallet,Delivered
+ORD10506,2025-03-19,Mar,Customer_506,Unisex,South,Chennai,Jackets,Winter Jacket,Allen Solly,M,Pink,3,4065,15,10365.75,2102.69,Cash,Delivered
+ORD10511,2025-05-21,May,Customer_511,Women,South,Chennai,Jackets,Denim Jacket,Adidas,Free Size,Grey,4,3844,10,13838.4,4765.31,UPI,Delivered
+ORD10521,2025-05-01,May,Customer_521,Unisex,East,Patna,Dresses,Maxi Dress,Nike,XL,Blue,5,4193,5,19916.75,860.83,UPI,Cancelled
+ORD10522,2025-07-16,Jul,Customer_522,Men,West,Pune,Caps,Baseball Cap,Puma,L,Red,4,2598,0,10392.0,1504.48,Net Banking,Delivered
+ORD10523,2025-05-10,May,Customer_523,Women,North,Delhi,Watches,Sports Watch,Tommy Hilfiger,M,Black,5,3619,10,16285.5,1218.66,Wallet,Cancelled
+ORD10527,2025-07-02,Jul,Customer_527,Men,North,Chandigarh,Dresses,Maxi Dress,Allen Solly,S,Grey,5,4473,15,19010.25,943.58,UPI,Cancelled
+ORD10531,2025-10-08,Oct,Customer_531,Men,North,Delhi,Shirts,Polo Shirt,Puma,XL,Blue,5,3623,0,18115.0,4052.38,UPI,Delivered
+ORD10533,2025-08-17,Aug,Customer_533,Men,South,Kochi,Jeans,Regular Jeans,Fastrack,XL,Grey,4,4401,10,15843.6,4220.65,Wallet,Delivered
+ORD10539,2025-12-21,Dec,Customer_539,Women,West,Indore,Jeans,Slim Jeans,Zara,XL,Green,4,4486,10,16149.6,906.99,UPI,Returned
+ORD10542,2025-05-31,May,Customer_542,Unisex,South,Chennai,Shirts,Linen Shirt,Tommy Hilfiger,XL,Pink,5,3708,0,18540.0,3834.09,Net Banking,Delivered
+ORD10543,2025-09-20,Sep,Customer_543,Men,West,Indore,Bags,Backpack,Allen Solly,XL,Grey,5,4495,5,21351.25,1305.48,Wallet,Returned
+ORD10544,2025-09-11,Sep,Customer_544,Men,West,Mumbai,Jeans,Regular Jeans,Roadster,L,Red,5,3339,15,14190.75,4276.44,Net Banking,Delivered
+ORD10552,2025-07-29,Jul,Customer_552,Women,West,Indore,Dresses,Maxi Dress,Zara,M,Black,4,4727,30,13235.6,3935.89,Wallet,Delivered
+ORD10557,2025-05-13,May,Customer_557,Men,North,Lucknow,Dresses,Casual Dress,Adidas,XL,Green,5,3402,0,17010.0,450.46,Wallet,Cancelled
+ORD10560,2025-07-09,Jul,Customer_560,Women,West,Mumbai,Shoes,Sandals,H&M,Free Size,Brown,5,3798,20,15192.0,4030.92,Net Banking,Delivered
+ORD10562,2025-03-02,Mar,Customer_562,Women,South,Hyderabad,Caps,Beanie,Nike,S,White,5,3846,0,19230.0,582.38,UPI,Returned
+ORD10568,2025-10-01,Oct,Customer_568,Men,West,Mumbai,Jackets,Bomber Jacket,Tommy Hilfiger,L,Pink,5,3123,15,13272.75,3624.95,Card,Delivered
+ORD10574,2025-08-26,Aug,Customer_574,Men,North,Delhi,Dresses,Casual Dress,Allen Solly,XL,Green,5,2868,25,10755.0,4008.83,Wallet,Delivered
+ORD10576,2025-11-22,Nov,Customer_576,Women,East,Patna,Bags,Travel Bag,H&M,M,Brown,3,4207,10,11358.9,2089.37,Wallet,Delivered
+ORD10580,2025-01-19,Jan,Customer_580,Men,West,Ahmedabad,Bags,Handbag,H&M,M,Pink,3,4536,25,10206.0,3100.7,UPI,Delivered
+ORD10583,2025-05-23,May,Customer_583,Men,South,Bangalore,Watches,Sports Watch,Nike,L,Blue,4,4860,15,16524.0,3341.53,Wallet,Delivered
+ORD10590,2025-06-09,Jun,Customer_590,Women,North,Jaipur,Jackets,Denim Jacket,Nike,Free Size,White,5,4069,20,16276.0,6014.52,Card,Delivered
+ORD10595,2025-11-20,Nov,Customer_595,Men,West,Pune,Jeans,Slim Jeans,Levis,L,White,5,3447,0,17235.0,6438.66,Card,Delivered
+ORD10598,2025-06-12,Jun,Customer_598,Unisex,West,Ahmedabad,Shoes,Sneakers,H&M,Free Size,Red,5,4017,25,15063.75,2765.45,Wallet,Delivered
+ORD10600,2025-09-13,Sep,Customer_600,Unisex,West,Ahmedabad,Jeans,Slim Jeans,Fastrack,XL,Brown,5,4302,5,20434.5,4161.98,Net Banking,Delivered
+ORD10608,2025-12-20,Dec,Customer_608,Men,West,Indore,Watches,Analog Watch,Roadster,M,White,5,2953,10,13288.5,724.51,Cash,Returned
+ORD10610,2025-12-19,Dec,Customer_610,Women,South,Bangalore,Jeans,Cargo Jeans,Fastrack,L,Red,5,4501,0,22505.0,3792.99,Card,Delivered
+ORD10614,2025-05-28,May,Customer_614,Women,North,Delhi,Caps,Beanie,Allen Solly,Free Size,White,4,3339,25,10017.0,3396.63,Net Banking,Delivered
+ORD10624,2025-11-29,Nov,Customer_624,Women,North,Lucknow,Jackets,Winter Jacket,H&M,L,Brown,5,3521,0,17605.0,2420.8,UPI,Delivered
+ORD10634,2025-09-09,Sep,Customer_634,Women,North,Lucknow,Shoes,Sneakers,Nike,XL,Green,4,3905,15,13277.0,4943.4,Wallet,Delivered
+ORD10643,2025-11-05,Nov,Customer_643,Unisex,North,Chandigarh,Shirts,Formal Shirt,H&M,XL,Grey,5,2676,15,11373.0,2764.1,Cash,Delivered
+ORD10645,2025-07-08,Jul,Customer_645,Men,East,Bhubaneswar,Shirts,Formal Shirt,Fastrack,L,Black,4,4391,20,14051.2,3195.42,Cash,Delivered
+ORD10650,2025-12-01,Dec,Customer_650,Men,West,Indore,Jeans,Cargo Jeans,Puma,L,Blue,5,4078,30,14273.0,2578.78,UPI,Delivered
+ORD10654,2025-09-11,Sep,Customer_654,Men,West,Pune,Jeans,Regular Jeans,Tommy Hilfiger,M,Red,3,3584,0,10752.0,4033.04,UPI,Delivered
+ORD10655,2025-01-12,Jan,Customer_655,Women,East,Bhubaneswar,Shoes,Sandals,Roadster,XL,Pink,5,3712,10,16704.0,3839.14,UPI,Delivered
+ORD10662,2025-09-23,Sep,Customer_662,Men,West,Mumbai,Shirts,Linen Shirt,Fastrack,M,Blue,5,4914,25,18427.5,1226.89,Card,Cancelled
+ORD10665,2025-09-25,Sep,Customer_665,Unisex,West,Ahmedabad,Caps,Baseball Cap,Tommy Hilfiger,S,Red,3,4908,20,11779.2,2056.16,UPI,Delivered
+ORD10668,2025-03-20,Mar,Customer_668,Men,South,Kochi,Bags,Handbag,Puma,S,Green,3,4051,15,10330.05,261.84,UPI,Returned
+ORD10670,2025-03-31,Mar,Customer_670,Men,North,Delhi,Dresses,Maxi Dress,Roadster,Free Size,Grey,5,3010,20,12040.0,4015.93,Wallet,Delivered
+ORD10671,2025-03-29,Mar,Customer_671,Unisex,North,Delhi,Bags,Laptop Bag,Tommy Hilfiger,Free Size,Pink,3,3690,5,10516.5,441.16,Net Banking,Cancelled
+ORD10672,2025-03-15,Mar,Customer_672,Women,South,Chennai,Shoes,Formal Shoes,Nike,M,Pink,4,2689,0,10756.0,771.84,Net Banking,Cancelled
+ORD10673,2025-05-22,May,Customer_673,Women,West,Ahmedabad,Shoes,Sandals,Puma,S,Green,4,4763,25,14289.0,4989.16,Net Banking,Delivered
+ORD10677,2025-05-29,May,Customer_677,Unisex,South,Bangalore,Watches,Analog Watch,Puma,Free Size,Pink,3,4456,10,12031.2,2271.91,Card,Delivered
+ORD10680,2025-06-03,Jun,Customer_680,Men,West,Ahmedabad,Bags,Handbag,Allen Solly,XL,Brown,3,4007,5,11419.95,2963.15,Card,Delivered
+ORD10682,2025-08-04,Aug,Customer_682,Women,East,Kolkata,Shoes,Sneakers,Allen Solly,XL,Pink,4,4558,30,12762.4,3793.64,Card,Delivered
+ORD10692,2025-02-04,Feb,Customer_692,Men,North,Chandigarh,Watches,Smart Watch,Allen Solly,M,Green,4,3931,20,12579.2,911.1,Card,Returned
+ORD10693,2025-07-23,Jul,Customer_693,Men,North,Jaipur,Bags,Backpack,Tommy Hilfiger,XL,Pink,4,4860,30,13608.0,3449.72,Wallet,Delivered
+ORD10700,2025-07-21,Jul,Customer_700,Men,South,Chennai,Bags,Backpack,Levis,XL,Pink,5,2037,0,10185.0,1602.26,UPI,Delivered
+ORD10702,2025-02-24,Feb,Customer_702,Men,North,Delhi,Bags,Handbag,Tommy Hilfiger,XL,Brown,5,3271,30,11448.5,3479.64,Card,Delivered
+ORD10703,2025-01-29,Jan,Customer_703,Men,South,Chennai,Bags,Laptop Bag,Allen Solly,S,Green,5,2690,25,10087.5,2636.26,UPI,Delivered
+ORD10704,2025-04-27,Apr,Customer_704,Men,South,Bangalore,Dresses,Maxi Dress,Nike,XL,Blue,4,3656,5,13892.8,2943.34,Net Banking,Delivered
+ORD10707,2025-07-19,Jul,Customer_707,Women,East,Bhubaneswar,Shirts,Casual Shirt,Zara,L,White,4,4418,30,12370.4,340.19,UPI,Returned
+ORD10708,2025-06-13,Jun,Customer_708,Unisex,West,Ahmedabad,Watches,Analog Watch,Zara,L,White,4,3971,15,13501.4,4054.33,Card,Delivered
+ORD10709,2025-09-30,Sep,Customer_709,Women,West,Indore,Dresses,Party Dress,Fastrack,Free Size,Red,5,2384,15,10132.0,287.22,UPI,Cancelled
+ORD10710,2025-07-05,Jul,Customer_710,Women,South,Bangalore,Jackets,Winter Jacket,Nike,L,White,5,4381,5,20809.75,7479.75,Cash,Delivered
+ORD10713,2025-09-28,Sep,Customer_713,Unisex,West,Pune,Dresses,Maxi Dress,Zara,S,Green,3,4350,15,11092.5,3414.99,UPI,Delivered
+ORD10714,2025-01-06,Jan,Customer_714,Unisex,South,Chennai,Shoes,Running Shoes,Nike,L,Green,4,3969,25,11907.0,4364.43,Card,Delivered
+ORD10716,2025-01-28,Jan,Customer_716,Men,West,Pune,Caps,Beanie,Roadster,L,Grey,3,3974,5,11325.9,2153.95,UPI,Delivered
+ORD10721,2025-05-29,May,Customer_721,Women,South,Hyderabad,Shoes,Formal Shoes,Allen Solly,M,Red,3,4028,0,12084.0,849.69,Wallet,Cancelled
+ORD10723,2025-10-23,Oct,Customer_723,Women,North,Lucknow,Shoes,Formal Shoes,Zara,L,Brown,3,3393,0,10179.0,281.95,Cash,Cancelled
+ORD10726,2025-04-25,Apr,Customer_726,Women,West,Mumbai,Bags,Travel Bag,Zara,Free Size,Brown,4,4285,25,12855.0,1855.12,UPI,Delivered
+ORD10727,2025-04-13,Apr,Customer_727,Women,West,Indore,Jeans,Slim Jeans,Adidas,M,Brown,4,3191,0,12764.0,516.93,UPI,Returned
+ORD10731,2025-12-23,Dec,Customer_731,Unisex,West,Pune,Watches,Smart Watch,Allen Solly,Free Size,Red,4,3404,25,10212.0,2739.7,UPI,Delivered
+ORD10737,2025-08-21,Aug,Customer_737,Men,South,Chennai,Shirts,Polo Shirt,Roadster,L,Brown,5,3620,0,18100.0,3092.31,Net Banking,Delivered
+ORD10739,2025-09-23,Sep,Customer_739,Women,South,Hyderabad,Shirts,Formal Shirt,Nike,M,Pink,5,3099,10,13945.5,458.27,Card,Returned
+ORD10748,2025-09-11,Sep,Customer_748,Men,East,Guwahati,Jeans,Regular Jeans,Fastrack,M,Green,4,4698,15,15973.2,5747.33,Net Banking,Delivered
+ORD10749,2025-04-16,Apr,Customer_749,Women,East,Bhubaneswar,Jeans,Cargo Jeans,Tommy Hilfiger,L,Blue,4,4049,15,13766.6,633.74,Wallet,Cancelled
+ORD10764,2025-01-15,Jan,Customer_764,Unisex,South,Hyderabad,Jackets,Denim Jacket,Allen Solly,S,Grey,4,4848,15,16483.2,3486.34,Net Banking,Delivered
+ORD10771,2025-06-21,Jun,Customer_771,Women,North,Lucknow,Shoes,Sneakers,Adidas,XL,Green,4,4518,25,13554.0,572.53,Cash,Returned
+ORD10772,2025-09-23,Sep,Customer_772,Unisex,East,Patna,Caps,Baseball Cap,Puma,S,White,5,4466,0,22330.0,849.36,Net Banking,Returned
+ORD10774,2025-06-19,Jun,Customer_774,Unisex,East,Patna,Caps,Snapback Cap,Zara,Free Size,Grey,4,3917,10,14101.2,2826.22,Wallet,Delivered
+ORD10780,2025-10-18,Oct,Customer_780,Men,North,Lucknow,Jackets,Winter Jacket,Levis,M,Brown,4,4970,5,18886.0,4112.45,Cash,Delivered
+ORD10781,2025-08-04,Aug,Customer_781,Women,West,Indore,Watches,Smart Watch,Puma,S,White,4,4277,0,17108.0,6112.09,Wallet,Delivered
+ORD10782,2025-11-14,Nov,Customer_782,Men,East,Bhubaneswar,Bags,Handbag,Tommy Hilfiger,XL,Black,5,2902,0,14510.0,4590.78,Net Banking,Delivered
+ORD10789,2025-01-06,Jan,Customer_789,Unisex,North,Chandigarh,Shirts,Polo Shirt,Allen Solly,XL,Black,5,2979,0,14895.0,857.14,Cash,Cancelled
+ORD10802,2025-01-19,Jan,Customer_802,Women,North,Delhi,Caps,Baseball Cap,Levis,L,Red,4,4657,5,17696.6,5115.87,UPI,Delivered
+ORD10809,2025-12-24,Dec,Customer_809,Women,North,Jaipur,Watches,Sports Watch,Zara,L,Pink,4,4216,0,16864.0,2117.03,Cash,Delivered
+ORD10810,2025-01-10,Jan,Customer_810,Women,West,Indore,Jeans,Slim Jeans,Levis,M,Pink,4,3650,15,12410.0,1632.51,Wallet,Delivered
+ORD10812,2025-10-01,Oct,Customer_812,Women,West,Ahmedabad,Shirts,Formal Shirt,Fastrack,M,Pink,4,3971,20,12707.2,780.22,Net Banking,Returned
+ORD10814,2025-06-07,Jun,Customer_814,Women,North,Delhi,Bags,Laptop Bag,Tommy Hilfiger,XL,Black,5,3128,30,10948.0,2066.7,Net Banking,Delivered
+ORD10817,2025-01-22,Jan,Customer_817,Women,West,Ahmedabad,Shirts,Casual Shirt,Fastrack,S,Grey,5,2366,0,11830.0,4346.85,Wallet,Delivered
+ORD10829,2025-04-29,Apr,Customer_829,Unisex,East,Kolkata,Watches,Smart Watch,Zara,Free Size,Pink,3,4540,10,12258.0,324.97,Cash,Returned
+ORD10838,2025-09-08,Sep,Customer_838,Men,East,Guwahati,Shoes,Formal Shoes,H&M,S,Green,4,3424,20,10956.8,2684.96,Net Banking,Delivered
+ORD10848,2025-05-26,May,Customer_848,Unisex,East,Guwahati,Jeans,Slim Jeans,Roadster,XL,Grey,5,4649,5,22082.75,4845.53,Wallet,Delivered
+ORD10849,2025-04-29,Apr,Customer_849,Women,North,Chandigarh,Jeans,Regular Jeans,H&M,L,White,4,3528,15,11995.2,639.15,UPI,Cancelled
+ORD10852,2025-06-14,Jun,Customer_852,Unisex,East,Bhubaneswar,Caps,Snapback Cap,Allen Solly,S,Blue,4,4455,20,14256.0,753.43,Net Banking,Cancelled
+ORD10859,2025-03-06,Mar,Customer_859,Unisex,East,Kolkata,Jackets,Winter Jacket,Zara,L,Brown,5,3636,10,16362.0,882.47,Card,Returned
+ORD10872,2025-06-01,Jun,Customer_872,Unisex,South,Chennai,Jackets,Denim Jacket,Levis,L,Grey,3,4100,10,11070.0,1594.38,Wallet,Delivered
+ORD10874,2025-04-22,Apr,Customer_874,Unisex,South,Hyderabad,Bags,Backpack,Fastrack,M,Brown,4,2635,0,10540.0,758.25,Card,Returned
+ORD10879,2025-06-27,Jun,Customer_879,Men,East,Bhubaneswar,Watches,Analog Watch,Adidas,M,White,4,3742,5,14219.6,681.84,Cash,Cancelled
+ORD10881,2025-08-30,Aug,Customer_881,Women,West,Pune,Jeans,Regular Jeans,Fastrack,M,Grey,4,4295,25,12885.0,2359.41,Card,Delivered
+ORD10886,2025-12-01,Dec,Customer_886,Women,North,Chandigarh,Dresses,Casual Dress,Allen Solly,S,Brown,4,3959,30,11085.2,1487.33,Wallet,Delivered
+ORD10887,2025-04-02,Apr,Customer_887,Men,East,Kolkata,Watches,Smart Watch,Puma,M,Black,4,4854,30,13591.2,597.2,Cash,Cancelled
+ORD10888,2025-01-25,Jan,Customer_888,Women,West,Indore,Bags,Handbag,Fastrack,L,Black,4,2806,0,11224.0,1701.6,Wallet,Delivered
+ORD10889,2025-01-13,Jan,Customer_889,Men,East,Patna,Watches,Smart Watch,Roadster,XL,Grey,5,2688,5,12768.0,2505.62,Cash,Delivered
+ORD10893,2025-07-11,Jul,Customer_893,Women,South,Bangalore,Bags,Laptop Bag,Tommy Hilfiger,M,Green,5,4373,5,20771.75,6600.99,Wallet,Delivered
+ORD10900,2025-08-03,Aug,Customer_900,Men,East,Bhubaneswar,Dresses,Casual Dress,Roadster,L,Pink,5,2783,10,12523.5,802.33,Card,Cancelled
+ORD10905,2025-04-01,Apr,Customer_905,Women,West,Pune,Jackets,Bomber Jacket,Tommy Hilfiger,M,Red,4,4596,25,13788.0,410.61,Net Banking,Returned
+ORD10908,2025-07-07,Jul,Customer_908,Men,North,Jaipur,Jeans,Slim Jeans,Levis,L,Blue,4,3282,5,12471.6,4457.02,Cash,Delivered
+ORD10909,2025-06-25,Jun,Customer_909,Women,South,Hyderabad,Jeans,Regular Jeans,Allen Solly,Free Size,Green,3,4141,10,11180.7,726.11,Wallet,Cancelled
+ORD10911,2025-03-17,Mar,Customer_911,Men,South,Chennai,Caps,Snapback Cap,Levis,S,Red,5,2893,30,10125.5,445.32,Wallet,Cancelled
+ORD10912,2025-07-06,Jul,Customer_912,Women,North,Lucknow,Bags,Handbag,Tommy Hilfiger,M,Grey,5,4732,15,20111.0,4907.35,Wallet,Delivered
+ORD10913,2025-03-31,Mar,Customer_913,Women,South,Kochi,Watches,Smart Watch,Allen Solly,M,Green,4,3610,0,14440.0,4243.54,Card,Delivered
+ORD10914,2025-07-02,Jul,Customer_914,Unisex,North,Jaipur,Jackets,Denim Jacket,Levis,Free Size,Red,4,4261,20,13635.2,4871.89,Card,Delivered
+ORD10919,2025-10-29,Oct,Customer_919,Unisex,West,Pune,Shirts,Linen Shirt,Adidas,L,Brown,5,4236,0,21180.0,3927.92,Card,Delivered
+ORD10920,2025-05-16,May,Customer_920,Unisex,East,Patna,Watches,Sports Watch,Allen Solly,L,Brown,5,2538,10,11421.0,437.6,UPI,Returned
+ORD10922,2025-06-07,Jun,Customer_922,Men,South,Chennai,Shoes,Sneakers,Adidas,L,Red,5,3000,10,13500.0,4310.14,Wallet,Delivered
+ORD10927,2025-01-24,Jan,Customer_927,Unisex,West,Indore,Jackets,Denim Jacket,Puma,XL,Black,4,4488,5,17054.4,657.74,UPI,Returned
+ORD10929,2025-05-06,May,Customer_929,Unisex,North,Chandigarh,Bags,Handbag,Fastrack,L,Black,3,4976,30,10449.6,609.8,Card,Returned
+ORD10934,2025-07-25,Jul,Customer_934,Men,West,Mumbai,Watches,Smart Watch,Fastrack,S,Red,5,2905,0,14525.0,4098.36,Cash,Delivered
+ORD10938,2025-08-17,Aug,Customer_938,Unisex,West,Mumbai,Caps,Snapback Cap,H&M,S,Blue,4,3769,5,14322.2,2484.39,Card,Delivered
+ORD10946,2025-03-07,Mar,Customer_946,Unisex,West,Ahmedabad,Shirts,Polo Shirt,Allen Solly,S,Brown,3,4922,10,13289.4,980.21,Net Banking,Cancelled
+ORD10948,2025-03-09,Mar,Customer_948,Unisex,West,Ahmedabad,Shoes,Formal Shoes,Puma,S,Pink,3,3956,10,10681.2,623.6,UPI,Returned
+ORD10951,2025-12-09,Dec,Customer_951,Women,West,Mumbai,Watches,Smart Watch,Fastrack,S,White,3,4751,10,12827.7,1749.83,UPI,Delivered
+ORD10955,2025-09-25,Sep,Customer_955,Women,East,Guwahati,Bags,Backpack,Roadster,S,Blue,4,4402,15,14966.8,609.75,Cash,Cancelled
+ORD10958,2025-09-24,Sep,Customer_958,Women,North,Delhi,Shoes,Formal Shoes,Puma,M,Brown,3,4793,0,14379.0,922.07,Cash,Returned
+ORD10960,2025-02-15,Feb,Customer_960,Women,South,Bangalore,Shoes,Sandals,Levis,XL,Pink,5,3469,5,16477.75,1140.37,UPI,Cancelled
+ORD10961,2025-08-03,Aug,Customer_961,Women,East,Patna,Jeans,Regular Jeans,Levis,M,Brown,3,3420,0,10260.0,253.14,Card,Cancelled
+ORD10962,2025-10-15,Oct,Customer_962,Women,North,Chandigarh,Dresses,Casual Dress,Levis,S,Blue,5,3577,20,14308.0,729.51,Wallet,Cancelled
+ORD10963,2025-07-04,Jul,Customer_963,Men,North,Jaipur,Jeans,Cargo Jeans,Adidas,L,Brown,5,3954,30,13839.0,615.49,Net Banking,Cancelled
+ORD10973,2025-09-17,Sep,Customer_973,Men,South,Bangalore,Shoes,Formal Shoes,H&M,L,Red,4,4884,10,17582.4,517.8,Net Banking,Returned
+ORD10976,2025-04-30,Apr,Customer_976,Unisex,East,Patna,Caps,Beanie,Fastrack,Free Size,Grey,5,4660,15,19805.0,623.86,UPI,Returned
+ORD10978,2025-02-18,Feb,Customer_978,Women,East,Kolkata,Shirts,Linen Shirt,Adidas,M,Grey,4,3672,30,10281.6,464.67,Card,Cancelled
+ORD10986,2025-04-12,Apr,Customer_986,Women,South,Kochi,Jackets,Winter Jacket,Puma,S,Brown,3,3991,15,10177.05,2372.64,UPI,Delivered
+ORD10988,2025-04-07,Apr,Customer_988,Women,East,Guwahati,Shirts,Formal Shirt,Nike,Free Size,White,3,4904,0,14712.0,983.27,Wallet,Cancelled
+ORD10997,2025-03-20,Mar,Customer_997,Men,West,Indore,Caps,Baseball Cap,Nike,L,Brown,3,4640,0,13920.0,497.11,UPI,Cancelled
+ORD10998,2025-03-15,Mar,Customer_998,Women,East,Bhubaneswar,Caps,Baseball Cap,H&M,Free Size,Black,5,3100,0,15500.0,2308.8,Wallet,Delivered
+ORD11000,2025-05-25,May,Customer_1000,Unisex,West,Indore,Shirts,Formal Shirt,Nike,XL,Green,5,3667,15,15584.75,5558.5,Cash,Delivered
