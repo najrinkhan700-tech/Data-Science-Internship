@@ -97,10 +97,10 @@ This repository contains my daily tasks and projects completed during the Data S
 ---
 # Day 6 - Data Filtering using Pandas
 
-## 📌 Objective
+## Objective
 Learned how to filter, select, and sort data using the Pandas library.
 
-## 📚 Topics Covered
+## Topics Covered
 - Selecting single and multiple columns
 - Filtering rows with conditions
 - Multiple conditions using `&` and `|`
@@ -110,19 +110,49 @@ Learned how to filter, select, and sort data using the Pandas library.
 - Finding top and bottom records using `nlargest()` and `nsmallest()`
 - Exporting filtered data to a CSV file
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python
 - Pandas
 - Jupyter Notebook
 
-## 📂 Files
+##  Files
 - `DataFiltering.ipynb`
 - `SalesDataset.csv`
 - `Filtered_Data.csv`
 
-## 🎯 Outcome
+##  Outcome
 Successfully filtered and sorted the dataset using different Pandas operations and generated a filtered dataset for further analysis.
 
+
+
+# Day 7 – Data Analysis using Pandas
+
+## Objective
+Perform basic data analysis on a sales dataset using Pandas to generate business insights.
+
+## Topics Covered
+- Reading CSV files
+- Data Exploration
+- Sum (Total)
+- Mean (Average)
+- Minimum Value
+- Maximum Value
+- Count
+- Value Counts
+- Descriptive Statistics
+
+## Tasks Performed
+- Loaded the sales dataset using Pandas.
+- Calculated total sales.
+- Found average sales.
+- Identified minimum and maximum values.
+- Counted total records and non-null values.
+- Generated basic statistical summary using `describe()`.
+- Analyzed categorical data using `value_counts()`.
+
+
+## Outcome
+Successfully performed basic data analysis and generated meaningful business insights from the dataset.
 ---
 
 ## Author
