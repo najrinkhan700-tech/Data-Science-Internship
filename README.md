@@ -1,3 +1,4 @@
+
 # Data Science Internship
 
 This repository contains my daily tasks and projects completed during the Data Science Internship at Codomax Digital Solutions.
@@ -153,6 +154,25 @@ Perform basic data analysis on a sales dataset using Pandas to generate business
 
 ## Outcome
 Successfully performed basic data analysis and generated meaningful business insights from the dataset.
+
+## Day 8 – Data Visualization using Matplotlib
+
+### Topics Covered
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Data Visualization Basics
+- Chart Customization
+
+### Files
+- DataVisualization.ipynb
+- SalesDataset.csv
+- bar_chart.png
+- line_chart.png
+- pie_chart.png
+
+### Outcome
+Created different types of charts using Matplotlib to visualize sales data and understand business trends.
 ---
 
 ## Author
