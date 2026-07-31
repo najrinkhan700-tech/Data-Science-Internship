@@ -173,6 +173,24 @@ Successfully performed basic data analysis and generated meaningful business ins
 
 ### Outcome
 Created different types of charts using Matplotlib to visualize sales data and understand business trends.
+
+
+## Day 9 – Mini Dashboard using Pandas & Matplotlib
+
+### Topics Covered
+- KPI Analysis
+- Total, Average, Minimum and Maximum Sales
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Dashboard Creation in Jupyter Notebook
+
+### Files
+- Dashboard.ipynb
+- SalesDataset.csv
+
+### Outcome
+Built a mini sales dashboard by combining business analysis and data visualizations into a single Jupyter Notebook.
 ---
 
 ## Author
