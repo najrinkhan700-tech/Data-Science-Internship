@@ -191,6 +191,24 @@ Created different types of charts using Matplotlib to visualize sales data and u
 
 ### Outcome
 Built a mini sales dashboard by combining business analysis and data visualizations into a single Jupyter Notebook.
+
+
+## Day 10 – Export Cleaned Dataset
+
+### Topics Covered
+- Reading CSV files using Pandas
+- Cleaning the dataset
+- Removing missing values
+- Removing duplicate records
+- Exporting cleaned data to a new CSV file
+
+### Files
+- DataExport.ipynb
+- SalesDataset.csv
+- Cleaned_SalesDataset.csv
+
+### Outcome
+Successfully cleaned the dataset and exported it as a new CSV file using Pandas.
 ---
 
 ## Author
