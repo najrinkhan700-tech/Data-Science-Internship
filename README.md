@@ -209,6 +209,18 @@ Built a mini sales dashboard by combining business analysis and data visualizati
 
 ### Outcome
 Successfully cleaned the dataset and exported it as a new CSV file using Pandas.
+
+## Day 11 – Business Insights
+
+### Key Observations
+- Highest selling category: Electronics
+- Top performing region: North
+- Most preferred payment method: UPI
+- Average order value calculated successfully
+- Dataset analyzed to generate business insights
+
+### Outcome
+Successfully generated business insights from the sales dataset using Pandas.
 ---
 
 ## Author
