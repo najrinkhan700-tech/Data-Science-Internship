@@ -242,6 +242,18 @@ Successfully generated business insights from the sales dataset using Pandas.
 
 ### Outcome
 Successfully improved the notebook by organizing the code, adding comments, improving chart formatting, and making the notebook professional and easy to understand.
+
+## Day 13 – GitHub Project Upload
+
+### Tasks Completed
+- Uploaded Jupyter Notebooks
+- Uploaded Datasets
+- Uploaded Charts
+- Updated README.md
+- Organized GitHub Repository
+
+### Outcome
+Successfully uploaded the complete Data Science Internship project to GitHub with all notebooks, datasets, charts, and documentation.
 ---
 
 ## Author
