@@ -1,256 +1,960 @@
-Order ID,Order Date,Month,Customer Name,Gender,Region,City,Category,Product Name,Brand,Size,Color,Units Sold,Unit Price,Discount %,Total Sales,Profit,Payment Mode,Delivery Status
-ORD10007,2025-12-02,Dec,Customer_7,Men,East,Bhubaneswar,Bags,Backpack,H&M,M,Green,4,3740,25,11220.0,2684.96,Wallet,Delivered
-ORD10008,2025-03-12,Mar,Customer_8,Men,East,Bhubaneswar,Dresses,Casual Dress,Roadster,M,Pink,5,4541,0,22705.0,7186.21,Wallet,Delivered
-ORD10018,2025-08-05,Aug,Customer_18,Men,West,Ahmedabad,Shirts,Linen Shirt,Levis,Free Size,Black,5,4485,5,21303.75,3608.29,Cash,Delivered
-ORD10020,2025-08-03,Aug,Customer_20,Unisex,North,Delhi,Jackets,Bomber Jacket,Tommy Hilfiger,L,Red,5,4781,10,21514.5,7810.27,Cash,Delivered
-ORD10031,2025-06-03,Jun,Customer_31,Unisex,East,Kolkata,Jeans,Cargo Jeans,Puma,L,White,5,3032,25,11370.0,2571.69,Card,Delivered
-ORD10036,2025-11-10,Nov,Customer_36,Men,East,Guwahati,Caps,Baseball Cap,Allen Solly,XL,Brown,5,3994,30,13979.0,4973.48,Cash,Delivered
-ORD10038,2025-02-02,Feb,Customer_38,Men,South,Chennai,Shoes,Sneakers,Roadster,M,Pink,4,3838,10,13816.8,3607.27,Net Banking,Delivered
-ORD10039,2025-06-02,Jun,Customer_39,Unisex,North,Lucknow,Shirts,Linen Shirt,Allen Solly,M,Brown,4,3931,20,12579.2,790.86,Card,Returned
-ORD10044,2025-10-22,Oct,Customer_44,Unisex,North,Lucknow,Bags,Backpack,Tommy Hilfiger,M,Blue,4,3748,25,11244.0,385.82,Cash,Returned
-ORD10046,2025-04-01,Apr,Customer_46,Women,South,Kochi,Watches,Sports Watch,Allen Solly,XL,Pink,5,2711,20,10844.0,715.99,Wallet,Returned
-ORD10051,2025-10-29,Oct,Customer_51,Men,West,Ahmedabad,Shoes,Sneakers,H&M,L,White,5,2817,0,14085.0,4739.37,Cash,Delivered
-ORD10056,2025-12-28,Dec,Customer_56,Unisex,South,Hyderabad,Caps,Beanie,Nike,Free Size,Red,3,4218,0,12654.0,3780.0,Net Banking,Delivered
-ORD10058,2025-09-14,Sep,Customer_58,Women,West,Ahmedabad,Jeans,Regular Jeans,Levis,L,Green,5,4544,15,19312.0,2721.35,UPI,Delivered
-ORD10062,2025-04-15,Apr,Customer_62,Unisex,West,Mumbai,Watches,Sports Watch,Allen Solly,XL,Blue,3,4998,5,14244.3,5144.97,UPI,Delivered
-ORD10073,2025-01-12,Jan,Customer_73,Unisex,East,Patna,Dresses,Casual Dress,Puma,S,Brown,4,2747,0,10988.0,587.07,Cash,Cancelled
-ORD10078,2025-12-25,Dec,Customer_78,Women,North,Chandigarh,Watches,Sports Watch,H&M,XL,Blue,3,3843,0,11529.0,1802.47,UPI,Delivered
-ORD10079,2025-07-09,Jul,Customer_79,Women,West,Indore,Jackets,Bomber Jacket,Zara,S,Brown,5,3932,20,15728.0,4922.71,Wallet,Delivered
-ORD10086,2025-09-16,Sep,Customer_86,Unisex,East,Guwahati,Watches,Smart Watch,Tommy Hilfiger,Free Size,Red,5,4023,0,20115.0,6561.61,Net Banking,Delivered
-ORD10089,2025-11-04,Nov,Customer_89,Men,North,Lucknow,Watches,Sports Watch,Roadster,XL,Red,3,3379,0,10137.0,2739.61,UPI,Delivered
-ORD10092,2025-08-03,Aug,Customer_92,Women,South,Kochi,Shirts,Formal Shirt,Fastrack,Free Size,Blue,4,3291,5,12505.8,540.79,UPI,Cancelled
-ORD10093,2025-05-20,May,Customer_93,Women,North,Delhi,Shoes,Sneakers,Tommy Hilfiger,M,Blue,4,3972,15,13504.8,3752.17,Cash,Delivered
-ORD10102,2025-11-06,Nov,Customer_102,Men,South,Hyderabad,Shirts,Linen Shirt,Tommy Hilfiger,L,Blue,4,4606,5,17502.8,6458.67,Wallet,Delivered
-ORD10104,2025-10-13,Oct,Customer_104,Unisex,East,Kolkata,Shirts,Polo Shirt,Adidas,M,Grey,4,2826,10,10173.6,627.04,UPI,Cancelled
-ORD10106,2025-04-20,Apr,Customer_106,Men,East,Bhubaneswar,Watches,Analog Watch,Puma,S,Green,3,4482,5,12773.7,2285.23,UPI,Delivered
-ORD10113,2025-05-03,May,Customer_113,Unisex,North,Delhi,Bags,Handbag,Levis,Free Size,Black,4,4243,0,16972.0,2525.82,Wallet,Delivered
-ORD10114,2025-01-01,Jan,Customer_114,Unisex,East,Guwahati,Jackets,Bomber Jacket,Zara,S,Grey,5,3389,5,16097.75,4320.19,UPI,Delivered
-ORD10116,2025-12-17,Dec,Customer_116,Men,East,Bhubaneswar,Shirts,Polo Shirt,Fastrack,XL,Black,4,4419,25,13257.0,2219.12,Cash,Delivered
-ORD10117,2025-06-08,Jun,Customer_117,Men,North,Lucknow,Jackets,Denim Jacket,H&M,M,Green,5,3761,30,13163.5,3438.15,Cash,Delivered
-ORD10118,2025-08-12,Aug,Customer_118,Women,North,Lucknow,Shirts,Polo Shirt,Levis,XL,Grey,4,4101,15,13943.4,2902.31,Wallet,Delivered
-ORD10120,2025-01-22,Jan,Customer_120,Men,East,Guwahati,Dresses,Maxi Dress,Allen Solly,XL,Grey,3,4062,10,10967.4,3139.55,Wallet,Delivered
-ORD10123,2025-05-15,May,Customer_123,Unisex,West,Mumbai,Shirts,Casual Shirt,Allen Solly,XL,Red,3,4154,5,11838.9,4487.59,UPI,Delivered
-ORD10126,2025-09-27,Sep,Customer_126,Women,West,Indore,Jeans,Slim Jeans,Levis,S,Brown,4,3853,30,10788.4,2907.19,Net Banking,Delivered
-ORD10133,2025-09-13,Sep,Customer_133,Men,South,Chennai,Watches,Sports Watch,Puma,S,Pink,5,4323,15,18372.75,6404.0,Wallet,Delivered
-ORD10134,2025-01-26,Jan,Customer_134,Unisex,East,Kolkata,Caps,Baseball Cap,H&M,XL,Green,3,4553,20,10927.2,763.61,Wallet,Cancelled
-ORD10135,2025-07-07,Jul,Customer_135,Unisex,South,Hyderabad,Shirts,Formal Shirt,Roadster,M,Grey,4,3496,0,13984.0,626.91,Wallet,Returned
-ORD10138,2025-07-21,Jul,Customer_138,Unisex,East,Bhubaneswar,Shoes,Formal Shoes,Tommy Hilfiger,XL,Green,5,2950,20,11800.0,489.6,Net Banking,Returned
-ORD10141,2025-09-14,Sep,Customer_141,Men,South,Kochi,Dresses,Maxi Dress,Roadster,M,Red,5,4362,30,15267.0,1039.92,Wallet,Cancelled
-ORD10142,2025-03-30,Mar,Customer_142,Unisex,West,Ahmedabad,Watches,Sports Watch,Allen Solly,L,Brown,4,4866,10,17517.6,918.03,Card,Cancelled
-ORD10148,2025-05-26,May,Customer_148,Unisex,North,Lucknow,Shirts,Polo Shirt,Tommy Hilfiger,XL,Green,4,4949,20,15836.8,3934.13,Card,Delivered
-ORD10150,2025-03-13,Mar,Customer_150,Men,North,Jaipur,Watches,Analog Watch,Roadster,XL,Green,4,3149,5,11966.2,1457.19,Cash,Delivered
-ORD10156,2025-03-11,Mar,Customer_156,Women,West,Pune,Caps,Baseball Cap,Levis,S,White,4,3566,15,12124.4,2868.87,Cash,Delivered
-ORD10161,2025-12-23,Dec,Customer_161,Unisex,West,Ahmedabad,Caps,Baseball Cap,Puma,XL,Red,4,3843,5,14603.4,2891.05,Card,Delivered
-ORD10162,2025-08-02,Aug,Customer_162,Men,North,Chandigarh,Bags,Handbag,Allen Solly,L,Blue,5,4840,5,22990.0,5080.54,Net Banking,Delivered
-ORD10167,2025-09-13,Sep,Customer_167,Unisex,West,Pune,Jackets,Winter Jacket,H&M,XL,Brown,5,3264,10,14688.0,4677.74,Card,Delivered
-ORD10169,2025-04-22,Apr,Customer_169,Unisex,South,Bangalore,Shoes,Sneakers,Adidas,Free Size,Brown,5,4234,10,19053.0,517.16,Net Banking,Cancelled
-ORD10170,2025-01-09,Jan,Customer_170,Unisex,West,Mumbai,Shirts,Formal Shirt,Fastrack,XL,White,5,2749,20,10996.0,4114.09,UPI,Delivered
-ORD10176,2025-01-16,Jan,Customer_176,Women,West,Ahmedabad,Watches,Sports Watch,Tommy Hilfiger,XL,White,3,4189,15,10681.95,383.09,Wallet,Returned
-ORD10180,2025-06-04,Jun,Customer_180,Women,South,Hyderabad,Shoes,Sandals,Zara,XL,Green,3,4538,5,12933.3,1764.74,Net Banking,Delivered
-ORD10185,2025-10-26,Oct,Customer_185,Women,West,Indore,Dresses,Party Dress,Adidas,Free Size,Black,4,4876,20,15603.2,1123.77,Cash,Cancelled
-ORD10195,2025-04-10,Apr,Customer_195,Women,West,Pune,Shirts,Polo Shirt,Nike,XL,Brown,4,4639,25,13917.0,692.21,Net Banking,Cancelled
-ORD10199,2025-09-30,Sep,Customer_199,Women,North,Lucknow,Shoes,Sneakers,H&M,L,Green,3,4912,5,13999.2,571.59,Wallet,Cancelled
-ORD10208,2025-03-05,Mar,Customer_208,Men,North,Jaipur,Caps,Baseball Cap,Adidas,M,Green,5,3644,10,16398.0,6074.55,UPI,Delivered
-ORD10214,2025-06-27,Jun,Customer_214,Men,South,Kochi,Shirts,Casual Shirt,Nike,L,White,5,4736,30,16576.0,5533.93,Cash,Delivered
-ORD10219,2025-02-14,Feb,Customer_219,Unisex,East,Patna,Jeans,Regular Jeans,Levis,L,Red,5,4240,0,21200.0,4577.48,Net Banking,Delivered
-ORD10226,2025-10-12,Oct,Customer_226,Men,West,Indore,Bags,Handbag,Nike,S,Black,5,2545,0,12725.0,3055.67,Card,Delivered
-ORD10228,2025-03-28,Mar,Customer_228,Men,West,Mumbai,Watches,Analog Watch,Nike,XL,Pink,5,4047,30,14164.5,4367.65,Card,Delivered
-ORD10231,2025-10-17,Oct,Customer_231,Women,West,Ahmedabad,Watches,Smart Watch,Fastrack,Free Size,Red,5,3133,15,13315.25,2534.07,UPI,Delivered
-ORD10240,2025-09-03,Sep,Customer_240,Women,West,Mumbai,Caps,Beanie,Puma,S,Grey,5,2346,5,11143.5,2644.74,Cash,Delivered
-ORD10250,2025-03-30,Mar,Customer_250,Unisex,West,Mumbai,Bags,Travel Bag,Allen Solly,XL,Black,3,3800,5,10830.0,608.09,Net Banking,Cancelled
-ORD10254,2025-08-26,Aug,Customer_254,Men,East,Patna,Shirts,Polo Shirt,H&M,M,Grey,5,3750,25,14062.5,1012.5,Net Banking,Cancelled
-ORD10265,2025-11-21,Nov,Customer_265,Men,South,Kochi,Shoes,Sandals,Adidas,S,Red,4,3803,15,12930.2,4796.91,Cash,Delivered
-ORD10267,2025-05-29,May,Customer_267,Unisex,North,Lucknow,Bags,Handbag,Adidas,M,Grey,4,4761,20,15235.2,3904.33,Net Banking,Delivered
-ORD10272,2025-12-19,Dec,Customer_272,Men,West,Pune,Shoes,Running Shoes,Fastrack,S,Brown,4,3207,5,12186.6,294.21,Card,Cancelled
-ORD10275,2025-02-28,Feb,Customer_275,Unisex,East,Bhubaneswar,Bags,Backpack,Puma,XL,Pink,4,3777,15,12841.8,2448.63,Card,Delivered
-ORD10276,2025-08-02,Aug,Customer_276,Men,South,Bangalore,Jeans,Slim Jeans,Nike,Free Size,Pink,5,4453,30,15585.5,4175.75,Cash,Delivered
-ORD10280,2025-09-13,Sep,Customer_280,Unisex,West,Mumbai,Jeans,Regular Jeans,Allen Solly,S,Blue,4,3088,0,12352.0,926.34,Net Banking,Cancelled
-ORD10281,2025-11-06,Nov,Customer_281,Unisex,North,Delhi,Dresses,Maxi Dress,Fastrack,XL,Grey,5,2994,20,11976.0,637.62,Cash,Cancelled
-ORD10282,2025-12-03,Dec,Customer_282,Men,East,Guwahati,Shirts,Casual Shirt,Allen Solly,S,Grey,3,4206,0,12618.0,366.76,Cash,Cancelled
-ORD10287,2025-04-18,Apr,Customer_287,Men,South,Chennai,Watches,Sports Watch,Fastrack,M,Grey,5,2879,25,10796.25,452.96,UPI,Cancelled
-ORD10290,2025-07-15,Jul,Customer_290,Unisex,East,Kolkata,Dresses,Maxi Dress,Fastrack,S,Black,4,3911,30,10950.8,4092.47,Cash,Delivered
-ORD10298,2025-04-16,Apr,Customer_298,Unisex,West,Mumbai,Jackets,Bomber Jacket,H&M,M,Black,5,4064,25,15240.0,5065.11,Net Banking,Delivered
-ORD10301,2025-08-13,Aug,Customer_301,Men,North,Lucknow,Jeans,Regular Jeans,Levis,Free Size,Red,4,3735,30,10458.0,3051.52,Card,Delivered
-ORD10308,2025-10-25,Oct,Customer_308,Unisex,North,Delhi,Jeans,Cargo Jeans,Adidas,L,Brown,5,3817,30,13359.5,3652.61,Card,Delivered
-ORD10309,2025-08-26,Aug,Customer_309,Men,East,Bhubaneswar,Watches,Smart Watch,H&M,M,White,5,4680,0,23400.0,1044.41,Wallet,Returned
-ORD10312,2025-09-22,Sep,Customer_312,Women,East,Kolkata,Shoes,Sandals,Roadster,XL,Brown,3,3581,5,10205.85,2594.91,Wallet,Delivered
-ORD10313,2025-02-09,Feb,Customer_313,Women,South,Chennai,Shirts,Casual Shirt,Allen Solly,Free Size,Blue,5,2799,5,13295.25,2114.78,Card,Delivered
-ORD10321,2025-10-02,Oct,Customer_321,Women,East,Patna,Jeans,Slim Jeans,Roadster,M,Pink,4,3494,20,11180.8,428.55,Wallet,Cancelled
-ORD10322,2025-06-07,Jun,Customer_322,Men,West,Ahmedabad,Caps,Baseball Cap,Puma,S,Red,5,3319,30,11616.5,704.96,Net Banking,Cancelled
-ORD10325,2025-04-14,Apr,Customer_325,Unisex,West,Mumbai,Shirts,Casual Shirt,Allen Solly,Free Size,Red,5,2841,5,13494.75,347.46,Wallet,Returned
-ORD10334,2025-03-03,Mar,Customer_334,Unisex,South,Kochi,Shirts,Polo Shirt,Roadster,M,Pink,5,4267,10,19201.5,5744.99,Wallet,Delivered
-ORD10336,2025-07-25,Jul,Customer_336,Unisex,East,Patna,Dresses,Maxi Dress,Roadster,M,Blue,3,4191,5,11944.35,641.57,Cash,Returned
-ORD10351,2025-04-22,Apr,Customer_351,Women,North,Chandigarh,Jackets,Denim Jacket,Zara,XL,Black,3,3941,10,10640.7,3450.66,Cash,Delivered
-ORD10352,2025-02-06,Feb,Customer_352,Women,East,Guwahati,Jeans,Slim Jeans,Nike,S,Blue,5,4350,5,20662.5,3512.01,Card,Delivered
-ORD10356,2025-12-18,Dec,Customer_356,Women,West,Mumbai,Jeans,Slim Jeans,Zara,M,Blue,5,3271,30,11448.5,3234.6,Card,Delivered
-ORD10359,2025-01-01,Jan,Customer_359,Unisex,East,Guwahati,Bags,Laptop Bag,Fastrack,L,Red,5,3604,25,13515.0,2273.75,Cash,Delivered
-ORD10364,2025-02-24,Feb,Customer_364,Women,South,Kochi,Jackets,Bomber Jacket,H&M,S,White,5,3431,25,12866.25,615.69,Card,Cancelled
-ORD10366,2025-08-20,Aug,Customer_366,Unisex,East,Patna,Jackets,Winter Jacket,Fastrack,S,White,4,3751,0,15004.0,4633.86,Cash,Delivered
-ORD10367,2025-01-12,Jan,Customer_367,Men,South,Hyderabad,Shirts,Polo Shirt,H&M,S,Black,3,4687,20,11248.8,603.78,Net Banking,Returned
-ORD10371,2025-11-01,Nov,Customer_371,Women,West,Indore,Jackets,Denim Jacket,Nike,M,White,5,4633,0,23165.0,4117.4,Cash,Delivered
-ORD10376,2025-04-18,Apr,Customer_376,Unisex,North,Lucknow,Bags,Travel Bag,Allen Solly,XL,White,5,2234,5,10611.5,2780.96,UPI,Delivered
-ORD10378,2025-01-10,Jan,Customer_378,Unisex,East,Kolkata,Jeans,Regular Jeans,Levis,S,Grey,3,3665,5,10445.25,782.86,Net Banking,Returned
-ORD10381,2025-09-24,Sep,Customer_381,Women,North,Chandigarh,Dresses,Casual Dress,Zara,L,Grey,5,2362,15,10038.5,1831.96,Net Banking,Delivered
-ORD10384,2025-01-14,Jan,Customer_384,Unisex,South,Chennai,Shoes,Sneakers,Adidas,M,Red,5,2685,20,10740.0,2872.21,UPI,Delivered
-ORD10387,2025-06-10,Jun,Customer_387,Men,North,Chandigarh,Jackets,Winter Jacket,Roadster,Free Size,Blue,4,4891,20,15651.2,897.64,Net Banking,Cancelled
-ORD10388,2025-10-13,Oct,Customer_388,Men,West,Mumbai,Caps,Baseball Cap,H&M,L,Brown,4,4727,30,13235.6,3758.5,Net Banking,Delivered
-ORD10390,2025-07-31,Jul,Customer_390,Unisex,South,Kochi,Jeans,Slim Jeans,Tommy Hilfiger,M,Brown,3,4192,0,12576.0,418.8,UPI,Returned
-ORD10391,2025-02-28,Feb,Customer_391,Unisex,North,Delhi,Bags,Laptop Bag,Zara,Free Size,White,4,3472,0,13888.0,3558.0,Net Banking,Delivered
-ORD10397,2025-09-27,Sep,Customer_397,Men,East,Patna,Caps,Baseball Cap,Adidas,S,Blue,4,4796,5,18224.8,1096.83,Net Banking,Returned
-ORD10398,2025-09-27,Sep,Customer_398,Unisex,East,Patna,Bags,Travel Bag,Tommy Hilfiger,XL,Brown,5,3397,5,16135.75,4513.42,Card,Delivered
-ORD10414,2025-09-30,Sep,Customer_414,Men,North,Lucknow,Jeans,Regular Jeans,Fastrack,Free Size,White,4,3782,20,12102.4,550.65,Net Banking,Returned
-ORD10415,2025-08-11,Aug,Customer_415,Unisex,South,Kochi,Dresses,Maxi Dress,Puma,S,Brown,5,3302,20,13208.0,3968.67,UPI,Delivered
-ORD10416,2025-04-01,Apr,Customer_416,Unisex,North,Chandigarh,Caps,Beanie,Fastrack,XL,Grey,3,3823,0,11469.0,632.05,Net Banking,Cancelled
-ORD10423,2025-01-20,Jan,Customer_423,Women,East,Kolkata,Bags,Travel Bag,Fastrack,S,White,5,4457,25,16713.75,721.47,Wallet,Returned
-ORD10428,2025-09-11,Sep,Customer_428,Unisex,South,Chennai,Shirts,Polo Shirt,Adidas,M,Red,4,3637,5,13820.6,806.5,Wallet,Cancelled
-ORD10429,2025-03-27,Mar,Customer_429,Unisex,North,Delhi,Watches,Analog Watch,Levis,M,Pink,4,3765,15,12801.0,507.83,Net Banking,Cancelled
-ORD10430,2025-05-28,May,Customer_430,Unisex,West,Mumbai,Caps,Beanie,Zara,S,Blue,4,3628,25,10884.0,439.89,Wallet,Returned
-ORD10435,2025-02-01,Feb,Customer_435,Women,North,Lucknow,Watches,Smart Watch,Zara,M,Brown,4,3682,10,13255.2,5023.05,UPI,Delivered
-ORD10437,2025-10-20,Oct,Customer_437,Unisex,North,Delhi,Bags,Backpack,Nike,S,Black,3,4151,0,12453.0,4397.07,Net Banking,Delivered
-ORD10438,2025-09-21,Sep,Customer_438,Men,West,Mumbai,Bags,Handbag,Puma,Free Size,Red,4,4415,15,15011.0,675.55,UPI,Cancelled
-ORD10439,2025-06-20,Jun,Customer_439,Men,North,Lucknow,Dresses,Casual Dress,Allen Solly,L,Grey,3,3780,0,11340.0,645.0,UPI,Cancelled
-ORD10445,2025-12-17,Dec,Customer_445,Men,East,Kolkata,Watches,Sports Watch,Roadster,Free Size,White,5,4970,5,23607.5,4806.8,Cash,Delivered
-ORD10450,2025-12-17,Dec,Customer_450,Men,North,Jaipur,Bags,Backpack,H&M,L,Green,4,4574,5,17381.2,2807.72,Card,Delivered
-ORD10460,2025-08-07,Aug,Customer_460,Men,North,Lucknow,Dresses,Casual Dress,Puma,Free Size,Grey,3,4942,20,11860.8,774.66,UPI,Cancelled
-ORD10465,2025-05-31,May,Customer_465,Women,South,Bangalore,Shoes,Sandals,Zara,S,Green,4,4934,5,18749.2,4560.09,Card,Delivered
-ORD10467,2025-04-27,Apr,Customer_467,Men,South,Hyderabad,Bags,Handbag,Levis,L,Green,4,3545,10,12762.0,4085.56,Net Banking,Delivered
-ORD10474,2025-08-01,Aug,Customer_474,Unisex,South,Kochi,Caps,Snapback Cap,Adidas,XL,White,4,2863,5,10879.4,3584.49,Wallet,Delivered
-ORD10477,2025-05-15,May,Customer_477,Women,North,Jaipur,Caps,Baseball Cap,Nike,M,Brown,3,4370,0,13110.0,3801.79,Card,Delivered
-ORD10478,2025-11-03,Nov,Customer_478,Unisex,West,Mumbai,Shirts,Formal Shirt,Levis,XL,Blue,3,4435,20,10644.0,2484.07,Cash,Delivered
-ORD10482,2025-10-14,Oct,Customer_482,Unisex,South,Chennai,Jackets,Denim Jacket,Fastrack,S,Pink,5,4805,30,16817.5,868.94,Net Banking,Returned
-ORD10490,2025-11-04,Nov,Customer_490,Women,East,Guwahati,Caps,Baseball Cap,Roadster,M,Blue,3,4135,5,11784.75,3111.39,Net Banking,Delivered
-ORD10491,2025-07-22,Jul,Customer_491,Men,West,Mumbai,Watches,Analog Watch,Nike,XL,Pink,4,4780,25,14340.0,4243.13,Wallet,Delivered
-ORD10493,2025-12-08,Dec,Customer_493,Women,East,Guwahati,Bags,Laptop Bag,Roadster,S,Blue,5,3812,15,16201.0,4098.33,Cash,Delivered
-ORD10495,2025-04-14,Apr,Customer_495,Women,West,Indore,Bags,Backpack,Adidas,Free Size,Black,3,4577,15,11671.35,586.48,UPI,Returned
-ORD10496,2025-07-12,Jul,Customer_496,Unisex,West,Ahmedabad,Dresses,Maxi Dress,Roadster,L,White,4,4264,0,17056.0,438.49,Net Banking,Returned
-ORD10497,2025-02-26,Feb,Customer_497,Unisex,West,Indore,Dresses,Maxi Dress,Levis,XL,Brown,5,4517,25,16938.75,894.31,Wallet,Returned
-ORD10501,2025-06-12,Jun,Customer_501,Men,West,Mumbai,Dresses,Party Dress,Nike,M,Grey,4,3696,10,13305.6,3577.34,Net Banking,Delivered
-ORD10504,2025-08-10,Aug,Customer_504,Unisex,East,Patna,Jackets,Winter Jacket,Adidas,Free Size,Brown,5,3065,5,14558.75,3315.34,Wallet,Delivered
-ORD10506,2025-03-19,Mar,Customer_506,Unisex,South,Chennai,Jackets,Winter Jacket,Allen Solly,M,Pink,3,4065,15,10365.75,2102.69,Cash,Delivered
-ORD10511,2025-05-21,May,Customer_511,Women,South,Chennai,Jackets,Denim Jacket,Adidas,Free Size,Grey,4,3844,10,13838.4,4765.31,UPI,Delivered
-ORD10521,2025-05-01,May,Customer_521,Unisex,East,Patna,Dresses,Maxi Dress,Nike,XL,Blue,5,4193,5,19916.75,860.83,UPI,Cancelled
-ORD10522,2025-07-16,Jul,Customer_522,Men,West,Pune,Caps,Baseball Cap,Puma,L,Red,4,2598,0,10392.0,1504.48,Net Banking,Delivered
-ORD10523,2025-05-10,May,Customer_523,Women,North,Delhi,Watches,Sports Watch,Tommy Hilfiger,M,Black,5,3619,10,16285.5,1218.66,Wallet,Cancelled
-ORD10527,2025-07-02,Jul,Customer_527,Men,North,Chandigarh,Dresses,Maxi Dress,Allen Solly,S,Grey,5,4473,15,19010.25,943.58,UPI,Cancelled
-ORD10531,2025-10-08,Oct,Customer_531,Men,North,Delhi,Shirts,Polo Shirt,Puma,XL,Blue,5,3623,0,18115.0,4052.38,UPI,Delivered
-ORD10533,2025-08-17,Aug,Customer_533,Men,South,Kochi,Jeans,Regular Jeans,Fastrack,XL,Grey,4,4401,10,15843.6,4220.65,Wallet,Delivered
-ORD10539,2025-12-21,Dec,Customer_539,Women,West,Indore,Jeans,Slim Jeans,Zara,XL,Green,4,4486,10,16149.6,906.99,UPI,Returned
-ORD10542,2025-05-31,May,Customer_542,Unisex,South,Chennai,Shirts,Linen Shirt,Tommy Hilfiger,XL,Pink,5,3708,0,18540.0,3834.09,Net Banking,Delivered
-ORD10543,2025-09-20,Sep,Customer_543,Men,West,Indore,Bags,Backpack,Allen Solly,XL,Grey,5,4495,5,21351.25,1305.48,Wallet,Returned
-ORD10544,2025-09-11,Sep,Customer_544,Men,West,Mumbai,Jeans,Regular Jeans,Roadster,L,Red,5,3339,15,14190.75,4276.44,Net Banking,Delivered
-ORD10552,2025-07-29,Jul,Customer_552,Women,West,Indore,Dresses,Maxi Dress,Zara,M,Black,4,4727,30,13235.6,3935.89,Wallet,Delivered
-ORD10557,2025-05-13,May,Customer_557,Men,North,Lucknow,Dresses,Casual Dress,Adidas,XL,Green,5,3402,0,17010.0,450.46,Wallet,Cancelled
-ORD10560,2025-07-09,Jul,Customer_560,Women,West,Mumbai,Shoes,Sandals,H&M,Free Size,Brown,5,3798,20,15192.0,4030.92,Net Banking,Delivered
-ORD10562,2025-03-02,Mar,Customer_562,Women,South,Hyderabad,Caps,Beanie,Nike,S,White,5,3846,0,19230.0,582.38,UPI,Returned
-ORD10568,2025-10-01,Oct,Customer_568,Men,West,Mumbai,Jackets,Bomber Jacket,Tommy Hilfiger,L,Pink,5,3123,15,13272.75,3624.95,Card,Delivered
-ORD10574,2025-08-26,Aug,Customer_574,Men,North,Delhi,Dresses,Casual Dress,Allen Solly,XL,Green,5,2868,25,10755.0,4008.83,Wallet,Delivered
-ORD10576,2025-11-22,Nov,Customer_576,Women,East,Patna,Bags,Travel Bag,H&M,M,Brown,3,4207,10,11358.9,2089.37,Wallet,Delivered
-ORD10580,2025-01-19,Jan,Customer_580,Men,West,Ahmedabad,Bags,Handbag,H&M,M,Pink,3,4536,25,10206.0,3100.7,UPI,Delivered
-ORD10583,2025-05-23,May,Customer_583,Men,South,Bangalore,Watches,Sports Watch,Nike,L,Blue,4,4860,15,16524.0,3341.53,Wallet,Delivered
-ORD10590,2025-06-09,Jun,Customer_590,Women,North,Jaipur,Jackets,Denim Jacket,Nike,Free Size,White,5,4069,20,16276.0,6014.52,Card,Delivered
-ORD10595,2025-11-20,Nov,Customer_595,Men,West,Pune,Jeans,Slim Jeans,Levis,L,White,5,3447,0,17235.0,6438.66,Card,Delivered
-ORD10598,2025-06-12,Jun,Customer_598,Unisex,West,Ahmedabad,Shoes,Sneakers,H&M,Free Size,Red,5,4017,25,15063.75,2765.45,Wallet,Delivered
-ORD10600,2025-09-13,Sep,Customer_600,Unisex,West,Ahmedabad,Jeans,Slim Jeans,Fastrack,XL,Brown,5,4302,5,20434.5,4161.98,Net Banking,Delivered
-ORD10608,2025-12-20,Dec,Customer_608,Men,West,Indore,Watches,Analog Watch,Roadster,M,White,5,2953,10,13288.5,724.51,Cash,Returned
-ORD10610,2025-12-19,Dec,Customer_610,Women,South,Bangalore,Jeans,Cargo Jeans,Fastrack,L,Red,5,4501,0,22505.0,3792.99,Card,Delivered
-ORD10614,2025-05-28,May,Customer_614,Women,North,Delhi,Caps,Beanie,Allen Solly,Free Size,White,4,3339,25,10017.0,3396.63,Net Banking,Delivered
-ORD10624,2025-11-29,Nov,Customer_624,Women,North,Lucknow,Jackets,Winter Jacket,H&M,L,Brown,5,3521,0,17605.0,2420.8,UPI,Delivered
-ORD10634,2025-09-09,Sep,Customer_634,Women,North,Lucknow,Shoes,Sneakers,Nike,XL,Green,4,3905,15,13277.0,4943.4,Wallet,Delivered
-ORD10643,2025-11-05,Nov,Customer_643,Unisex,North,Chandigarh,Shirts,Formal Shirt,H&M,XL,Grey,5,2676,15,11373.0,2764.1,Cash,Delivered
-ORD10645,2025-07-08,Jul,Customer_645,Men,East,Bhubaneswar,Shirts,Formal Shirt,Fastrack,L,Black,4,4391,20,14051.2,3195.42,Cash,Delivered
-ORD10650,2025-12-01,Dec,Customer_650,Men,West,Indore,Jeans,Cargo Jeans,Puma,L,Blue,5,4078,30,14273.0,2578.78,UPI,Delivered
-ORD10654,2025-09-11,Sep,Customer_654,Men,West,Pune,Jeans,Regular Jeans,Tommy Hilfiger,M,Red,3,3584,0,10752.0,4033.04,UPI,Delivered
-ORD10655,2025-01-12,Jan,Customer_655,Women,East,Bhubaneswar,Shoes,Sandals,Roadster,XL,Pink,5,3712,10,16704.0,3839.14,UPI,Delivered
-ORD10662,2025-09-23,Sep,Customer_662,Men,West,Mumbai,Shirts,Linen Shirt,Fastrack,M,Blue,5,4914,25,18427.5,1226.89,Card,Cancelled
-ORD10665,2025-09-25,Sep,Customer_665,Unisex,West,Ahmedabad,Caps,Baseball Cap,Tommy Hilfiger,S,Red,3,4908,20,11779.2,2056.16,UPI,Delivered
-ORD10668,2025-03-20,Mar,Customer_668,Men,South,Kochi,Bags,Handbag,Puma,S,Green,3,4051,15,10330.05,261.84,UPI,Returned
-ORD10670,2025-03-31,Mar,Customer_670,Men,North,Delhi,Dresses,Maxi Dress,Roadster,Free Size,Grey,5,3010,20,12040.0,4015.93,Wallet,Delivered
-ORD10671,2025-03-29,Mar,Customer_671,Unisex,North,Delhi,Bags,Laptop Bag,Tommy Hilfiger,Free Size,Pink,3,3690,5,10516.5,441.16,Net Banking,Cancelled
-ORD10672,2025-03-15,Mar,Customer_672,Women,South,Chennai,Shoes,Formal Shoes,Nike,M,Pink,4,2689,0,10756.0,771.84,Net Banking,Cancelled
-ORD10673,2025-05-22,May,Customer_673,Women,West,Ahmedabad,Shoes,Sandals,Puma,S,Green,4,4763,25,14289.0,4989.16,Net Banking,Delivered
-ORD10677,2025-05-29,May,Customer_677,Unisex,South,Bangalore,Watches,Analog Watch,Puma,Free Size,Pink,3,4456,10,12031.2,2271.91,Card,Delivered
-ORD10680,2025-06-03,Jun,Customer_680,Men,West,Ahmedabad,Bags,Handbag,Allen Solly,XL,Brown,3,4007,5,11419.95,2963.15,Card,Delivered
-ORD10682,2025-08-04,Aug,Customer_682,Women,East,Kolkata,Shoes,Sneakers,Allen Solly,XL,Pink,4,4558,30,12762.4,3793.64,Card,Delivered
-ORD10692,2025-02-04,Feb,Customer_692,Men,North,Chandigarh,Watches,Smart Watch,Allen Solly,M,Green,4,3931,20,12579.2,911.1,Card,Returned
-ORD10693,2025-07-23,Jul,Customer_693,Men,North,Jaipur,Bags,Backpack,Tommy Hilfiger,XL,Pink,4,4860,30,13608.0,3449.72,Wallet,Delivered
-ORD10700,2025-07-21,Jul,Customer_700,Men,South,Chennai,Bags,Backpack,Levis,XL,Pink,5,2037,0,10185.0,1602.26,UPI,Delivered
-ORD10702,2025-02-24,Feb,Customer_702,Men,North,Delhi,Bags,Handbag,Tommy Hilfiger,XL,Brown,5,3271,30,11448.5,3479.64,Card,Delivered
-ORD10703,2025-01-29,Jan,Customer_703,Men,South,Chennai,Bags,Laptop Bag,Allen Solly,S,Green,5,2690,25,10087.5,2636.26,UPI,Delivered
-ORD10704,2025-04-27,Apr,Customer_704,Men,South,Bangalore,Dresses,Maxi Dress,Nike,XL,Blue,4,3656,5,13892.8,2943.34,Net Banking,Delivered
-ORD10707,2025-07-19,Jul,Customer_707,Women,East,Bhubaneswar,Shirts,Casual Shirt,Zara,L,White,4,4418,30,12370.4,340.19,UPI,Returned
-ORD10708,2025-06-13,Jun,Customer_708,Unisex,West,Ahmedabad,Watches,Analog Watch,Zara,L,White,4,3971,15,13501.4,4054.33,Card,Delivered
-ORD10709,2025-09-30,Sep,Customer_709,Women,West,Indore,Dresses,Party Dress,Fastrack,Free Size,Red,5,2384,15,10132.0,287.22,UPI,Cancelled
-ORD10710,2025-07-05,Jul,Customer_710,Women,South,Bangalore,Jackets,Winter Jacket,Nike,L,White,5,4381,5,20809.75,7479.75,Cash,Delivered
-ORD10713,2025-09-28,Sep,Customer_713,Unisex,West,Pune,Dresses,Maxi Dress,Zara,S,Green,3,4350,15,11092.5,3414.99,UPI,Delivered
-ORD10714,2025-01-06,Jan,Customer_714,Unisex,South,Chennai,Shoes,Running Shoes,Nike,L,Green,4,3969,25,11907.0,4364.43,Card,Delivered
-ORD10716,2025-01-28,Jan,Customer_716,Men,West,Pune,Caps,Beanie,Roadster,L,Grey,3,3974,5,11325.9,2153.95,UPI,Delivered
-ORD10721,2025-05-29,May,Customer_721,Women,South,Hyderabad,Shoes,Formal Shoes,Allen Solly,M,Red,3,4028,0,12084.0,849.69,Wallet,Cancelled
-ORD10723,2025-10-23,Oct,Customer_723,Women,North,Lucknow,Shoes,Formal Shoes,Zara,L,Brown,3,3393,0,10179.0,281.95,Cash,Cancelled
-ORD10726,2025-04-25,Apr,Customer_726,Women,West,Mumbai,Bags,Travel Bag,Zara,Free Size,Brown,4,4285,25,12855.0,1855.12,UPI,Delivered
-ORD10727,2025-04-13,Apr,Customer_727,Women,West,Indore,Jeans,Slim Jeans,Adidas,M,Brown,4,3191,0,12764.0,516.93,UPI,Returned
-ORD10731,2025-12-23,Dec,Customer_731,Unisex,West,Pune,Watches,Smart Watch,Allen Solly,Free Size,Red,4,3404,25,10212.0,2739.7,UPI,Delivered
-ORD10737,2025-08-21,Aug,Customer_737,Men,South,Chennai,Shirts,Polo Shirt,Roadster,L,Brown,5,3620,0,18100.0,3092.31,Net Banking,Delivered
-ORD10739,2025-09-23,Sep,Customer_739,Women,South,Hyderabad,Shirts,Formal Shirt,Nike,M,Pink,5,3099,10,13945.5,458.27,Card,Returned
-ORD10748,2025-09-11,Sep,Customer_748,Men,East,Guwahati,Jeans,Regular Jeans,Fastrack,M,Green,4,4698,15,15973.2,5747.33,Net Banking,Delivered
-ORD10749,2025-04-16,Apr,Customer_749,Women,East,Bhubaneswar,Jeans,Cargo Jeans,Tommy Hilfiger,L,Blue,4,4049,15,13766.6,633.74,Wallet,Cancelled
-ORD10764,2025-01-15,Jan,Customer_764,Unisex,South,Hyderabad,Jackets,Denim Jacket,Allen Solly,S,Grey,4,4848,15,16483.2,3486.34,Net Banking,Delivered
-ORD10771,2025-06-21,Jun,Customer_771,Women,North,Lucknow,Shoes,Sneakers,Adidas,XL,Green,4,4518,25,13554.0,572.53,Cash,Returned
-ORD10772,2025-09-23,Sep,Customer_772,Unisex,East,Patna,Caps,Baseball Cap,Puma,S,White,5,4466,0,22330.0,849.36,Net Banking,Returned
-ORD10774,2025-06-19,Jun,Customer_774,Unisex,East,Patna,Caps,Snapback Cap,Zara,Free Size,Grey,4,3917,10,14101.2,2826.22,Wallet,Delivered
-ORD10780,2025-10-18,Oct,Customer_780,Men,North,Lucknow,Jackets,Winter Jacket,Levis,M,Brown,4,4970,5,18886.0,4112.45,Cash,Delivered
-ORD10781,2025-08-04,Aug,Customer_781,Women,West,Indore,Watches,Smart Watch,Puma,S,White,4,4277,0,17108.0,6112.09,Wallet,Delivered
-ORD10782,2025-11-14,Nov,Customer_782,Men,East,Bhubaneswar,Bags,Handbag,Tommy Hilfiger,XL,Black,5,2902,0,14510.0,4590.78,Net Banking,Delivered
-ORD10789,2025-01-06,Jan,Customer_789,Unisex,North,Chandigarh,Shirts,Polo Shirt,Allen Solly,XL,Black,5,2979,0,14895.0,857.14,Cash,Cancelled
-ORD10802,2025-01-19,Jan,Customer_802,Women,North,Delhi,Caps,Baseball Cap,Levis,L,Red,4,4657,5,17696.6,5115.87,UPI,Delivered
-ORD10809,2025-12-24,Dec,Customer_809,Women,North,Jaipur,Watches,Sports Watch,Zara,L,Pink,4,4216,0,16864.0,2117.03,Cash,Delivered
-ORD10810,2025-01-10,Jan,Customer_810,Women,West,Indore,Jeans,Slim Jeans,Levis,M,Pink,4,3650,15,12410.0,1632.51,Wallet,Delivered
-ORD10812,2025-10-01,Oct,Customer_812,Women,West,Ahmedabad,Shirts,Formal Shirt,Fastrack,M,Pink,4,3971,20,12707.2,780.22,Net Banking,Returned
-ORD10814,2025-06-07,Jun,Customer_814,Women,North,Delhi,Bags,Laptop Bag,Tommy Hilfiger,XL,Black,5,3128,30,10948.0,2066.7,Net Banking,Delivered
-ORD10817,2025-01-22,Jan,Customer_817,Women,West,Ahmedabad,Shirts,Casual Shirt,Fastrack,S,Grey,5,2366,0,11830.0,4346.85,Wallet,Delivered
-ORD10829,2025-04-29,Apr,Customer_829,Unisex,East,Kolkata,Watches,Smart Watch,Zara,Free Size,Pink,3,4540,10,12258.0,324.97,Cash,Returned
-ORD10838,2025-09-08,Sep,Customer_838,Men,East,Guwahati,Shoes,Formal Shoes,H&M,S,Green,4,3424,20,10956.8,2684.96,Net Banking,Delivered
-ORD10848,2025-05-26,May,Customer_848,Unisex,East,Guwahati,Jeans,Slim Jeans,Roadster,XL,Grey,5,4649,5,22082.75,4845.53,Wallet,Delivered
-ORD10849,2025-04-29,Apr,Customer_849,Women,North,Chandigarh,Jeans,Regular Jeans,H&M,L,White,4,3528,15,11995.2,639.15,UPI,Cancelled
-ORD10852,2025-06-14,Jun,Customer_852,Unisex,East,Bhubaneswar,Caps,Snapback Cap,Allen Solly,S,Blue,4,4455,20,14256.0,753.43,Net Banking,Cancelled
-ORD10859,2025-03-06,Mar,Customer_859,Unisex,East,Kolkata,Jackets,Winter Jacket,Zara,L,Brown,5,3636,10,16362.0,882.47,Card,Returned
-ORD10872,2025-06-01,Jun,Customer_872,Unisex,South,Chennai,Jackets,Denim Jacket,Levis,L,Grey,3,4100,10,11070.0,1594.38,Wallet,Delivered
-ORD10874,2025-04-22,Apr,Customer_874,Unisex,South,Hyderabad,Bags,Backpack,Fastrack,M,Brown,4,2635,0,10540.0,758.25,Card,Returned
-ORD10879,2025-06-27,Jun,Customer_879,Men,East,Bhubaneswar,Watches,Analog Watch,Adidas,M,White,4,3742,5,14219.6,681.84,Cash,Cancelled
-ORD10881,2025-08-30,Aug,Customer_881,Women,West,Pune,Jeans,Regular Jeans,Fastrack,M,Grey,4,4295,25,12885.0,2359.41,Card,Delivered
-ORD10886,2025-12-01,Dec,Customer_886,Women,North,Chandigarh,Dresses,Casual Dress,Allen Solly,S,Brown,4,3959,30,11085.2,1487.33,Wallet,Delivered
-ORD10887,2025-04-02,Apr,Customer_887,Men,East,Kolkata,Watches,Smart Watch,Puma,M,Black,4,4854,30,13591.2,597.2,Cash,Cancelled
-ORD10888,2025-01-25,Jan,Customer_888,Women,West,Indore,Bags,Handbag,Fastrack,L,Black,4,2806,0,11224.0,1701.6,Wallet,Delivered
-ORD10889,2025-01-13,Jan,Customer_889,Men,East,Patna,Watches,Smart Watch,Roadster,XL,Grey,5,2688,5,12768.0,2505.62,Cash,Delivered
-ORD10893,2025-07-11,Jul,Customer_893,Women,South,Bangalore,Bags,Laptop Bag,Tommy Hilfiger,M,Green,5,4373,5,20771.75,6600.99,Wallet,Delivered
-ORD10900,2025-08-03,Aug,Customer_900,Men,East,Bhubaneswar,Dresses,Casual Dress,Roadster,L,Pink,5,2783,10,12523.5,802.33,Card,Cancelled
-ORD10905,2025-04-01,Apr,Customer_905,Women,West,Pune,Jackets,Bomber Jacket,Tommy Hilfiger,M,Red,4,4596,25,13788.0,410.61,Net Banking,Returned
-ORD10908,2025-07-07,Jul,Customer_908,Men,North,Jaipur,Jeans,Slim Jeans,Levis,L,Blue,4,3282,5,12471.6,4457.02,Cash,Delivered
-ORD10909,2025-06-25,Jun,Customer_909,Women,South,Hyderabad,Jeans,Regular Jeans,Allen Solly,Free Size,Green,3,4141,10,11180.7,726.11,Wallet,Cancelled
-ORD10911,2025-03-17,Mar,Customer_911,Men,South,Chennai,Caps,Snapback Cap,Levis,S,Red,5,2893,30,10125.5,445.32,Wallet,Cancelled
-ORD10912,2025-07-06,Jul,Customer_912,Women,North,Lucknow,Bags,Handbag,Tommy Hilfiger,M,Grey,5,4732,15,20111.0,4907.35,Wallet,Delivered
-ORD10913,2025-03-31,Mar,Customer_913,Women,South,Kochi,Watches,Smart Watch,Allen Solly,M,Green,4,3610,0,14440.0,4243.54,Card,Delivered
-ORD10914,2025-07-02,Jul,Customer_914,Unisex,North,Jaipur,Jackets,Denim Jacket,Levis,Free Size,Red,4,4261,20,13635.2,4871.89,Card,Delivered
-ORD10919,2025-10-29,Oct,Customer_919,Unisex,West,Pune,Shirts,Linen Shirt,Adidas,L,Brown,5,4236,0,21180.0,3927.92,Card,Delivered
-ORD10920,2025-05-16,May,Customer_920,Unisex,East,Patna,Watches,Sports Watch,Allen Solly,L,Brown,5,2538,10,11421.0,437.6,UPI,Returned
-ORD10922,2025-06-07,Jun,Customer_922,Men,South,Chennai,Shoes,Sneakers,Adidas,L,Red,5,3000,10,13500.0,4310.14,Wallet,Delivered
-ORD10927,2025-01-24,Jan,Customer_927,Unisex,West,Indore,Jackets,Denim Jacket,Puma,XL,Black,4,4488,5,17054.4,657.74,UPI,Returned
-ORD10929,2025-05-06,May,Customer_929,Unisex,North,Chandigarh,Bags,Handbag,Fastrack,L,Black,3,4976,30,10449.6,609.8,Card,Returned
-ORD10934,2025-07-25,Jul,Customer_934,Men,West,Mumbai,Watches,Smart Watch,Fastrack,S,Red,5,2905,0,14525.0,4098.36,Cash,Delivered
-ORD10938,2025-08-17,Aug,Customer_938,Unisex,West,Mumbai,Caps,Snapback Cap,H&M,S,Blue,4,3769,5,14322.2,2484.39,Card,Delivered
-ORD10946,2025-03-07,Mar,Customer_946,Unisex,West,Ahmedabad,Shirts,Polo Shirt,Allen Solly,S,Brown,3,4922,10,13289.4,980.21,Net Banking,Cancelled
-ORD10948,2025-03-09,Mar,Customer_948,Unisex,West,Ahmedabad,Shoes,Formal Shoes,Puma,S,Pink,3,3956,10,10681.2,623.6,UPI,Returned
-ORD10951,2025-12-09,Dec,Customer_951,Women,West,Mumbai,Watches,Smart Watch,Fastrack,S,White,3,4751,10,12827.7,1749.83,UPI,Delivered
-ORD10955,2025-09-25,Sep,Customer_955,Women,East,Guwahati,Bags,Backpack,Roadster,S,Blue,4,4402,15,14966.8,609.75,Cash,Cancelled
-ORD10958,2025-09-24,Sep,Customer_958,Women,North,Delhi,Shoes,Formal Shoes,Puma,M,Brown,3,4793,0,14379.0,922.07,Cash,Returned
-ORD10960,2025-02-15,Feb,Customer_960,Women,South,Bangalore,Shoes,Sandals,Levis,XL,Pink,5,3469,5,16477.75,1140.37,UPI,Cancelled
-ORD10961,2025-08-03,Aug,Customer_961,Women,East,Patna,Jeans,Regular Jeans,Levis,M,Brown,3,3420,0,10260.0,253.14,Card,Cancelled
-ORD10962,2025-10-15,Oct,Customer_962,Women,North,Chandigarh,Dresses,Casual Dress,Levis,S,Blue,5,3577,20,14308.0,729.51,Wallet,Cancelled
-ORD10963,2025-07-04,Jul,Customer_963,Men,North,Jaipur,Jeans,Cargo Jeans,Adidas,L,Brown,5,3954,30,13839.0,615.49,Net Banking,Cancelled
-ORD10973,2025-09-17,Sep,Customer_973,Men,South,Bangalore,Shoes,Formal Shoes,H&M,L,Red,4,4884,10,17582.4,517.8,Net Banking,Returned
-ORD10976,2025-04-30,Apr,Customer_976,Unisex,East,Patna,Caps,Beanie,Fastrack,Free Size,Grey,5,4660,15,19805.0,623.86,UPI,Returned
-ORD10978,2025-02-18,Feb,Customer_978,Women,East,Kolkata,Shirts,Linen Shirt,Adidas,M,Grey,4,3672,30,10281.6,464.67,Card,Cancelled
-ORD10986,2025-04-12,Apr,Customer_986,Women,South,Kochi,Jackets,Winter Jacket,Puma,S,Brown,3,3991,15,10177.05,2372.64,UPI,Delivered
-ORD10988,2025-04-07,Apr,Customer_988,Women,East,Guwahati,Shirts,Formal Shirt,Nike,Free Size,White,3,4904,0,14712.0,983.27,Wallet,Cancelled
-ORD10997,2025-03-20,Mar,Customer_997,Men,West,Indore,Caps,Baseball Cap,Nike,L,Brown,3,4640,0,13920.0,497.11,UPI,Cancelled
-ORD10998,2025-03-15,Mar,Customer_998,Women,East,Bhubaneswar,Caps,Baseball Cap,H&M,Free Size,Black,5,3100,0,15500.0,2308.8,Wallet,Delivered
-ORD11000,2025-05-25,May,Customer_1000,Unisex,West,Indore,Shirts,Formal Shirt,Nike,XL,Green,5,3667,15,15584.75,5558.5,Cash,Delivered
+OrderID,OrderDate,CustomerName,Age,City,Product,Category,Quantity,UnitPrice,Discount,TotalSales,PaymentMode,OrderStatus
+1,2025-10-20,Aarav,45.0,Jaipur,Laptop,Electronics,4,30815.0,15,104771.0,Cash,Cancelled
+2,2025-03-24, Aarav ,51.0,Jaipur,Keyboard,Accessories,2,16883.0,10,30389.4,UPI,Processing
+3,2025-03-13,Ayesha,42.0,Jaipur,Keyboard,Accessories,5,30438.0,5,144580.5,Card,Processing
+4,2025-12-05,Ayesha,26.0,,Phone,Electronics,8,40694.0,15,276719.2,UPI,Cancelled
+5,2025-01-03,Kabir,26.0,Mumbai,Keyboard,Accessories,6,51097.0,5,291252.9,Cash,Cancelled
+6,2025-10-09,Zoya,,Jaipur,Laptop,Electronics,6,55816.0,5,318151.2,UPI,Processing
+7,2025-05-03,Aarav,20.0,Jaipur,Keyboard,Accessories,2,35462.0,0,70924.0,UPI,Processing
+8,2025-10-18,Ayesha,56.0,Mumbai,Laptop,Electronics,2,29437.0,5,55930.3,UPI,Processing
+9,2025-08-10,Rehan,46.0,Mumbai,Keyboard,Accessories,3,40952.0,5,116713.2,UPI,Processing
+10,2025-08-22,Najrin,28.0,Pune,Phone,Electronics,3,31966.0,10,86308.2,Cash,Processing
+11,2025-04-25,Aarav,52.0,Pune,Laptop,Electronics,five,59280.0,10,320112.0,UPI,Delivered
+12,2025-05-15,Zoya,,Chennai,Phone,Electronics,7,57486.0,15,342041.7,Card,Delivered
+13,2025-09-26,Najrin,,Jaipur,Printer,Office,2,11399.0,15,19378.3,Card,Processing
+14,2025-07-25, Riya ,44.0,Chennai,Keyboard,Accessories,7,32605.0,5,216823.25,Card,Processing
+16,2025-02-25,Zoya,,Mumbai,Printer,Office,7,51264.0,15,305020.8,Cash,Cancelled
+17,2025-05-13,Zoya,45.0,Bhopal,Phone,Electronics,4,21672.0,0,86688.0,Card,Delivered
+18,2025-11-26,Zoya,19.0,Delhi,Keyboard,Accessories,7,56285.0,5,374295.25,Card,Processing
+19,2025-02-15,Aarav,56.0,Chennai,Laptop,Electronics,5,,15,47421.5,UPI,Processing
+20,2025-11-01,Rehan,30.0,Bhopal,Phone,Electronics,2,39262.0,5,74597.8,Cash,Delivered
+21,2025-02-19,Najrin,47.0,Pune,Printer,Office,8,,5,334552.0,Cash,Cancelled
+22,2025-07-06,Diya,58.0,Pune,Laptop,Electronics,4,28279.0,15,96148.6,Cash,Cancelled
+23,2025-04-13,Diya,,Delhi,Laptop,Electronics,6,17191.0,10,92831.4,Cash,Processing
+24,2025-04-10,Najrin,47.0,Pune,Keyboard,Accessories,8,33761.0,10,243079.2,Cash,Processing
+25,2025-11-24,Ayesha,40.0,Pune,Keyboard,Accessories,8,59874.0,15,407143.2,Cash,Cancelled
+26,2025-09-03,Diya,52.0,Pune,Keyboard,Accessories,7,52505.0,5,349158.25,Card,Processing
+27,2025-10-16,Diya,56.0,,Keyboard,Accessories,1,39282.0,10,35353.8,Card,Processing
+28,2025-02-07,Rehan,57.0,Bhopal,Keyboard,Accessories,3,16284.0,5,46409.4,Cash,Delivered
+29,2025-10-12,Aarav,32.0,Chennai,Laptop,Electronics,7,13065.0,15,77736.75,Card,Delivered
+30,2025-07-20,Kabir,39.0,Chennai,Phone,Electronics,6,57532.0,0,345192.0,Card,Cancelled
+31,2025-10-24,Aarav,20.0,Chennai,Keyboard,Accessories,7,21770.0,5,144770.5,UPI,Delivered
+32,2025-11-07,Ayesha,28.0,Delhi,Keyboard,Accessories,2,26544.0,15,45124.8,Card,Processing
+33,2025-01-31,Riya,46.0,Pune,Printer,Office,8,47853.0,15,325400.4,Card,Delivered
+34,2025-07-01,Rehan,39.0,Chennai,Printer,Office,7,13236.0,0,92652.0,Cash,Cancelled
+35,2025-03-20,Aarav,29.0,Pune,Phone,Electronics,7,52509.0,10,330806.7,Card,Processing
+36,2025-01-26,Aarav,28.0,Bhopal,Phone,Electronics,1,38510.0,5,36584.5,UPI,Cancelled
+37,2025-10-17,Ayesha,29.0,Bhopal,Laptop,Electronics,7,39694.0,15,236179.3,UPI,Processing
+38,2025-04-10,Zoya,28.0,Mumbai,Printer,Office,8,51442.0,10,370382.4,UPI,Delivered
+39,2025-04-01, Rehan ,27.0,Chennai,Printer,Office,2,,0,52982.0,UPI,Delivered
+40,2025-08-05,Najrin,36.0,Chennai,Laptop,Electronics,6,55134.0,15,281183.4,Card,Delivered
+41,2025-09-30, Najrin ,18.0,Pune,Phone,Electronics,7,45943.0,5,305520.95,UPI,Cancelled
+42,2025-11-23,Zoya,24.0,Chennai,Printer,Office,4,19329.0,10,69584.40000000001,UPI,Delivered
+43,2025-11-15,Aarav,22.0,Jaipur,Laptop,Electronics,1,43304.0,15,36808.4,Cash,Delivered
+47,2025-04-04,Rehan,21.0,,Phone,Electronics,1,46555.0,15,39571.75,Card,Processing
+48,2025-08-22,Ayesha,29.0,Delhi,Printer,Office,8,32535.0,10,234252.0,Card,Delivered
+49,2025-03-13,Najrin,34.0,Mumbai,Laptop,Electronics,8,1371.0,5,10419.6,Cash,Delivered
+50,2025-09-26,Najrin,27.0,Delhi,Laptop,Electronics,5,46728.0,10,210276.0,UPI,Cancelled
+51,2025-05-13,Rehan,50.0,Mumbai,Laptop,Electronics,1,40399.0,0,40399.0,Card,Delivered
+52,2025-10-02, Aarav ,31.0,Mumbai,Keyboard,Accessories,7,10390.0,0,72730.0,Cash,Cancelled
+53,2025-12-09,Diya,48.0,Bhopal,Printer,Office,8,12004.0,5,91230.4,UPI,Processing
+54,2025-11-08,Riya,46.0,Pune,Phone,Electronics,6,33704.0,15,171890.4,UPI,Delivered
+55,2025-09-08,Rehan,28.0,Jaipur,Keyboard,Accessories,4,32916.0,10,118497.6,Card,Cancelled
+56,2025-10-12,Rehan,27.0,Pune,Keyboard,Accessories,6,9013.0,0,54078.0,Cash,Delivered
+57,2025-12-11,Ayesha,51.0,Chennai,Laptop,Electronics,7,40471.0,0,283297.0,Card,Cancelled
+58,2025-01-19,Riya,20.0,Delhi,Keyboard,Accessories,7,15013.0,15,89327.34999999999,Card,Cancelled
+59,2025-02-16,Diya,22.0,Bhopal,Printer,Office,7,20903.0,5,139004.95,Card,Delivered
+60,2025-11-19,Rehan,52.0,Pune,phone,Electronics,4,47644.0,5,181047.2,Cash,Delivered
+61,2025-09-21,Zoya,60.0,Jaipur,Phone,Electronics,2,,5,67588.7,Card,Cancelled
+62,2025-10-03,Riya,22.0,Pune,Printer,Office,8,6315.0,5,47994.0,UPI,Processing
+63,2025-04-02,Riya,41.0,Jaipur,Phone,Electronics,4,22386.0,10,80589.6,Card,Processing
+65,2025-09-14,Aarav,44.0,Pune,Keyboard,Accessories,8,11668.0,0,93344.0,Cash,Processing
+66,2025-02-17,Diya,47.0,Mumbai,laptop,Electronics,7,35318.0,0,247226.0,UPI,Cancelled
+67,2025-10-09,Najrin,,,Laptop,Electronics,7,,15,48171.2,Cash,Delivered
+68,2025-07-21,Aarav,46.0,Jaipur,Printer,Office,7,,5,133518.7,Cash,Delivered
+69,2025-04-27,Zoya,49.0,Chennai,Printer,Office,five,20287.0,15,120707.65,Card,Delivered
+70,2025-09-14,Ayesha,58.0,Pune,Printer,Office,5,,5,59569.75,UPI,Processing
+72,2025-04-11,Aarav,28.0,Jaipur,Keyboard,Accessories,1,33538.0,5,31861.1,UPI,Delivered
+73,2025-03-14,Zoya,47.0,Bhopal,Laptop,Electronics,7,41868.0,10,263768.4,Cash,Delivered
+74,2025-03-21,Najrin,20.0,Mumbai,Phone,Electronics,2,34266.0,15,58252.2,Cash,Processing
+75,2025-06-13,Rehan,39.0,Chennai,Keyboard,Accessories,7,,0,29393.0,Cash,Cancelled
+76,2025-07-04,Zoya,,Jaipur,Keyboard,Accessories,2,10836.0,5,20588.4,Card,Processing
+77,2025-05-28,Kabir,18.0,Pune,Printer,Office,1,50502.0,5,47976.89999999999,UPI,Processing
+78,2025-07-04,Rehan,25.0,,Phone,Electronics,4,59718.0,0,238872.0,Cash,Delivered
+79,2025-10-09,Najrin,49.0,Delhi,Laptop,Electronics,4,57180.0,5,217284.0,UPI,Processing
+80,2025-07-27,Kabir,45.0,Pune,Phone,Electronics,7,27619.0,5,183666.35,UPI,Cancelled
+81,2025-12-26,Ayesha,48.0,Pune,Phone,Electronics,five,53069.0,0,212276.0,Card,Cancelled
+82,2025-09-25,Riya,,Delhi,Printer,Office,1,40106.0,5,38100.7,Card,Cancelled
+83,2025-10-18,Ayesha,,Jaipur,Phone,Electronics,8,16401.0,15,111526.8,Cash,Processing
+84,2025-09-18,Diya,44.0,Chennai,Laptop,Electronics,4,4366.0,0,17464.0,Card,Delivered
+85,2025-05-19,Kabir,35.0,Pune,Keyboard,Accessories,5,35560.0,10,160020.0,UPI,Processing
+86,2025-10-18,Riya,22.0,Delhi,Printer,Office,2,26933.0,0,53866.0,UPI,Cancelled
+87,2025-03-11,Rehan,33.0,Jaipur,Printer,Office,2,11755.0,0,23510.0,Cash,Cancelled
+88,2025-12-03,Najrin,27.0,Pune,Laptop,Electronics,8,46578.0,0,372624.0,Card,Delivered
+89,2025-01-18,Zoya,51.0,Jaipur,Keyboard,Accessories,6,19643.0,5,111965.1,Cash,Cancelled
+90,2025-06-20,Ayesha,22.0,Bhopal,Keyboard,Accessories,6,46568.0,0,279408.0,Cash,Cancelled
+91,2025-07-12,Ayesha,47.0,Jaipur,Printer,Office,3,18490.0,0,55470.0,UPI,Cancelled
+92,2025-11-13,Riya,18.0,Jaipur,Keyboard,Accessories,7,58296.0,10,367264.8,UPI,Processing
+93,2025-04-07,Riya,,Delhi,Phone,Electronics,3,4463.0,10,12050.1,Cash,Processing
+94,2025-07-06,Najrin,34.0,Delhi,Phone,Electronics,6,56049.0,0,336294.0,Card,Delivered
+95,2025-10-16,Kabir,46.0,,Phone,Electronics,5,36853.0,10,165838.5,UPI,Cancelled
+96,2025-08-09,Ayesha,47.0,Chennai,Laptop,Electronics,6,22422.0,15,114352.2,Cash,Processing
+97,2025-10-02,Zoya,18.0,Bhopal,Keyboard,Accessories,8,12463.0,5,94718.8,Cash,Processing
+98,2025-06-14,Najrin,24.0,Bhopal,Laptop,Electronics,2,7498.0,10,13496.4,Cash,Delivered
+99,2025-04-01,Riya,18.0,Chennai,Keyboard,Accessories,3,22953.0,5,65416.05,Card,Cancelled
+100,2025-12-22,Diya,28.0,Bhopal,Laptop,Electronics,6,59944.0,15,305714.4,UPI,Processing
+101,2025-01-29,Zoya,54.0,Mumbai,Laptop,Electronics,5,33846.0,5,160768.5,Card,Cancelled
+102,2025-02-23,Riya,49.0,Pune,keyboard,Accessories,5,3624.0,15,15402.0,UPI,Delivered
+104,2025-07-27,Kabir,55.0,Chennai,Printer,Office,7,16056.0,10,101152.8,Card,Delivered
+106,2025-02-08,Zoya,44.0,Pune,Laptop,Electronics,8,24727.0,0,197816.0,Card,Delivered
+107,2025-04-01,Kabir,40.0,,Keyboard,Accessories,3,57588.0,15,146849.4,Cash,Delivered
+108,2025-03-06,Zoya,22.0,Bhopal,Phone,Electronics,8,51282.0,15,348717.6,Cash,Delivered
+109,2025-09-02,Najrin,20.0,Bhopal,Laptop,Electronics,2,23615.0,15,40145.5,UPI,Delivered
+110,2025-12-15,Riya,26.0,Delhi,Phone,Electronics,7,58588.0,0,410116.0,UPI,Processing
+111,2025-01-24,Rehan,41.0,Bhopal,Keyboard,Accessories,7,17145.0,15,102012.75,UPI,Cancelled
+112,2025-10-05,Aarav,47.0,Mumbai,Laptop,Electronics,7,55093.0,10,347085.9,Cash,Cancelled
+113,2025-10-07,Aarav,21.0,Bhopal,Printer,Office,5,21597.0,5,102585.75,UPI,Processing
+114,2025-09-11,Diya,41.0,Mumbai,Keyboard,Accessories,1,42264.0,10,38037.6,Card,Delivered
+116,2025-07-01,Aarav,56.0,Bhopal,Printer,Office,7,41444.0,15,246591.8,Cash,Cancelled
+117,2025-01-04,Riya,36.0,Mumbai,Keyboard,Accessories,6,41595.0,10,224613.0,Cash,Cancelled
+118,2025-02-19,Zoya,27.0,Mumbai,Printer,Office,6,44632.0,10,241012.8,UPI,Cancelled
+119,2025-12-17,Rehan,19.0,Delhi,Phone,Electronics,7,50907.0,5,338531.55,UPI,Delivered
+120,2025-02-13,Ayesha,41.0,Delhi,Phone,Electronics,1,42582.0,0,42582.0,UPI,Processing
+121,2025-05-01,Diya,53.0,Pune,Printer,Office,8,17626.0,0,141008.0,UPI,Cancelled
+122,2025-02-22,Kabir,54.0,Chennai,Laptop,Electronics,7,42845.0,10,269923.5,UPI,Processing
+123,2025-11-05,Diya,37.0,Pune,Phone,Electronics,4,29917.0,5,113684.6,Cash,Cancelled
+124,2025-06-15,Najrin,30.0,Jaipur,Laptop,Electronics,five,8798.0,15,52348.1,Cash,Delivered
+125,2025-07-06,Riya,54.0,Pune,Keyboard,Accessories,7,58469.0,5,388818.85,Cash,Processing
+126,2025-12-30,Diya,34.0,Delhi,Phone,Electronics,7,35837.0,0,250859.0,UPI,Cancelled
+127,2025-04-25,Najrin,32.0,Delhi,Laptop,Electronics,1,46062.0,15,39152.7,Cash,Cancelled
+128,2025-09-14,Aarav,24.0,Mumbai,Printer,Office,5,3709.0,5,17617.75,Cash,Processing
+129,2025-05-25,Zoya,57.0,Chennai,Printer,Office,1,40352.0,5,38334.4,UPI,Cancelled
+130,2025-04-17,Diya,20.0,Chennai,Phone,Electronics,5,49838.0,10,224271.0,Cash,Cancelled
+131,2025-11-03,Ayesha,59.0,Delhi,Phone,Electronics,4,26359.0,10,94892.4,Cash,Processing
+132,2025-10-20,Rehan,46.0,Bhopal,Printer,Office,6,56110.0,5,319827.0,Cash,Cancelled
+133,2025-07-21,Aarav,19.0,Pune,Printer,Office,8,11606.0,0,92848.0,Cash,Delivered
+134,2025-01-18,Zoya,55.0,Mumbai,Laptop,Electronics,4,46473.0,0,185892.0,Card,Cancelled
+135,2025-11-28,Riya,52.0,Mumbai,Keyboard,Accessories,3,47210.0,0,141630.0,Card,Processing
+136,2025-05-04,Riya,60.0,Jaipur,Laptop,Electronics,4,32968.0,0,131872.0,UPI,Delivered
+137,2025-11-29,Riya,26.0,Chennai,Phone,Electronics,2,30883.0,0,61766.0,UPI,Delivered
+138,2025-02-07,Aarav,24.0,Jaipur,Printer,Office,2,39477.0,5,75006.3,Card,Delivered
+139,2025-04-13,Diya,58.0,Chennai,Keyboard,Accessories,3,35251.0,10,95177.7,Cash,Delivered
+140,2025-09-14,Kabir,45.0,Mumbai,printer,Office,8,38686.0,10,278539.2,Card,Processing
+141,2025-01-01,Ayesha,18.0,Bhopal,Keyboard,Accessories,2,40471.0,15,68800.7,Cash,Processing
+142,2025-08-09,Diya,37.0,Mumbai,Keyboard,Accessories,3,57175.0,0,171525.0,UPI,Processing
+143,2025-11-21,Najrin,29.0,Mumbai,Laptop,Electronics,6,55055.0,10,297297.0,Cash,Processing
+144,2025-09-23,Diya,34.0,Pune,Keyboard,Accessories,7,16814.0,0,117698.0,Card,Processing
+145,2025-04-27,Najrin,33.0,Delhi,Phone,Electronics,3,12947.0,0,38841.0,UPI,Processing
+146,2025-05-16,Zoya,25.0,Bhopal,Laptop,Electronics,7,45555.0,10,286996.5,UPI,Processing
+147,2025-07-29,Rehan,44.0,Chennai,Laptop,Electronics,6,22327.0,0,133962.0,Card,Cancelled
+148,2025-02-23,Rehan,52.0,Chennai,Laptop,Electronics,7,8343.0,15,49640.85,Card,Delivered
+149,2025-07-18,Diya,34.0,Delhi,Phone,Electronics,5,23481.0,10,105664.5,Card,Cancelled
+150,2025-05-05,Diya,45.0,Jaipur,Keyboard,Accessories,4,25447.0,0,101788.0,Card,Processing
+151,2025-03-02,Diya,47.0,Jaipur,Keyboard,Accessories,6,52428.0,5,298839.6,Card,Delivered
+152,2025-01-09,Zoya,58.0,Bhopal,Printer,Office,5,10249.0,5,48682.75,Cash,Processing
+153,2025-02-01,Ayesha,54.0,,Keyboard,Accessories,8,1502.0,10,10814.4,UPI,Cancelled
+154,2025-12-07,Najrin,29.0,Chennai,Phone,Electronics,3,5322.0,5,15167.7,UPI,Processing
+155,2025-06-18,Ayesha,46.0,Bhopal,Laptop,Electronics,6,46685.0,5,266104.5,Card,Delivered
+156,2025-12-17,Aarav,51.0,Pune,Keyboard,Accessories,2,24338.0,10,43808.4,Card,Processing
+157,2025-03-11,Zoya,23.0,Pune,Keyboard,Accessories,5,30693.0,15,130445.25,UPI,Delivered
+158,2025-09-21,Ayesha,49.0,Jaipur,Keyboard,Accessories,7,56897.0,5,378365.05,Cash,Cancelled
+161,2025-04-27,Rehan,45.0,Mumbai,Laptop,Electronics,4,51823.0,10,186562.8,Cash,Cancelled
+162,2025-07-24,Zoya,29.0,Chennai,Laptop,Electronics,2,,0,14896.0,UPI,Cancelled
+163,2025-10-24,Aarav,21.0,,Keyboard,Accessories,5,45201.0,15,192104.25,Card,Cancelled
+164,2025-09-20,Ayesha,54.0,Delhi,Phone,Electronics,6,32216.0,15,164301.6,Cash,Processing
+165,2025-07-18,Zoya,33.0,Jaipur,Keyboard,Accessories,3,9703.0,5,27653.55,UPI,Cancelled
+166,2025-12-23,Ayesha,33.0,Delhi,Laptop,Electronics,3,51860.0,0,155580.0,Card,Processing
+167,2025-02-25,Zoya,29.0,Chennai,Laptop,Electronics,8,54984.0,0,439872.0,UPI,Delivered
+168,2025-10-07,Riya,33.0,Pune,Printer,Office,6,5467.0,15,27881.7,UPI,Delivered
+169,2025-12-20,Zoya,42.0,Chennai,Keyboard,Accessories,8,57010.0,15,387668.0,Card,Cancelled
+170,2025-06-21,Zoya,57.0,Bhopal,Keyboard,Accessories,five,36212.0,0,217272.0,UPI,Delivered
+171,2025-06-01,Riya,22.0,Bhopal,Keyboard,Accessories,2,29135.0,5,55356.5,Cash,Processing
+172,2025-09-17,Diya,44.0,Jaipur,Phone,Electronics,3,36174.0,0,108522.0,Card,Delivered
+173,2025-05-01,Rehan,43.0,Pune,Printer,Office,5,10646.0,15,45245.5,Cash,Processing
+174,2025-07-28,Aarav,43.0,Pune,Laptop,Electronics,7,5086.0,0,35602.0,UPI,Processing
+175,2025-08-10,Diya,29.0,Jaipur,Laptop,Electronics,7,34181.0,5,227303.65,Cash,Delivered
+176,2025-12-21,Ayesha,46.0,Chennai,Laptop,Electronics,8,2146.0,15,14592.8,Cash,Processing
+177,2025-09-27,Zoya,47.0,Pune,Laptop,Electronics,4,35249.0,0,140996.0,Cash,Delivered
+178,2025-11-09,Kabir,48.0,Jaipur,Phone,Electronics,5,20692.0,15,87941.0,Cash,Cancelled
+179,2025-09-13,Najrin,28.0,Bhopal,Laptop,Electronics,7,21587.0,0,151109.0,Cash,Processing
+180,2025-02-26,Zoya,25.0,Pune,Phone,Electronics,6,15001.0,0,90006.0,Card,Cancelled
+181,2025-08-22,Diya,38.0,Mumbai,Keyboard,Accessories,3,37319.0,10,100761.3,UPI,Delivered
+182,2025-12-29,Ayesha,37.0,,Printer,Office,4,19996.0,0,79984.0,Cash,Cancelled
+183,2025-09-23,Kabir,43.0,Pune,Laptop,Electronics,1,12662.0,10,11395.8,Cash,Cancelled
+184,2025-12-04,Aarav,,Chennai,Laptop,Electronics,7,26475.0,0,185325.0,UPI,Delivered
+185,2025-02-12,Diya,39.0,Chennai,Keyboard,Accessories,8,35566.0,0,284528.0,Cash,Processing
+186,2025-07-23,Diya,56.0,Chennai,Phone,Electronics,3,52724.0,5,150263.4,Card,Delivered
+187,2025-10-18,Riya,56.0,Jaipur,Laptop,Electronics,8,57207.0,10,411890.4,Cash,Delivered
+188,2025-10-23,Rehan,58.0,Mumbai,Keyboard,Accessories,6,49122.0,0,294732.0,UPI,Delivered
+189,2025-10-20,Ayesha,50.0,Pune,Printer,Office,1,43250.0,15,36762.5,Card,Delivered
+190,2025-12-09,Kabir,45.0,Chennai,Keyboard,Accessories,4,25620.0,5,97356.0,Card,Cancelled
+191,2025-07-17,Zoya,21.0,Pune,Printer,Office,8,38747.0,10,278978.4,Cash,Delivered
+192,2025-09-24,Najrin,42.0,Jaipur,Printer,Office,8,,15,205305.6,UPI,Delivered
+193,2025-05-20,Riya,33.0,Jaipur,Laptop,Electronics,7,39634.0,15,235822.3,Cash,Cancelled
+194,2025-07-02,Zoya,21.0,Bhopal,Laptop,Electronics,7,58234.0,0,407638.0,Cash,Cancelled
+196,2025-04-08,Zoya,38.0,Bhopal,Keyboard,Accessories,7,7212.0,0,50484.0,Cash,Processing
+197,2025-08-27,Najrin,38.0,Bhopal,Printer,Office,1,26649.0,10,23984.1,Cash,Delivered
+198,2025-11-12,Riya,37.0,Bhopal,Printer,Office,1,50566.0,10,45509.4,Cash,Delivered
+199,2025-12-22,Zoya,51.0,Delhi,Printer,Office,6,50080.0,15,255408.0,Cash,Processing
+200,2025-12-27,Diya,20.0,Jaipur,Printer,Office,8,12974.0,5,98602.4,UPI,Cancelled
+201,2025-03-19,Zoya,27.0,Chennai,Keyboard,Accessories,8,14842.0,10,106862.4,UPI,Delivered
+202,2025-10-13,Aarav,60.0,Jaipur,Phone,Electronics,5,41873.0,15,177960.25,Cash,Delivered
+203,2025-04-03, Riya ,44.0,Jaipur,Keyboard,Accessories,6,12533.0,10,67678.2,Cash,Delivered
+204,2025-10-22,Riya,53.0,Jaipur,Keyboard,Accessories,5,49397.0,0,246985.0,Cash,Cancelled
+205,2025-04-12,Riya,48.0,Delhi,Printer,Office,1,33875.0,5,32181.25,Card,Cancelled
+206,2025-07-03,Najrin,19.0,Jaipur,Printer,Office,3,42179.0,15,107556.45,Cash,Processing
+207,2025-03-06,Najrin,21.0,Delhi,Laptop,Electronics,6,11561.0,10,62429.4,Cash,Delivered
+208,2025-02-12,Rehan,41.0,Chennai,Printer,Office,5,12691.0,5,60282.25,Card,Processing
+209,2025-06-17,Kabir,56.0,Chennai,Keyboard,Accessories,8,6758.0,5,51360.8,Cash,Cancelled
+210,2025-12-23,Najrin,49.0,Jaipur,Keyboard,Accessories,1,25701.0,10,23130.9,Card,Cancelled
+211,2025-12-03,Rehan,54.0,Pune,Keyboard,Accessories,2,38743.0,15,65863.09999999999,Cash,Delivered
+212,2025-12-31,Aarav,,Pune,Phone,Electronics,6,48952.0,10,264340.8,Cash,Processing
+213,2025-08-13,Diya,22.0,Delhi,Keyboard,Accessories,4,43384.0,0,173536.0,UPI,Delivered
+214,2025-09-23, Ayesha ,45.0,Chennai,Keyboard,Accessories,7,17240.0,0,120680.0,Cash,Delivered
+215,2025-07-05,Diya,40.0,Pune,Keyboard,Accessories,7,58322.0,10,367428.6,Cash,Cancelled
+216,2025-10-04,Kabir,18.0,Jaipur,Phone,Electronics,4,7351.0,10,26463.6,Card,Processing
+217,2025-08-06,Aarav,49.0,Bhopal,Printer,Office,6,35217.0,10,190171.8,Card,Cancelled
+218,2025-05-09,Kabir,44.0,Chennai,Laptop,Electronics,2,44531.0,5,84608.9,UPI,Delivered
+219,2025-03-19,Zoya,53.0,Delhi,Laptop,Electronics,5,31021.0,15,131839.25,UPI,Cancelled
+220,2025-01-18,Riya,18.0,Mumbai,Phone,Electronics,1,38745.0,15,32933.25,Card,Processing
+221,2025-09-14,Aarav,22.0,Bhopal,Phone,Electronics,2,24159.0,5,45902.1,Card,Delivered
+222,2025-12-29,Zoya,44.0,Delhi,Laptop,Electronics,1,56176.0,10,50558.4,Cash,Cancelled
+223,2025-12-19,Aarav,22.0,Chennai,Keyboard,Accessories,7,30924.0,5,205644.6,Cash,Processing
+225,2025-12-05,Ayesha,46.0,Chennai,Printer,Office,4,37385.0,0,149540.0,Cash,Delivered
+226,2025-03-20,Najrin,44.0,Chennai,Laptop,Electronics,8,7646.0,15,51992.8,Cash,Delivered
+227,2025-03-27,Rehan,29.0,Jaipur,Phone,Electronics,5,30901.0,10,139054.5,UPI,Processing
+228,2025-07-04,Kabir,41.0,,Laptop,Electronics,3,15174.0,15,38693.7,Card,Delivered
+229,2025-08-01,Kabir,54.0,Jaipur,Phone,Electronics,five,28084.0,5,53359.6,Cash,Delivered
+230,2025-05-08,Kabir,42.0,Jaipur,Phone,Electronics,1,33396.0,15,28386.6,UPI,Delivered
+231,2025-02-22,Zoya,30.0,Mumbai,Keyboard,Accessories,2,12490.0,10,22482.0,Card,Cancelled
+232,2025-06-30,Diya,28.0,,Laptop,Electronics,4,9617.0,5,36544.6,Card,Processing
+233,2025-04-26,Rehan,44.0,Jaipur,Keyboard,Accessories,3,55441.0,15,141374.55,Cash,Cancelled
+235,2025-05-30,Rehan,19.0,Delhi,Keyboard,Accessories,4,29234.0,0,116936.0,UPI,Delivered
+236,2025-12-26,Najrin,18.0,Delhi,Printer,Office,8,52009.0,5,395268.4,UPI,Cancelled
+237,2025-04-14,Aarav,22.0,Mumbai,Printer,Office,5,18495.0,0,92475.0,UPI,Delivered
+238,2025-03-13,Aarav,24.0,Pune,printer,Office,8,50529.0,15,343597.2,Cash,Processing
+239,2025-10-21,Diya,23.0,Mumbai,Laptop,Electronics,five,59469.0,10,374654.7,Card,Delivered
+240,2025-07-01,Rehan,45.0,Jaipur,Phone,Electronics,3,56257.0,5,160332.45,Card,Cancelled
+242,2025-07-30,Najrin,52.0,Pune,Phone,Electronics,1,55843.0,0,55843.0,Cash,Cancelled
+243,2025-06-25,Zoya,25.0,Jaipur,printer,Office,1,,0,39962.0,Cash,Processing
+244,2025-03-26,Aarav,26.0,Chennai,Phone,Electronics,5,55358.0,5,262950.5,Cash,Delivered
+245,2025-11-22,Ayesha,,Chennai,Printer,Office,6,57463.0,10,310300.2,Card,Delivered
+246,2025-02-18,Zoya,47.0,Jaipur,Phone,Electronics,7,18698.0,15,111253.1,Card,Processing
+247,2025-07-19,Riya,59.0,Bhopal,Keyboard,Accessories,2,8012.0,5,15222.8,Card,Cancelled
+248,2025-04-18,Riya,33.0,,Phone,Electronics,2,29438.0,10,52988.4,Cash,Cancelled
+249,2025-06-07,Zoya,54.0,Jaipur,Printer,Office,3,48546.0,10,131074.2,UPI,Cancelled
+250,2025-01-13,Zoya,50.0,Jaipur,Keyboard,Accessories,7,19589.0,5,130266.85,Cash,Cancelled
+251,2025-09-19,Aarav,56.0,Delhi,Phone,Electronics,5,43716.0,0,218580.0,Cash,Delivered
+252,2025-02-07,Diya,,Mumbai,Phone,Electronics,6,16041.0,15,81809.09999999999,Card,Cancelled
+253,2025-04-16,Zoya,,Bhopal,Phone,Electronics,1,49611.0,15,42169.35,Cash,Delivered
+254,2025-06-27,Ayesha,35.0,Mumbai,Phone,Electronics,8,59375.0,10,427500.0,Card,Cancelled
+255,2025-12-18,Diya,41.0,Mumbai,Keyboard,Accessories,5,9336.0,0,46680.0,Card,Cancelled
+256,2025-08-08,Zoya,35.0,Jaipur,Printer,Office,6,35233.0,5,200828.1,Cash,Delivered
+257,2025-12-24,Aarav,33.0,Pune,Keyboard,Accessories,2,18012.0,10,32421.6,Card,Delivered
+258,2025-04-07,Diya,30.0,Mumbai,Printer,Office,2,21137.0,5,40160.3,Card,Processing
+259,2025-10-27,Kabir,33.0,Bhopal,Printer,Office,6,16143.0,5,92015.1,Cash,Cancelled
+260,2025-01-04,Najrin,23.0,Bhopal,Laptop,Electronics,8,51534.0,0,412272.0,Card,Delivered
+261,2025-10-02,Ayesha,44.0,,Keyboard,Accessories,5,36406.0,5,172928.5,UPI,Processing
+262,2025-08-06,Najrin,47.0,Delhi,Phone,Electronics,8,27018.0,15,183722.4,Cash,Cancelled
+264,2025-05-14,Najrin,19.0,Pune,keyboard,Accessories,7,2991.0,0,20937.0,UPI,Delivered
+265,2025-06-19,Rehan,28.0,Pune,Phone,Electronics,1,57421.0,0,57421.0,UPI,Delivered
+266,2025-07-30,Ayesha,18.0,Bhopal,Printer,Office,6,24508.0,0,147048.0,UPI,Cancelled
+267,2025-05-25,Rehan,42.0,Pune,Printer,Office,five,49227.0,5,140296.95,UPI,Processing
+268,2025-09-22,Zoya,32.0,Mumbai,Printer,Office,7,16469.0,0,115283.0,UPI,Cancelled
+269,2025-04-06,Najrin,23.0,Mumbai,Phone,Electronics,8,36067.0,0,288536.0,Cash,Processing
+270,2025-12-03,Aarav,49.0,Jaipur,Phone,Electronics,1,18827.0,5,17885.65,Cash,Cancelled
+271,2025-09-18,Zoya,40.0,Jaipur,Phone,Electronics,7,15067.0,0,105469.0,UPI,Cancelled
+273,2025-02-15,Najrin,27.0,,Keyboard,Accessories,4,11035.0,5,41933.0,Card,Cancelled
+274,2025-10-04,Rehan,49.0,Jaipur,Phone,Electronics,7,22609.0,0,158263.0,UPI,Processing
+275,2025-05-05,Ayesha,35.0,Pune,Phone,Electronics,3,5630.0,0,16890.0,Cash,Processing
+277,2025-10-22,Riya,43.0,Chennai,Laptop,Electronics,5,16572.0,0,82860.0,UPI,Processing
+278,2025-09-18,Aarav,53.0,Delhi,Printer,Office,4,33376.0,5,126828.8,Cash,Cancelled
+279,2025-07-05,Ayesha,,,Laptop,Electronics,2,29427.0,0,58854.0,Cash,Processing
+281,2025-10-03,Riya,50.0,Bhopal,Phone,Electronics,7,13870.0,0,97090.0,UPI,Processing
+282,2025-12-14,Aarav,25.0,,Laptop,Electronics,five,3005.0,0,24040.0,Card,Processing
+283,2025-08-01,Riya,26.0,Delhi,Phone,Electronics,3,49670.0,5,141559.5,UPI,Cancelled
+284,2025-10-10,Ayesha,25.0,Pune,Printer,Office,5,17440.0,10,78480.0,UPI,Cancelled
+285,2025-08-27,Ayesha,58.0,Pune,Laptop,Electronics,7,42636.0,10,268606.8,UPI,Processing
+286,2025-11-13,Kabir,58.0,Mumbai,Keyboard,Accessories,5,8878.0,15,37731.5,Card,Delivered
+287,2025-03-06,Rehan,27.0,Delhi,Laptop,Electronics,1,43407.0,15,36895.95,Card,Processing
+288,2025-09-12,Ayesha,41.0,Bhopal,Keyboard,Accessories,6,47607.0,0,285642.0,Cash,Processing
+289,2025-08-07,Rehan,30.0,Jaipur,Phone,Electronics,1,12860.0,10,11574.0,UPI,Processing
+290,2025-02-24,Diya,53.0,Pune,Printer,Office,6,37606.0,10,203072.4,Card,Cancelled
+291,2025-07-14,Aarav,26.0,Pune,Laptop,Electronics,7,9736.0,0,68152.0,Cash,Delivered
+292,2025-12-09,Riya,60.0,Mumbai,Laptop,Electronics,4,52480.0,0,209920.0,UPI,Processing
+293,2025-11-07,Aarav,57.0,Jaipur,Printer,Office,8,30586.0,15,207984.8,Cash,Processing
+294,2025-01-23,Riya,52.0,,Laptop,Electronics,4,19621.0,0,78484.0,UPI,Cancelled
+295,2025-08-04,Diya,,Mumbai,Laptop,Electronics,4,6969.0,15,23694.6,Card,Delivered
+296,2025-01-17,Zoya,59.0,Bhopal,keyboard,Accessories,8,56179.0,10,404488.8,Cash,Processing
+297,2025-05-18,Kabir,29.0,Delhi,Printer,Office,5,38297.0,10,172336.5,UPI,Delivered
+298,2025-08-18,Aarav,19.0,Mumbai,Printer,Office,1,13985.0,10,12586.5,Card,Delivered
+299,2025-10-09,Diya,20.0,Bhopal,Phone,Electronics,6,14464.0,10,78105.6,Cash,Delivered
+300,2025-09-19,Kabir,28.0,Mumbai,Keyboard,Accessories,6,9992.0,0,59952.0,Cash,Processing
+301,2025-09-12,Riya,42.0,Chennai,Laptop,Electronics,3,34185.0,0,102555.0,UPI,Cancelled
+302,2025-06-03,Zoya,60.0,Mumbai,Keyboard,Accessories,7,7172.0,15,42673.4,UPI,Delivered
+303,2025-11-17,Najrin,37.0,Bhopal,Keyboard,Accessories,8,34350.0,15,233580.0,Cash,Processing
+304,2025-08-04,Riya,48.0,Pune,Phone,Electronics,7,47173.0,5,313700.45,Card,Processing
+305,2025-09-06,Najrin,44.0,Chennai,Phone,Electronics,7,24507.0,15,145816.65,Card,Cancelled
+306,2025-12-12,Zoya,19.0,Jaipur,Printer,Office,4,48560.0,10,174816.0,UPI,Delivered
+307,2025-08-09,Najrin,36.0,Pune,Keyboard,Accessories,3,57141.0,15,145709.55,UPI,Processing
+308,2025-06-27,Ayesha,56.0,Delhi,Laptop,Electronics,4,53017.0,15,180257.8,Card,Delivered
+309,2025-08-11,Aarav,49.0,Pune,Phone,Electronics,4,35268.0,10,126964.8,UPI,Delivered
+310,2025-04-11,Riya,19.0,Pune,Phone,Electronics,8,57333.0,0,458664.0,Cash,Cancelled
+311,2025-10-11,Kabir,36.0,Jaipur,Printer,Office,5,19367.0,10,87151.5,Card,Delivered
+312,2025-05-05,Najrin,46.0,Jaipur,Laptop,Electronics,2,27155.0,5,51594.5,Card,Processing
+313,2025-06-27,Aarav,59.0,Bhopal,Phone,Electronics,2,22633.0,10,40739.4,UPI,Delivered
+314,2025-10-10,Rehan,34.0,Mumbai,Keyboard,Accessories,3,39425.0,5,112361.25,Card,Processing
+315,2025-11-19,Diya,23.0,Mumbai,Printer,Office,1,26781.0,10,24102.9,Cash,Processing
+316,2025-04-09,Zoya,,Jaipur,Printer,Office,7,12874.0,5,85612.09999999999,UPI,Delivered
+317,2025-04-30,Rehan,30.0,Jaipur,Printer,Office,4,31468.0,5,119578.4,Cash,Cancelled
+318,2025-11-24,Diya,41.0,,Laptop,Electronics,1,57872.0,5,54978.39999999999,Card,Cancelled
+319,2025-09-13,Diya,20.0,Delhi,Laptop,Electronics,3,51445.0,0,154335.0,Cash,Processing
+321,2025-10-15,Kabir,39.0,Jaipur,Printer,Office,3,32221.0,15,82163.55,UPI,Delivered
+322,2025-03-02,Najrin,40.0,Mumbai,Phone,Electronics,7,46008.0,5,305953.2,Cash,Processing
+323,2025-01-29,Rehan,37.0,Bhopal,Keyboard,Accessories,4,22084.0,0,88336.0,UPI,Processing
+324,2025-06-13,Rehan,60.0,Bhopal,Printer,Office,5,49427.0,10,222421.5,Card,Processing
+325,2025-07-24,Aarav,37.0,Pune,Printer,Office,7,43028.0,5,286136.2,UPI,Cancelled
+326,2025-03-17,Diya,59.0,Pune,Phone,Electronics,five,59331.0,15,100862.7,UPI,Delivered
+327,2025-03-26,Zoya,35.0,Bhopal,Phone,Electronics,3,49661.0,10,134084.7,Card,Delivered
+328,2025-07-17,Zoya,27.0,Pune,Laptop,Electronics,7,47293.0,0,331051.0,Cash,Cancelled
+329,2025-02-12,Diya,44.0,Delhi,Laptop,Electronics,6,28581.0,5,162911.7,Card,Cancelled
+330,2025-05-04,Najrin,28.0,Mumbai,Laptop,Electronics,1,28878.0,15,24546.3,Card,Delivered
+331,2025-10-03,Aarav,18.0,Mumbai,Phone,Electronics,6,14160.0,0,84960.0,Card,Cancelled
+332,2025-10-04,Kabir,24.0,Mumbai,Laptop,Electronics,5,,0,106735.0,UPI,Delivered
+333,2025-11-01,Rehan,38.0,Delhi,Phone,Electronics,6,34668.0,0,208008.0,Card,Delivered
+334,2025-09-12,Riya,42.0,Mumbai,keyboard,Accessories,3,50526.0,5,143999.1,Card,Delivered
+335,2025-04-05,Kabir,18.0,Pune,Keyboard,Accessories,6,,10,76863.6,Cash,Processing
+336,2025-09-15,Najrin,30.0,Pune,Keyboard,Accessories,1,,0,53430.0,UPI,Delivered
+337,2025-08-31,Ayesha,26.0,Bhopal,Phone,Electronics,4,29026.0,5,110298.8,Card,Processing
+338,2025-06-30,Najrin,23.0,Pune,Printer,Office,8,59074.0,5,448962.4,Card,Delivered
+339,2025-05-20,Kabir,40.0,Chennai,Phone,Electronics,2,36270.0,0,72540.0,UPI,Processing
+342,2025-12-04,Zoya,45.0,Pune,Phone,Electronics,five,19767.0,0,98835.0,Cash,Delivered
+343,2025-10-28,Zoya,56.0,Bhopal,Laptop,Electronics,6,18189.0,10,98220.6,Card,Cancelled
+344,2025-12-23,Najrin,,Bhopal,Phone,Electronics,3,6595.0,5,18795.75,Card,Cancelled
+345,2025-04-23,Najrin,38.0,Bhopal,Laptop,Electronics,5,8010.0,10,36045.0,Card,Delivered
+346,2025-04-28,Najrin,33.0,Delhi,Phone,Electronics,4,58906.0,15,200280.4,Card,Processing
+347,2025-04-11,Rehan,38.0,Jaipur,Phone,Electronics,5,4753.0,5,22576.75,UPI,Delivered
+348,2025-02-23,Zoya,53.0,Chennai,Keyboard,Accessories,5,15370.0,10,69165.0,Card,Delivered
+349,2025-08-22,Kabir,37.0,Chennai,Phone,Electronics,5,2201.0,0,11005.0,UPI,Delivered
+350,2025-08-25,Rehan,,,Laptop,Electronics,7,19334.0,15,115037.3,Card,Cancelled
+351,2025-12-17,Najrin,18.0,Chennai,Keyboard,Accessories,5,42333.0,10,190498.5,Cash,Delivered
+352,2025-03-15,Zoya,48.0,Jaipur,Keyboard,Accessories,7,9668.0,15,57524.6,Card,Delivered
+353,2025-06-16,Ayesha,34.0,Chennai,Keyboard,Accessories,5,45105.0,0,225525.0,Cash,Cancelled
+354,2025-08-31,Aarav,28.0,Bhopal,Phone,Electronics,5,51140.0,0,255700.0,Cash,Cancelled
+355,2025-09-27,Najrin,27.0,Chennai,Keyboard,Accessories,7,36439.0,5,242319.35,Card,Processing
+356,2025-12-10,Najrin,38.0,Delhi,Keyboard,Accessories,8,58309.0,15,396501.2,Card,Cancelled
+357,2025-08-30,Najrin,36.0,Chennai,Printer,Office,5,6115.0,10,27517.5,UPI,Delivered
+358,2025-05-21,Diya,21.0,Pune,Keyboard,Accessories,8,32234.0,0,257872.0,Card,Cancelled
+359,2025-05-07,Ayesha,35.0,Bhopal,Laptop,Electronics,five,47729.0,10,128868.3,Cash,Delivered
+360,2025-05-18,Diya,28.0,Bhopal,Phone,Electronics,7,24867.0,5,165365.55,Card,Processing
+361,2025-08-25,Aarav,56.0,Pune,Phone,Electronics,7,50932.0,0,356524.0,Cash,Processing
+362,2025-01-30,Ayesha,38.0,Delhi,Phone,Electronics,4,47385.0,15,161109.0,Cash,Delivered
+363,2025-11-22,Najrin,37.0,Delhi,Printer,Office,4,38899.0,15,132256.6,UPI,Cancelled
+364,2025-04-12,Aarav,55.0,Mumbai,Printer,Office,5,39776.0,15,169048.0,UPI,Processing
+365,2025-12-27,Najrin,29.0,Mumbai,Printer,Office,7,16751.0,15,99668.45,Cash,Processing
+366,2025-09-04,Aarav,18.0,,Keyboard,Accessories,6,36373.0,15,185502.3,Cash,Cancelled
+367,2025-02-21,Ayesha,57.0,Mumbai,Keyboard,Accessories,8,45821.0,5,348239.6,Cash,Cancelled
+368,2025-04-02,Diya,21.0,Bhopal,Keyboard,Accessories,6,59701.0,0,358206.0,Cash,Cancelled
+369,2025-01-26,Ayesha,51.0,Pune,Keyboard,Accessories,5,31833.0,5,151206.75,Card,Delivered
+370,2025-01-18,Zoya,47.0,,Keyboard,Accessories,1,54689.0,0,54689.0,UPI,Processing
+371,2025-11-12,Rehan,20.0,Chennai,Phone,Electronics,7,40105.0,10,252661.5,Card,Delivered
+372,2025-11-27,Kabir,24.0,Delhi,Phone,Electronics,4,56776.0,15,193038.4,Card,Processing
+373,2025-11-09,Rehan,41.0,Jaipur,Laptop,Electronics,6,57120.0,10,308448.0,Card,Delivered
+374,2025-03-23,Rehan,58.0,Chennai,Phone,Electronics,2,,0,12294.0,Cash,Delivered
+375,2025-06-15, Ayesha ,38.0,Jaipur,Phone,Electronics,1,52654.0,15,44755.9,UPI,Delivered
+376,2025-03-07,Ayesha,21.0,Jaipur,Phone,Electronics,2,12835.0,15,21819.5,UPI,Delivered
+377,2025-08-14,Riya,51.0,Jaipur,Printer,Office,5,15558.0,10,70011.0,Card,Cancelled
+378,2025-03-04,Aarav,20.0,Chennai,Laptop,Electronics,five,58303.0,15,198230.2,Cash,Cancelled
+379,2025-01-31,Rehan,54.0,,Keyboard,Accessories,6,47640.0,0,285840.0,Cash,Delivered
+380,2025-11-01,Aarav,,Jaipur,Keyboard,Accessories,6,24602.0,15,125470.2,Card,Processing
+381,2025-08-07,Rehan,38.0,Bhopal,Printer,Office,3,48696.0,5,138783.6,Cash,Delivered
+382,2025-09-26,Rehan,31.0,Bhopal,Laptop,Electronics,1,25265.0,0,25265.0,UPI,Processing
+383,2025-01-14,Kabir,33.0,Mumbai,Laptop,Electronics,2,34068.0,15,57915.6,Cash,Processing
+384,2025-07-17,Najrin,33.0,Jaipur,Phone,Electronics,8,18805.0,0,150440.0,UPI,Delivered
+385,2025-02-23,Rehan,39.0,Pune,Printer,Office,7,22869.0,10,144074.7,Cash,Delivered
+386,2025-10-19,Riya,,Bhopal,Printer,Office,3,31964.0,15,81508.2,Cash,Delivered
+387,2025-11-02,Rehan,45.0,Delhi,Keyboard,Accessories,7,17163.0,10,108126.9,Card,Processing
+388,2025-05-12,Ayesha,42.0,Jaipur,Laptop,Electronics,7,47759.0,10,300881.7,UPI,Cancelled
+389,2025-04-11,Ayesha,52.0,Mumbai,Phone,Electronics,8,59017.0,0,472136.0,Cash,Delivered
+391,2025-09-09,Aarav,24.0,Chennai,Printer,Office,6,41551.0,0,249306.0,Card,Cancelled
+392,2025-03-21,Najrin,56.0,Chennai,Printer,Office,2,23934.0,10,43081.2,UPI,Cancelled
+393,2025-11-07,Riya,35.0,Jaipur,Phone,Electronics,4,51706.0,15,175800.4,UPI,Delivered
+394,2025-09-27,Diya,54.0,Pune,Keyboard,Accessories,3,,5,51357.0,UPI,Processing
+395,2025-09-25,Aarav,46.0,,Keyboard,Accessories,7,32249.0,15,191881.55,UPI,Cancelled
+396,2025-08-25,Aarav,50.0,Bhopal,Printer,Office,5,21071.0,5,100087.25,Cash,Cancelled
+397,2025-10-30,Kabir,,Jaipur,Printer,Office,3,21197.0,5,60411.45,Card,Delivered
+398,2025-11-30,Diya,40.0,Chennai,Laptop,Electronics,6,18881.0,15,96293.1,UPI,Delivered
+399,2025-03-16,Diya,25.0,Mumbai,Keyboard,Accessories,8,27212.0,5,206811.2,Card,Cancelled
+400,2025-05-23,Rehan,49.0,Jaipur,Keyboard,Accessories,5,25867.0,5,122868.25,Cash,Cancelled
+401,2025-12-03,Riya,58.0,Mumbai,Keyboard,Accessories,7,18532.0,0,129724.0,Card,Processing
+402,2025-02-08,Rehan,60.0,Chennai,Laptop,Electronics,4,3007.0,5,11426.6,Cash,Cancelled
+403,2025-02-08,Aarav,25.0,Bhopal,Printer,Office,4,46250.0,5,175750.0,Card,Processing
+404,2025-06-15,Rehan,39.0,Mumbai,Laptop,Electronics,1,14690.0,10,13221.0,Card,Processing
+405,2025-08-06,Rehan,41.0,Pune,Laptop,Electronics,6,58295.0,15,297304.5,Card,Cancelled
+406,2025-02-16,Zoya,36.0,Bhopal,Keyboard,Accessories,7,4645.0,15,27637.75,Card,Cancelled
+407,2025-03-29,Kabir,20.0,Jaipur,Keyboard,Accessories,4,25981.0,5,98727.8,Card,Cancelled
+408,2025-09-02,Zoya,25.0,Pune,Keyboard,Accessories,8,44299.0,15,301233.2,UPI,Cancelled
+409,2025-05-12,Diya,35.0,Chennai,Keyboard,Accessories,5,17392.0,15,73916.0,Cash,Delivered
+410,2025-01-24,Ayesha,51.0,Jaipur,Phone,Electronics,5,19258.0,10,86661.0,Card,Processing
+411,2025-11-11,Najrin,23.0,Pune,Printer,Office,five,34809.0,15,147938.25,UPI,Delivered
+412,2025-12-01,Diya,51.0,Delhi,Phone,Electronics,8,19959.0,0,159672.0,Cash,Cancelled
+413,2025-08-02,Aarav,,Delhi,Keyboard,Accessories,4,7028.0,5,26706.4,Card,Processing
+414,2025-01-23,Kabir,60.0,,Phone,Electronics,5,28657.0,15,121792.25,Cash,Delivered
+415,2025-07-25,Najrin,50.0,Mumbai,Phone,Electronics,2,41681.0,10,75025.8,Cash,Cancelled
+416,2025-09-17,Najrin,52.0,Pune,Phone,Electronics,5,30783.0,15,130827.75,UPI,Delivered
+417,2025-01-06,Najrin,57.0,Mumbai,Phone,Electronics,1,12787.0,15,10868.95,Cash,Processing
+418,2025-09-03,Aarav,46.0,Bhopal,Phone,Electronics,4,50145.0,15,170493.0,Cash,Cancelled
+419,2025-04-22,Riya,32.0,Delhi,Phone,Electronics,6,55346.0,0,332076.0,Card,Delivered
+420,2025-10-27,Ayesha,50.0,,Phone,Electronics,5,55766.0,10,250947.0,Card,Delivered
+421,2025-03-15,Najrin,46.0,Pune,Printer,Office,1,20220.0,15,17187.0,UPI,Cancelled
+422,2025-05-17,Riya,,Pune,Keyboard,Accessories,3,27722.0,10,74849.40000000001,UPI,Cancelled
+423,2025-08-27,Ayesha,20.0,Pune,Phone,Electronics,1,25141.0,15,21369.85,Cash,Cancelled
+424,2025-03-29,Riya,59.0,Bhopal,Laptop,Electronics,3,33292.0,10,89888.40000000001,Cash,Processing
+426,2025-07-03,Najrin,18.0,,Printer,Office,4,39657.0,0,158628.0,UPI,Cancelled
+427,2025-01-21,Diya,23.0,Jaipur,Keyboard,Accessories,4,47851.0,5,181833.8,UPI,Delivered
+428,2025-04-13,Rehan,,Jaipur,Keyboard,Accessories,1,28300.0,5,26885.0,Card,Cancelled
+429,2025-12-29,Riya,42.0,Delhi,Printer,Office,6,58189.0,5,331677.3,UPI,Delivered
+430,2025-01-07,Aarav,35.0,Bhopal,Printer,Office,7,2010.0,0,14070.0,UPI,Cancelled
+432,2025-09-20,Riya,35.0,Mumbai,Phone,Electronics,8,7391.0,0,59128.0,Cash,Delivered
+433,2025-04-25,Riya,34.0,Pune,Printer,Office,3,47229.0,15,120433.95,Card,Cancelled
+434,2025-03-27,Zoya,21.0,Bhopal,Laptop,Electronics,5,33697.0,0,168485.0,UPI,Cancelled
+435,2025-04-21,Zoya,18.0,Mumbai,Keyboard,Accessories,1,51807.0,10,46626.3,UPI,Delivered
+436,2025-01-31,Diya,29.0,Delhi,Phone,Electronics,4,56133.0,10,202078.8,Card,Processing
+437,2025-03-11,Zoya,26.0,Delhi,Printer,Office,2,32343.0,5,61451.7,Cash,Cancelled
+438,2025-11-20,Aarav,40.0,Jaipur,Phone,Electronics,8,22561.0,5,171463.6,Card,Delivered
+439,2025-06-29,Diya,40.0,Delhi,Keyboard,Accessories,6,44383.0,10,239668.2,UPI,Delivered
+440,2025-05-22, Ayesha ,,Pune,Laptop,Electronics,2,19267.0,0,38534.0,Card,Delivered
+442,2025-10-01,Rehan,33.0,Chennai,Printer,Office,4,39176.0,0,156704.0,UPI,Cancelled
+443,2025-08-14,Ayesha,60.0,Delhi,Keyboard,Accessories,2,18991.0,15,32284.7,Card,Delivered
+444,2025-05-02,Rehan,29.0,,laptop,Electronics,4,48986.0,0,195944.0,UPI,Delivered
+445,2025-05-17,Riya,57.0,Bhopal,Printer,Office,3,32193.0,10,86921.1,Cash,Cancelled
+446,2025-07-01,Kabir,59.0,Bhopal,Phone,Electronics,five,37451.0,0,262157.0,Card,Delivered
+447,2025-09-18,Rehan,52.0,Pune,Phone,Electronics,7,3861.0,0,27027.0,Cash,Delivered
+448,2025-05-20,Ayesha,56.0,Jaipur,Laptop,Electronics,1,58462.0,10,52615.8,UPI,Cancelled
+449,2025-04-04,Aarav,35.0,Pune,Keyboard,Accessories,8,59745.0,10,430164.0,Card,Processing
+450,2025-12-11,Najrin,22.0,Jaipur,Keyboard,Accessories,2,29763.0,15,50597.1,UPI,Delivered
+451,2025-10-05,Ayesha,46.0,Jaipur,Laptop,Electronics,2,42300.0,5,80370.0,UPI,Processing
+452,2025-05-06,Zoya,20.0,Mumbai,Keyboard,Accessories,8,41913.0,10,301773.6,Card,Delivered
+453,2025-11-12,Zoya,35.0,Jaipur,Laptop,Electronics,5,21992.0,10,98964.0,UPI,Processing
+454,2025-05-19,Zoya,35.0,Bhopal,Printer,Office,8,29034.0,15,197431.2,Card,Delivered
+455,2025-06-25,Ayesha,50.0,Pune,Phone,Electronics,3,40934.0,5,116661.9,Cash,Cancelled
+456,2025-12-19,Diya,58.0,Delhi,Keyboard,Accessories,7,21513.0,10,135531.9,Cash,Cancelled
+457,2025-03-13,Najrin,45.0,Jaipur,Keyboard,Accessories,5,30258.0,5,143725.5,Card,Delivered
+458,2025-09-08,Aarav,22.0,Jaipur,Keyboard,Accessories,5,14559.0,10,65515.5,UPI,Processing
+459,2025-10-04,Kabir,43.0,Pune,Printer,Office,4,20936.0,5,79556.8,Cash,Processing
+460,2025-06-27,Riya,29.0,Jaipur,Printer,Office,6,36855.0,15,187960.5,Card,Cancelled
+461,2025-09-20,Rehan,39.0,Chennai,Printer,Office,5,22514.0,10,101313.0,Card,Cancelled
+462,2025-06-18,Kabir,34.0,Chennai,Keyboard,Accessories,6,19928.0,10,107611.2,UPI,Processing
+463,2025-08-26,Ayesha,43.0,,Keyboard,Accessories,5,6017.0,10,27076.5,Cash,Cancelled
+464,2025-02-20,Diya,25.0,,Laptop,Electronics,1,30349.0,10,27314.1,Card,Processing
+465,2025-04-17,Kabir,42.0,Jaipur,Keyboard,Accessories,5,24260.0,15,103105.0,UPI,Processing
+466,2025-11-11,Najrin,41.0,Delhi,Printer,Office,1,11261.0,10,10134.9,UPI,Cancelled
+467,2025-09-28,Ayesha,58.0,Jaipur,Laptop,Electronics,3,25322.0,5,72167.7,UPI,Processing
+469,2025-08-10,Aarav,48.0,Bhopal,Keyboard,Accessories,3,29212.0,5,83254.2,UPI,Processing
+470,2025-03-25,Ayesha,29.0,Chennai,Printer,Office,1,52494.0,5,49869.3,UPI,Cancelled
+472,2025-06-01,Diya,30.0,Jaipur,Printer,Office,5,18393.0,0,91965.0,Card,Processing
+473,2025-01-08,Najrin,,Delhi,Keyboard,Accessories,6,56117.0,15,286196.7,UPI,Processing
+474,2025-02-24,Rehan,57.0,Chennai,Keyboard,Accessories,3,48774.0,15,124373.7,Card,Delivered
+475,2025-04-16,Kabir,45.0,Delhi,Keyboard,Accessories,3,4494.0,5,12807.9,Cash,Cancelled
+476,2025-07-17,Rehan,18.0,,Printer,Office,5,13416.0,15,57018.0,UPI,Processing
+477,2025-07-23,Zoya,55.0,Mumbai,Phone,Electronics,4,7221.0,5,27439.8,UPI,Cancelled
+478,2025-12-17,Riya,28.0,,Keyboard,Accessories,2,38445.0,0,76890.0,Cash,Cancelled
+479,2025-05-16,Najrin,,Pune,Keyboard,Accessories,5,17847.0,10,80311.5,Card,Delivered
+480,2025-09-11,Najrin,30.0,Delhi,Keyboard,Accessories,8,11834.0,0,94672.0,UPI,Cancelled
+481,2025-11-05,Najrin,,Pune,Printer,Office,3,13321.0,10,35966.7,Card,Cancelled
+482,2025-09-24,Aarav,57.0,Chennai,Keyboard,Accessories,8,13776.0,15,93676.8,UPI,Processing
+483,2025-04-12,Diya,33.0,Delhi,Phone,Electronics,5,8266.0,5,39263.5,UPI,Processing
+485,2025-04-24,Ayesha,48.0,Jaipur,Printer,Office,8,24504.0,15,166627.2,Card,Processing
+486,2025-05-22,Riya,20.0,Mumbai,Keyboard,Accessories,2,30776.0,10,55396.8,UPI,Processing
+487,2025-05-12,Kabir,18.0,Pune,Printer,Office,5,37456.0,0,187280.0,UPI,Cancelled
+488,2025-03-27,Riya,59.0,Mumbai,Laptop,Electronics,2,35223.0,0,70446.0,Cash,Processing
+489,2025-02-01,Diya,25.0,Pune,Keyboard,Accessories,2,39498.0,10,71096.40000000001,Cash,Cancelled
+490,2025-06-29,Rehan,26.0,Bhopal,Printer,Office,7,59760.0,5,397404.0,UPI,Cancelled
+491,2025-06-06,Aarav,22.0,Pune,Phone,Electronics,7,29042.0,0,203294.0,UPI,Processing
+492,2025-09-24,Aarav,37.0,Pune,Printer,Office,8,10261.0,15,69774.8,UPI,Cancelled
+493,2025-06-25,Najrin,34.0,Delhi,Keyboard,Accessories,6,31110.0,5,177327.0,Card,Cancelled
+494,2025-12-19,Riya,54.0,Jaipur,Keyboard,Accessories,4,25038.0,15,85129.2,Cash,Processing
+495,2025-01-11,Ayesha,31.0,Chennai,Printer,Office,4,31095.0,5,118161.0,UPI,Cancelled
+496,2025-09-01,Ayesha,56.0,,Laptop,Electronics,5,16212.0,15,68901.0,Cash,Processing
+497,2025-11-27,Aarav,31.0,Delhi,Phone,Electronics,4,14930.0,15,50762.0,Card,Delivered
+498,2025-11-09,Rehan,,Pune,Phone,Electronics,3,27541.0,15,70229.55,UPI,Processing
+499,2025-11-10,Rehan,,,Printer,Office,4,41754.0,15,141963.6,UPI,Delivered
+500,2025-12-07,Aarav,46.0,Bhopal,Laptop,Electronics,1,,10,10854.0,UPI,Delivered
+501,2025-07-21,Zoya,55.0,Chennai,Keyboard,Accessories,3,37182.0,5,105968.7,Card,Delivered
+503,2025-11-08,Rehan,33.0,,Printer,Office,1,36464.0,0,36464.0,Card,Delivered
+504,2025-03-14,Rehan,30.0,Bhopal,Phone,Electronics,4,52387.0,10,188593.2,Card,Cancelled
+505,2025-09-01,Ayesha,21.0,Jaipur,Phone,Electronics,7,58833.0,0,411831.0,UPI,Delivered
+506,2025-03-09,Rehan,39.0,Bhopal,Keyboard,Accessories,1,41205.0,15,35024.25,Cash,Delivered
+507,2025-09-21,Ayesha,23.0,Delhi,Laptop,Electronics,1,18795.0,15,15975.75,Card,Delivered
+508,2025-10-26,Zoya,52.0,Pune,Laptop,Electronics,5,46699.0,10,210145.5,Cash,Cancelled
+509,2025-01-13,Riya,44.0,Mumbai,Printer,Office,1,20714.0,5,19678.3,Cash,Cancelled
+511,2025-03-30,Najrin,57.0,Mumbai,Laptop,Electronics,7,52740.0,0,369180.0,Cash,Delivered
+512,2025-12-20,Najrin,50.0,Chennai,Keyboard,Accessories,8,33933.0,0,271464.0,Cash,Cancelled
+513,2025-06-30,Diya,54.0,Bhopal,Phone,Electronics,3,30224.0,10,81604.8,Cash,Processing
+514,2025-03-31,Diya,25.0,Mumbai,Printer,Office,6,12346.0,5,70372.2,Cash,Processing
+515,2025-06-02,Aarav,30.0,Chennai,Keyboard,Accessories,2,17463.0,0,34926.0,Cash,Cancelled
+516,2025-04-23,Zoya,47.0,Bhopal,Laptop,Electronics,4,51855.0,0,207420.0,Cash,Processing
+517,2025-10-24,Aarav,30.0,Bhopal,Laptop,Electronics,2,37450.0,5,71155.0,UPI,Cancelled
+518,2025-09-28,Ayesha,18.0,Jaipur,Keyboard,Accessories,3,40437.0,15,103114.35,UPI,Cancelled
+519,2025-12-06,Diya,50.0,Bhopal,Laptop,Electronics,7,20793.0,15,123718.35,Cash,Processing
+520,2025-01-18,Diya,27.0,Pune,Laptop,Electronics,8,2975.0,10,21420.0,Cash,Cancelled
+521,2025-05-19,Kabir,37.0,Delhi,Keyboard,Accessories,3,47484.0,0,142452.0,Card,Cancelled
+522,2025-08-07,Rehan,28.0,Mumbai,Phone,Electronics,3,17906.0,5,51032.1,Card,Cancelled
+523,2025-02-03,Najrin,49.0,Pune,Laptop,Electronics,8,,10,394999.2,UPI,Delivered
+524,2025-08-25,Zoya,47.0,Pune,Keyboard,Accessories,7,6406.0,10,40357.8,UPI,Processing
+525,2025-01-16,Ayesha,20.0,Bhopal,Printer,Office,3,35266.0,5,100508.1,Cash,Delivered
+526,2025-06-28,Diya,45.0,Bhopal,Phone,Electronics,4,14737.0,0,58948.0,UPI,Processing
+527,2025-02-10,Riya,44.0,Chennai,Laptop,Electronics,7,11845.0,0,82915.0,Cash,Cancelled
+528,2025-10-10, Aarav ,,Bhopal,Phone,Electronics,7,47638.0,0,333466.0,UPI,Processing
+529,2025-08-10,Aarav,45.0,Pune,Phone,Electronics,5,59943.0,5,284729.25,UPI,Processing
+530,2025-06-07,Rehan,57.0,Mumbai,Phone,Electronics,5,17386.0,10,78237.0,Cash,Cancelled
+531,2025-03-20,Diya,19.0,Pune,Phone,Electronics,7,29994.0,10,188962.2,Cash,Delivered
+532,2025-03-29,Riya,40.0,Delhi,Laptop,Electronics,5,24425.0,10,109912.5,Cash,Cancelled
+533,2025-04-11,Kabir,38.0,Delhi,Keyboard,Accessories,6,6562.0,10,35434.8,UPI,Cancelled
+534,2025-08-13,Diya,52.0,Mumbai,Keyboard,Accessories,1,,10,47870.1,Cash,Cancelled
+535,2025-02-03,Najrin,51.0,Delhi,Keyboard,Accessories,3,44022.0,10,118859.4,Card,Processing
+536,2025-09-20,Ayesha,,,Laptop,Electronics,7,59799.0,15,355804.05,Cash,Delivered
+537,2025-02-21,Rehan,32.0,Mumbai,Printer,Office,8,36305.0,15,246874.0,Card,Processing
+538,2025-08-19,Zoya,41.0,Jaipur,Keyboard,Accessories,3,48460.0,15,123573.0,Cash,Cancelled
+539,2025-06-16,Riya,,Delhi,Phone,Electronics,4,34725.0,5,131955.0,Cash,Cancelled
+540,2025-04-20,Kabir,23.0,Mumbai,Keyboard,Accessories,6,53213.0,15,271386.3,Card,Delivered
+541,2025-11-19,Aarav,51.0,,Printer,Office,3,44178.0,0,132534.0,UPI,Delivered
+542,2025-10-21,Diya,44.0,Chennai,Printer,Office,4,13932.0,10,50155.2,Card,Delivered
+543,2025-07-02,Diya,58.0,Bhopal,Printer,Office,3,35338.0,5,100713.3,Card,Processing
+544,2025-01-31,Najrin,35.0,,Keyboard,Accessories,4,27303.0,0,109212.0,UPI,Cancelled
+545,2025-10-12,Najrin,59.0,Jaipur,Laptop,Electronics,1,13874.0,5,13180.3,Card,Processing
+546,2025-06-10,Riya,34.0,,Keyboard,Accessories,3,35624.0,5,101528.4,Cash,Delivered
+547,2025-04-21,Zoya,34.0,Jaipur,Keyboard,Accessories,2,11237.0,15,19102.9,UPI,Delivered
+548,2025-05-14,Aarav,40.0,Bhopal,Printer,Office,3,45639.0,5,130071.15,UPI,Delivered
+549,2025-04-26,Aarav,33.0,Delhi,Keyboard,Accessories,1,29841.0,5,28348.95,Cash,Delivered
+550,2025-03-01, Zoya ,54.0,Pune,Phone,Electronics,five,37979.0,5,72160.09999999999,Cash,Processing
+551,2025-09-02,Riya,41.0,Delhi,Printer,Office,6,36648.0,15,186904.8,Cash,Processing
+552,2025-09-10,Riya,23.0,Bhopal,Keyboard,Accessories,2,7382.0,10,13287.6,Card,Cancelled
+553,2025-07-19,Riya,44.0,Pune,Keyboard,Accessories,3,22225.0,0,66675.0,UPI,Cancelled
+554,2025-07-08,Rehan,43.0,Mumbai,Laptop,Electronics,five,21046.0,15,53667.3,Card,Delivered
+555,2025-11-04,Rehan,40.0,Chennai,Printer,Office,8,45016.0,15,306108.8,Card,Delivered
+556,2025-03-27,Riya,20.0,Jaipur,Keyboard,Accessories,5,21140.0,0,105700.0,Card,Cancelled
+557,2025-07-20,Najrin,,Pune,Printer,Office,2,21733.0,0,43466.0,Cash,Processing
+558,2025-10-25,Aarav,37.0,Bhopal,Printer,Office,8,37299.0,0,298392.0,UPI,Cancelled
+559,2025-09-29,Diya,39.0,Jaipur,Phone,Electronics,4,49811.0,5,189281.8,UPI,Delivered
+560,2025-03-06,Rehan,24.0,Jaipur,Keyboard,Accessories,8,12907.0,15,87767.59999999999,Cash,Cancelled
+561,2025-11-11,Aarav,54.0,Delhi,Phone,Electronics,7,,5,192191.65,UPI,Delivered
+564,2025-03-02,Diya,,Pune,Printer,Office,7,44175.0,10,278302.5,Card,Processing
+565,2025-03-04,Aarav,22.0,Jaipur,Phone,Electronics,3,52875.0,5,150693.75,Card,Delivered
+566,2025-01-24,Zoya,50.0,Jaipur,Phone,Electronics,3,52386.0,10,141442.2,UPI,Processing
+568,2025-12-31,Diya,40.0,Mumbai,Phone,Electronics,6,,0,171300.0,Card,Processing
+569,2025-12-06, Diya ,22.0,Pune,Keyboard,Accessories,8,19415.0,15,132022.0,UPI,Cancelled
+570,2025-01-01,Diya,34.0,Bhopal,Keyboard,Accessories,4,54179.0,15,184208.6,Card,Delivered
+571,2025-11-08,Najrin,39.0,Chennai,Phone,Electronics,2,41647.0,15,70799.9,UPI,Cancelled
+572,2025-02-24,Zoya,55.0,,Laptop,Electronics,8,44254.0,10,318628.8,Cash,Delivered
+573,2025-04-07,Ayesha,57.0,Pune,Laptop,Electronics,5,40439.0,15,171865.75,Cash,Processing
+574,2025-03-09, Aarav ,31.0,Jaipur,phone,Electronics,7,32452.0,10,204447.6,UPI,Delivered
+575,2025-06-28, Rehan ,34.0,Pune,Keyboard,Accessories,5,42188.0,10,189846.0,UPI,Processing
+577,2025-05-22,Ayesha,34.0,Delhi,Laptop,Electronics,2,29407.0,5,55873.3,Card,Delivered
+578,2025-04-06,Zoya,28.0,Pune,Phone,Electronics,6,46406.0,5,264514.2,UPI,Cancelled
+579,2025-08-03,Riya,53.0,Chennai,Laptop,Electronics,5,41264.0,15,175372.0,UPI,Cancelled
+580,2025-05-07,Riya,52.0,Bhopal,Keyboard,Accessories,7,31333.0,15,186431.35,Cash,Processing
+581,2025-07-04,Zoya,38.0,Pune,Keyboard,Accessories,2,56505.0,5,107359.5,Card,Processing
+582,2025-08-28,Ayesha,40.0,Mumbai,Printer,Office,1,25169.0,15,21393.65,UPI,Processing
+583,2025-10-10,Ayesha,53.0,Chennai,Printer,Office,4,27923.0,15,94938.2,UPI,Delivered
+584,2025-11-28,Ayesha,40.0,Delhi,Phone,Electronics,1,41763.0,0,41763.0,Cash,Cancelled
+585,2025-06-20,Kabir,53.0,,Laptop,Electronics,3,54020.0,10,145854.0,Cash,Delivered
+586,2025-06-21,Ayesha,22.0,Delhi,Keyboard,Accessories,5,21635.0,0,108175.0,UPI,Delivered
+587,2025-08-14, Najrin ,36.0,Mumbai,Laptop,Electronics,1,10956.0,0,10956.0,Cash,Cancelled
+588,2025-03-18,Ayesha,30.0,Delhi,Printer,Office,2,17786.0,10,32014.8,Cash,Cancelled
+589,2025-02-04,Ayesha,22.0,Jaipur,Phone,Electronics,4,40576.0,10,146073.6,UPI,Delivered
+590,2025-10-22,Rehan,29.0,Bhopal,Printer,Office,6,36013.0,15,183666.3,Cash,Cancelled
+591,2025-03-12,Kabir,33.0,Delhi,Keyboard,Accessories,5,34596.0,0,172980.0,Card,Cancelled
+592,2025-06-25,Aarav,59.0,Jaipur,Laptop,Electronics,6,25404.0,10,137181.6,Cash,Processing
+593,2025-01-16,Riya,42.0,Jaipur,Printer,Office,5,43986.0,5,208933.5,Card,Processing
+594,2025-07-14,Kabir,52.0,Pune,Phone,Electronics,5,19688.0,5,93518.0,Cash,Cancelled
+595,2025-10-11,Kabir,29.0,Bhopal,Phone,Electronics,2,10011.0,15,17018.7,UPI,Processing
+596,2025-02-28,Rehan,34.0,Pune,Phone,Electronics,5,25568.0,15,108664.0,Cash,Processing
+597,2025-05-30,Diya,60.0,Jaipur,Laptop,Electronics,7,48382.0,0,338674.0,Cash,Delivered
+598,2025-01-29,Kabir,55.0,,Laptop,Electronics,1,58077.0,0,58077.0,Cash,Delivered
+600,2025-05-24,Aarav,58.0,Mumbai,Laptop,Electronics,5,16477.0,15,70027.25,UPI,Cancelled
+601,2025-11-27,Najrin,43.0,Pune,Printer,Office,4,24111.0,5,91621.8,Cash,Cancelled
+602,2025-06-11,Kabir,21.0,Jaipur,Keyboard,Accessories,7,39689.0,10,250040.7,UPI,Delivered
+603,2025-08-12,Riya,42.0,Bhopal,Laptop,Electronics,3,44708.0,10,120711.6,Card,Cancelled
+604,2025-10-01,Najrin,49.0,Pune,Phone,Electronics,4,52750.0,15,179350.0,UPI,Delivered
+605,2025-08-26,Aarav,43.0,Delhi,Phone,Electronics,6,47157.0,15,240500.7,Cash,Delivered
+606,2025-06-11,Aarav,21.0,,Phone,Electronics,1,28797.0,0,28797.0,Cash,Delivered
+607,2025-08-07,Najrin,55.0,Delhi,Keyboard,Accessories,2,49290.0,5,93651.0,Card,Delivered
+608,2025-05-22,Ayesha,49.0,Bhopal,Laptop,Electronics,7,51006.0,0,357042.0,UPI,Cancelled
+609,2025-05-13,Najrin,35.0,Mumbai,Keyboard,Accessories,2,53078.0,10,95540.4,Cash,Processing
+610,2025-06-10,Najrin,59.0,Delhi,Phone,Electronics,4,56785.0,5,215783.0,UPI,Delivered
+611,2025-02-10,Ayesha,22.0,Bhopal,Keyboard,Accessories,8,37659.0,10,271144.8,Cash,Processing
+612,2025-10-12,Ayesha,45.0,Jaipur,Printer,Office,6,56486.0,10,305024.4,UPI,Delivered
+613,2025-08-08,Kabir,20.0,Mumbai,Phone,Electronics,6,22828.0,0,136968.0,UPI,Processing
+614,2025-03-04,Rehan,46.0,Mumbai,Laptop,Electronics,3,4008.0,10,10821.6,Cash,Delivered
+616,2025-03-08,Riya,34.0,Chennai,Keyboard,Accessories,8,17819.0,10,128296.8,UPI,Delivered
+618,2025-12-18,Zoya,55.0,Bhopal,Laptop,Electronics,8,5712.0,15,38841.6,Card,Cancelled
+619,2025-04-06,Najrin,,Chennai,Laptop,Electronics,8,25829.0,10,185968.8,UPI,Cancelled
+620,2025-06-28,Riya,47.0,Jaipur,Keyboard,Accessories,4,36479.0,0,145916.0,Cash,Cancelled
+621,2025-02-08,Zoya,44.0,Mumbai,Laptop,Electronics,1,20132.0,15,17112.2,Card,Cancelled
+622,2025-02-22,Kabir,26.0,Mumbai,Laptop,Electronics,8,21068.0,0,168544.0,Card,Delivered
+623,2025-04-18,Rehan,47.0,Pune,laptop,Electronics,8,11350.0,5,86260.0,UPI,Delivered
+624,2025-11-20,Aarav,32.0,Chennai,Keyboard,Accessories,7,53290.0,15,317075.5,UPI,Delivered
+625,2025-01-01,Rehan,20.0,Jaipur,Phone,Electronics,1,16395.0,5,15575.25,UPI,Delivered
+626,2025-03-28,Rehan,18.0,Mumbai,Keyboard,Accessories,4,59123.0,0,236492.0,Card,Cancelled
+627,2025-09-26,Diya,57.0,Delhi,Laptop,Electronics,7,38632.0,0,270424.0,Cash,Cancelled
+628,2025-03-19,Kabir,36.0,Delhi,Printer,Office,3,51067.0,0,153201.0,UPI,Processing
+629,2025-06-20,Ayesha,32.0,Mumbai,Phone,Electronics,6,22557.0,15,115040.7,Cash,Cancelled
+631,2025-08-06,Aarav,54.0,Pune,Printer,Office,4,5479.0,0,21916.0,Cash,Processing
+632,2025-09-29,Kabir,40.0,Delhi,laptop,Electronics,5,29895.0,0,149475.0,UPI,Processing
+633,2025-05-16,Rehan,,Mumbai,Phone,Electronics,7,23714.0,10,149398.2,UPI,Processing
+634,2025-02-06,Ayesha,43.0,Delhi,Keyboard,Accessories,4,30518.0,15,103761.2,Card,Processing
+635,2025-09-05,Najrin,55.0,Bhopal,Keyboard,Accessories,4,56735.0,15,192899.0,Cash,Cancelled
+636,2025-09-23,Ayesha,32.0,Pune,Laptop,Electronics,1,40345.0,10,36310.5,Card,Cancelled
+637,2025-11-02,Aarav,38.0,Chennai,Printer,Office,2,19544.0,10,35179.2,Cash,Processing
+638,2025-05-06,Rehan,26.0,Chennai,Phone,Electronics,4,35831.0,15,121825.4,UPI,Cancelled
+639,2025-03-03,Riya,19.0,Pune,phone,Electronics,3,41997.0,10,113391.9,UPI,Cancelled
+640,2025-07-27,Rehan,31.0,Pune,Printer,Office,8,32860.0,5,249736.0,Cash,Delivered
+642,2025-05-06,Riya,25.0,Chennai,Laptop,Electronics,6,59787.0,0,358722.0,Card,Processing
+644,2025-02-09,Diya,43.0,Chennai,Printer,Office,8,47778.0,15,324890.4,Card,Processing
+645,2025-05-22,Riya,36.0,Pune,Phone,Electronics,7,31121.0,15,185169.95,Card,Delivered
+646,2025-12-11,Diya,18.0,Bhopal,Keyboard,Accessories,2,21571.0,10,38827.8,UPI,Processing
+647,2025-01-14,Zoya,27.0,Jaipur,Phone,Electronics,8,57601.0,0,460808.0,Card,Delivered
+648,2025-11-08,Zoya,56.0,Jaipur,keyboard,Accessories,3,25732.0,5,73336.2,Cash,Processing
+649,2025-07-04,Riya,,Pune,Keyboard,Accessories,2,17399.0,15,29578.3,Cash,Processing
+650,2025-01-08,Zoya,52.0,Delhi,Keyboard,Accessories,4,3037.0,5,11540.6,Card,Processing
+651,2025-04-12,Najrin,20.0,Chennai,Keyboard,Accessories,3,36356.0,0,109068.0,Cash,Processing
+652,2025-10-10,Zoya,52.0,Mumbai,Keyboard,Accessories,5,11715.0,10,52717.5,UPI,Delivered
+653,2025-05-01,Zoya,36.0,Mumbai,Laptop,Electronics,7,10530.0,15,62653.5,Cash,Delivered
+654,2025-10-16, Ayesha ,40.0,Bhopal,Laptop,Electronics,3,23701.0,15,60437.55,UPI,Cancelled
+655,2025-02-17,Kabir,51.0,Chennai,Phone,Electronics,1,26244.0,15,22307.4,UPI,Cancelled
+656,2025-11-04,Ayesha,51.0,Pune,Phone,Electronics,5,38296.0,10,172332.0,UPI,Delivered
+657,2025-03-07,Diya,50.0,Delhi,Laptop,Electronics,1,28143.0,0,28143.0,Cash,Cancelled
+658,2025-01-09,Aarav,39.0,Mumbai,Keyboard,Accessories,6,48691.0,15,248324.1,UPI,Delivered
+659,2025-10-05,Riya,33.0,Bhopal,Phone,Electronics,8,15330.0,10,110376.0,Card,Delivered
+660,2025-05-24,Diya,48.0,Delhi,Phone,Electronics,2,59760.0,10,107568.0,Cash,Delivered
+661,2025-08-15,Diya,35.0,Mumbai,Phone,Electronics,8,23405.0,0,187240.0,Card,Processing
+662,2025-02-25,Ayesha,58.0,Jaipur,Phone,Electronics,7,51226.0,10,322723.8,Card,Cancelled
+664,2025-07-13,Ayesha,49.0,Delhi,Phone,Electronics,7,55989.0,5,372326.85,Card,Cancelled
+665,2025-07-01,Najrin,23.0,Chennai,Laptop,Electronics,7,27584.0,0,193088.0,Card,Cancelled
+666,2025-06-14,Diya,21.0,Chennai,Keyboard,Accessories,8,3942.0,15,26805.6,UPI,Processing
+667,2025-08-24,Diya,49.0,Delhi,Phone,Electronics,4,14614.0,10,52610.4,Card,Processing
+668,2025-05-01,Kabir,59.0,Bhopal,Printer,Office,1,58517.0,5,55591.14999999999,Card,Delivered
+669,2025-08-15,Aarav,54.0,Jaipur,Keyboard,Accessories,6,54529.0,10,294456.6,UPI,Processing
+670,2025-02-17,Zoya,42.0,Pune,Laptop,Electronics,6,52925.0,0,317550.0,Cash,Processing
+671,2025-11-30,Zoya,51.0,Pune,Keyboard,Accessories,7,52372.0,10,329943.6,UPI,Delivered
+672,2025-10-29,Kabir,37.0,Bhopal,Keyboard,Accessories,3,45675.0,5,130173.75,UPI,Delivered
+673,2025-08-03,Diya,47.0,Bhopal,Phone,Electronics,6,29265.0,5,166810.5,Cash,Processing
+674,2025-07-20,Rehan,38.0,Jaipur,Phone,Electronics,6,46346.0,0,278076.0,Cash,Delivered
+675,2025-05-01,Najrin,27.0,Chennai,Printer,Office,2,9335.0,10,16803.0,Card,Processing
+676,2025-04-20,Aarav,60.0,Chennai,Laptop,Electronics,3,24032.0,0,72096.0,Card,Cancelled
+677,2025-12-19,Rehan,46.0,Pune,Printer,Office,4,54797.0,5,208228.6,Cash,Cancelled
+678,2025-09-02,Riya,36.0,Jaipur,Keyboard,Accessories,5,11469.0,15,48743.25,Cash,Delivered
+679,2025-12-10,Riya,27.0,Pune,Laptop,Electronics,7,26752.0,5,177900.8,Cash,Delivered
+680,2025-07-20,Kabir,53.0,Bhopal,Printer,Office,6,4551.0,15,23210.1,UPI,Cancelled
+681,2025-02-11,Diya,40.0,,Phone,Electronics,7,11228.0,15,66806.59999999999,Card,Processing
+682,2025-01-29,Kabir,22.0,Delhi,Keyboard,Accessories,8,29949.0,5,227612.4,Card,Cancelled
+683,2025-11-10,Aarav,30.0,Bhopal,Keyboard,Accessories,8,45110.0,5,342836.0,UPI,Delivered
+684,2025-07-24,Riya,57.0,Pune,Keyboard,Accessories,5,16306.0,15,69300.5,Card,Processing
+685,2025-03-09,Aarav,,Chennai,Printer,Office,3,21537.0,0,64611.0,UPI,Processing
+686,2025-05-03,Zoya,24.0,Bhopal,Keyboard,Accessories,4,4747.0,15,16139.8,UPI,Delivered
+687,2025-10-04,Kabir,55.0,Jaipur,Printer,Office,8,54029.0,0,432232.0,Card,Cancelled
+688,2025-01-06,Rehan,30.0,Mumbai,Laptop,Electronics,7,6220.0,10,39186.0,Card,Cancelled
+689,2025-09-10,Aarav,26.0,Chennai,Keyboard,Accessories,1,44772.0,5,42533.4,Cash,Delivered
+690,2025-03-08,Diya,60.0,Pune,Printer,Office,2,15020.0,15,25534.0,Cash,Cancelled
+691,2025-08-13,Diya,36.0,Delhi,Phone,Electronics,3,28508.0,10,76971.6,UPI,Delivered
+692,2025-08-14,Zoya,32.0,Bhopal,Printer,Office,4,50460.0,15,171564.0,Card,Delivered
+693,2025-09-02,Rehan,60.0,Jaipur,Keyboard,Accessories,5,,5,32328.5,Cash,Processing
+694,2025-07-20,Diya,53.0,Delhi,Laptop,Electronics,4,54705.0,5,207879.0,Cash,Processing
+695,2025-06-19,Aarav,24.0,,Laptop,Electronics,1,37709.0,15,32052.65,UPI,Processing
+696,2025-09-24,Aarav,30.0,Mumbai,Phone,Electronics,4,25917.0,5,98484.6,Card,Delivered
+697,2025-10-25,Ayesha,21.0,Bhopal,Keyboard,Accessories,8,27895.0,10,200844.0,Card,Delivered
+698,2025-01-24,Rehan,51.0,Bhopal,Laptop,Electronics,3,39833.0,10,107549.1,UPI,Delivered
+699,2025-03-23,Ayesha,39.0,Chennai,Printer,Office,5,51582.0,5,245014.5,UPI,Delivered
+700,2025-04-26,Kabir,23.0,Jaipur,Keyboard,Accessories,7,28675.0,15,170616.25,UPI,Cancelled
+701,2025-07-11,Riya,26.0,Mumbai,Phone,Electronics,2,22642.0,5,43019.8,UPI,Delivered
+702,2025-10-11,Rehan,,,Phone,Electronics,6,22080.0,15,112608.0,UPI,Processing
+703,2025-01-04,Najrin,32.0,Chennai,Keyboard,Accessories,2,42778.0,10,77000.40000000001,Card,Delivered
+704,2025-06-24,Ayesha,58.0,Bhopal,Printer,Office,8,,0,249488.0,Card,Processing
+705,2025-06-03,Najrin,60.0,Pune,Laptop,Electronics,6,54221.0,5,309059.7,Cash,Delivered
+706,2025-12-19,Rehan,48.0,Jaipur,Phone,Electronics,1,53865.0,15,45785.25,UPI,Processing
+707,2025-11-01,Ayesha,36.0,Chennai,Phone,Electronics,3,8009.0,0,24027.0,UPI,Processing
+708,2025-11-16,Diya,45.0,Delhi,Keyboard,Accessories,3,8592.0,15,21909.6,UPI,Delivered
+710,2025-01-03,Aarav,,Jaipur,Printer,Office,5,5972.0,10,26874.0,UPI,Cancelled
+711,2025-10-24,Zoya,45.0,Delhi,Printer,Office,7,34567.0,15,205673.65,Card,Processing
+712,2025-01-20,Riya,50.0,Jaipur,Phone,Electronics,8,59188.0,5,449828.8,Cash,Processing
+713,2025-06-30,Diya,26.0,Jaipur,Keyboard,Accessories,4,33876.0,15,115178.4,Card,Processing
+714,2025-05-11,Zoya,49.0,Chennai,Keyboard,Accessories,7,15536.0,15,92439.2,UPI,Processing
+715,2025-09-26,Aarav,43.0,Pune,Laptop,Electronics,1,49659.0,0,49659.0,UPI,Cancelled
+716,2025-07-18,Zoya,44.0,Jaipur,Phone,Electronics,7,5578.0,15,33189.1,UPI,Cancelled
+717,2025-03-29,Rehan,55.0,,Printer,Office,2,54214.0,5,103006.6,UPI,Cancelled
+718,2025-08-28,Kabir,22.0,Chennai,Laptop,Electronics,3,22402.0,10,60485.4,Cash,Processing
+719,2025-07-16,Ayesha,29.0,Mumbai,Phone,Electronics,6,53416.0,10,288446.4,Cash,Processing
+720,2025-11-30,Riya,19.0,,Keyboard,Accessories,6,58162.0,10,314074.8,Cash,Delivered
+721,2025-10-01,Najrin,26.0,Chennai,Printer,Office,3,42434.0,0,127302.0,UPI,Delivered
+722,2025-12-29, Zoya ,31.0,Jaipur,Printer,Office,3,45372.0,0,136116.0,Card,Processing
+723,2025-11-24,Kabir,25.0,Pune,Laptop,Electronics,4,46019.0,15,156464.6,Cash,Cancelled
+724,2025-09-20,Rehan,36.0,Mumbai,Phone,Electronics,4,52986.0,0,211944.0,Cash,Processing
+725,2025-11-12,Ayesha,47.0,Pune,Phone,Electronics,1,59621.0,10,53658.9,UPI,Cancelled
+726,2025-04-08,Ayesha,45.0,Bhopal,Printer,Office,five,18980.0,5,54093.0,UPI,Delivered
+727,2025-01-24,Zoya,30.0,Chennai,Laptop,Electronics,2,58353.0,10,105035.4,Cash,Processing
+728,2025-03-15,Riya,19.0,Pune,Keyboard,Accessories,4,51794.0,0,207176.0,Cash,Delivered
+729,2025-04-21,Aarav,,Delhi,Phone,Electronics,5,5501.0,0,27505.0,Cash,Cancelled
+730,2025-08-26,Zoya,42.0,,Keyboard,Accessories,6,20844.0,0,125064.0,Card,Processing
+731,2025-11-03,Aarav,57.0,Bhopal,Laptop,Electronics,2,34554.0,10,62197.2,Card,Cancelled
+732,2025-01-19,Aarav,59.0,Mumbai,Phone,Electronics,5,37875.0,10,170437.5,Card,Processing
+733,2025-06-08,Kabir,59.0,Chennai,Keyboard,Accessories,3,28827.0,0,86481.0,Cash,Delivered
+734,2025-09-10,Ayesha,36.0,,Keyboard,Accessories,6,20196.0,15,102999.6,Cash,Cancelled
+735,2025-02-26,Rehan,56.0,Bhopal,Phone,Electronics,3,47631.0,5,135748.35,Cash,Cancelled
+736,2025-11-05,Ayesha,21.0,,Keyboard,Accessories,5,21047.0,15,89449.75,UPI,Delivered
+737,2025-03-08,Ayesha,59.0,Pune,Laptop,Electronics,8,11746.0,15,79872.8,Cash,Processing
+739,2025-05-25,Riya,55.0,Jaipur,Keyboard,Accessories,1,36202.0,5,34391.9,UPI,Cancelled
+740,2025-03-16,Najrin,45.0,,Laptop,Electronics,3,56070.0,15,142978.5,UPI,Delivered
+741,2025-11-01,Kabir,46.0,Mumbai,Keyboard,Accessories,3,11405.0,5,32504.25,UPI,Processing
+742,2025-02-22,Diya,38.0,Pune,Laptop,Electronics,3,21996.0,5,62688.6,Cash,Processing
+743,2025-03-15,Ayesha,54.0,Pune,Printer,Office,8,45420.0,0,363360.0,Cash,Processing
+744,2025-07-16,Zoya,59.0,Mumbai,Phone,Electronics,6,46312.0,10,250084.8,UPI,Cancelled
+745,2025-07-28,Diya,44.0,,Laptop,Electronics,2,20974.0,15,35655.8,UPI,Cancelled
+746,2025-10-06,Rehan,28.0,,Laptop,Electronics,five,18823.0,15,79997.75,Cash,Delivered
+747,2025-02-24,Kabir,44.0,,Laptop,Electronics,4,54007.0,0,216028.0,UPI,Processing
+748,2025-10-06,Riya,48.0,Pune,Phone,Electronics,3,39940.0,10,107838.0,Card,Cancelled
+750,2025-09-27,Najrin,47.0,Pune,Laptop,Electronics,6,43033.0,0,258198.0,UPI,Cancelled
+751,2025-01-30, Aarav ,35.0,Jaipur,Printer,Office,1,28703.0,0,28703.0,Cash,Cancelled
+752,2025-01-07,Rehan,50.0,,Laptop,Electronics,5,32652.0,10,146934.0,Cash,Cancelled
+753,2025-05-02,Diya,19.0,Mumbai,Keyboard,Accessories,3,53786.0,10,145222.2,Card,Cancelled
+754,2025-12-20,Diya,56.0,Delhi,Phone,Electronics,8,26828.0,0,214624.0,Card,Processing
+755,2025-02-08,Diya,58.0,Chennai,Keyboard,Accessories,3,29701.0,10,80192.7,Card,Processing
+756,2025-02-18,Zoya,18.0,,Laptop,Electronics,8,5113.0,0,40904.0,Card,Processing
+757,2025-11-17,Aarav,34.0,Jaipur,Keyboard,Accessories,3,50553.0,10,136493.1,Card,Delivered
+758,2025-01-20,Kabir,36.0,Pune,Phone,Electronics,7,37704.0,10,237535.2,Card,Cancelled
+759,2025-04-30,Zoya,28.0,Mumbai,Laptop,Electronics,7,54523.0,0,381661.0,Cash,Cancelled
+761,2025-12-04,Aarav,36.0,Delhi,Phone,Electronics,8,44877.0,15,305163.6,UPI,Cancelled
+762,2025-07-03,Zoya,26.0,Delhi,Laptop,Electronics,8,38971.0,0,311768.0,Card,Processing
+763,2025-05-05,Aarav,42.0,Bhopal,Printer,Office,8,,10,181116.0,Card,Processing
+764,2025-09-10,Riya,44.0,Mumbai,Printer,Office,3,57108.0,10,154191.6,Card,Delivered
+765,2025-07-29,Najrin,50.0,Mumbai,Printer,Office,6,24606.0,10,132872.4,Cash,Cancelled
+766,2025-09-09,Zoya,40.0,Chennai,Phone,Electronics,7,4682.0,5,31135.3,Card,Cancelled
+767,2025-11-15,Aarav,53.0,Delhi,Printer,Office,1,36364.0,5,34545.8,UPI,Processing
+768,2025-07-16,Ayesha,37.0,Mumbai,Laptop,Electronics,4,31531.0,10,113511.6,Card,Cancelled
+769,2025-08-24,Aarav,46.0,Bhopal,Phone,Electronics,6,53234.0,5,303433.8,UPI,Cancelled
+770,2025-07-11,Diya,18.0,Mumbai,Printer,Office,2,36449.0,15,61963.3,Cash,Delivered
+771,2025-10-10,Riya,32.0,Bhopal,Printer,Office,2,45448.0,15,77261.59999999999,UPI,Cancelled
+772,2025-12-11, Najrin ,47.0,Pune,Printer,Office,3,46269.0,0,138807.0,Cash,Processing
+773,2025-12-10,Diya,28.0,Chennai,Laptop,Electronics,7,35806.0,10,225577.8,UPI,Delivered
+774,2025-01-01,Najrin,40.0,Delhi,Keyboard,Accessories,2,17674.0,10,31813.2,UPI,Delivered
+775,2025-04-21,Najrin,39.0,Pune,Printer,Office,4,12636.0,10,45489.6,Card,Cancelled
+776,2025-02-01,Aarav,49.0,Mumbai,Printer,Office,6,45161.0,5,257417.7,UPI,Delivered
+777,2025-08-02,Zoya,45.0,,Keyboard,Accessories,3,51819.0,5,147684.15,Cash,Processing
+778,2025-12-29,Ayesha,36.0,Chennai,Phone,Electronics,4,32689.0,10,117680.4,Card,Delivered
+779,2025-12-26,Zoya,34.0,Jaipur,Laptop,Electronics,8,55281.0,0,442248.0,UPI,Processing
+780,2025-05-23,Riya,54.0,Bhopal,Phone,Electronics,6,58997.0,10,318583.8,UPI,Cancelled
+781,2025-03-05,Kabir,40.0,Bhopal,Keyboard,Accessories,7,55787.0,0,390509.0,UPI,Delivered
+782,2025-05-18,Riya,49.0,Bhopal,Laptop,Electronics,4,41670.0,15,141678.0,UPI,Processing
+783,2025-04-26,Zoya,36.0,Bhopal,Phone,Electronics,6,,5,15954.3,Card,Delivered
+784,2025-07-01,Zoya,38.0,,phone,Electronics,6,18369.0,5,104703.3,Card,Processing
+785,2025-03-10,Riya,43.0,Bhopal,Printer,Office,3,30389.0,10,82050.3,Card,Cancelled
+786,2025-05-04,Najrin,58.0,Chennai,Laptop,Electronics,2,24434.0,5,46424.6,UPI,Processing
+787,2025-12-16,Ayesha,33.0,Delhi,Laptop,Electronics,1,53527.0,0,53527.0,Cash,Delivered
+788,2025-05-27,Aarav,54.0,Pune,Phone,Electronics,five,54041.0,10,243184.5,UPI,Processing
+789,2025-12-19,Rehan,21.0,Jaipur,Laptop,Electronics,3,47115.0,5,134277.75,UPI,Processing
+791,2025-02-20,Najrin,30.0,Jaipur,Printer,Office,4,18730.0,5,71174.0,Cash,Cancelled
+792,2025-03-19,Ayesha,30.0,Jaipur,Laptop,Electronics,3,25750.0,5,73387.5,UPI,Delivered
+793,2025-07-03,Riya,28.0,Mumbai,Laptop,Electronics,4,8128.0,5,30886.4,Cash,Delivered
+794,2025-03-20,Zoya,29.0,Bhopal,Keyboard,Accessories,8,46436.0,0,371488.0,UPI,Processing
+795,2025-12-27,Rehan,20.0,Mumbai,Keyboard,Accessories,2,24373.0,10,43871.4,UPI,Processing
+796,2025-12-11,Aarav,23.0,,Laptop,Electronics,8,48750.0,0,390000.0,Cash,Processing
+797,2025-09-14,Zoya,21.0,Delhi,Printer,Office,2,54324.0,5,103215.6,Cash,Delivered
+798,2025-02-03,Rehan,43.0,Jaipur,Keyboard,Accessories,2,28998.0,10,52196.4,Card,Processing
+799,2025-06-10,Zoya,52.0,Mumbai,Keyboard,Accessories,4,48517.0,10,174661.2,Card,Delivered
+801,2025-03-05,Ayesha,49.0,Pune,Laptop,Electronics,4,44556.0,10,160401.6,UPI,Cancelled
+802,2025-11-08,Najrin,59.0,Chennai,Phone,Electronics,4,32311.0,10,116319.6,Cash,Delivered
+803,2025-01-25,Ayesha,,Delhi,Keyboard,Accessories,3,25145.0,5,71663.25,UPI,Delivered
+804,2025-09-18,Najrin,20.0,Delhi,Phone,Electronics,5,42874.0,0,214370.0,UPI,Delivered
+805,2025-09-25, Najrin ,37.0,Jaipur,Laptop,Electronics,5,3123.0,10,14053.5,Card,Delivered
+806,2025-12-11,Ayesha,40.0,Bhopal,Phone,Electronics,2,36305.0,0,72610.0,Card,Processing
+807,2025-06-24,Aarav,39.0,Chennai,Laptop,Electronics,2,31192.0,15,53026.4,Card,Delivered
+808,2025-01-13,Najrin,20.0,Mumbai,Phone,Electronics,6,30245.0,10,163323.0,Cash,Delivered
+809,2025-06-17,Kabir,38.0,Delhi,Printer,Office,8,5888.0,0,47104.0,UPI,Delivered
+810,2025-11-09,Aarav,52.0,Pune,Laptop,Electronics,2,19593.0,0,39186.0,Cash,Cancelled
+811,2025-10-22,Riya,46.0,Bhopal,Keyboard,Accessories,3,37008.0,10,99921.6,Card,Cancelled
+812,2025-04-24,Kabir,21.0,,Printer,Office,4,58816.0,15,199974.4,Card,Delivered
+813,2025-01-07,Zoya,29.0,Chennai,Printer,Office,8,51691.0,15,351498.8,Card,Processing
+814,2025-04-06,Diya,20.0,,Laptop,Electronics,4,44167.0,10,159001.2,Card,Processing
+815,2025-06-11,Rehan,40.0,Jaipur,Phone,Electronics,five,59905.0,15,305515.5,UPI,Delivered
+816,2025-05-11,Ayesha,19.0,Delhi,Keyboard,Accessories,five,34199.0,15,203484.05,Card,Delivered
+817,2025-04-16,Zoya,20.0,Delhi,Keyboard,Accessories,1,28395.0,0,28395.0,Card,Cancelled
+818,2025-10-05,Rehan,44.0,Chennai,Printer,Office,7,22944.0,15,136516.8,Card,Processing
+819,2025-03-18,Rehan,51.0,Bhopal,Laptop,Electronics,3,28457.0,5,81102.45,Card,Delivered
+820,2025-09-10,Diya,51.0,Chennai,printer,Office,five,18416.0,5,87476.0,UPI,Cancelled
+821,2025-06-24,Zoya,57.0,Mumbai,Keyboard,Accessories,3,38351.0,0,115053.0,Cash,Cancelled
+822,2025-05-31,Zoya,26.0,Delhi,Keyboard,Accessories,3,19972.0,5,56920.2,Card,Delivered
+823,2025-01-27,Ayesha,50.0,Pune,Printer,Office,five,42272.0,0,295904.0,UPI,Cancelled
+824,2025-10-10,Najrin,56.0,Mumbai,Keyboard,Accessories,2,12479.0,5,23710.1,Card,Delivered
+825,2025-01-28,Kabir,49.0,Pune,Printer,Office,2,8695.0,0,17390.0,Cash,Delivered
+826,2025-07-16,Diya,60.0,Bhopal,Laptop,Electronics,five,,5,56829.0,Card,Cancelled
+827,2025-09-17,Zoya,43.0,Mumbai,Printer,Office,6,52489.0,0,314934.0,Card,Processing
+828,2025-12-13,Kabir,30.0,Pune,Laptop,Electronics,3,27250.0,5,77662.5,Cash,Processing
+829,2025-01-09,Ayesha,18.0,Mumbai,Phone,Electronics,4,14673.0,0,58692.0,Cash,Processing
+830,2025-06-04,Ayesha,,Chennai,Printer,Office,5,,10,198108.0,Card,Cancelled
+831,2025-10-18,Rehan,37.0,Pune,Keyboard,Accessories,4,27951.0,5,106213.8,Cash,Cancelled
+832,2025-08-15,Riya,55.0,Chennai,Printer,Office,8,45579.0,10,328168.8,UPI,Cancelled
+833,2025-02-03,Aarav,39.0,Bhopal,Keyboard,Accessories,5,45478.0,0,227390.0,Card,Processing
+834,2025-09-23,Kabir,25.0,Delhi,Printer,Office,6,50143.0,10,270772.2,Card,Delivered
+835,2025-12-09,Ayesha,58.0,Bhopal,Keyboard,Accessories,1,43808.0,15,37236.8,UPI,Delivered
+836,2025-07-29,Riya,18.0,Mumbai,Laptop,Electronics,five,38800.0,10,244440.0,UPI,Cancelled
+837,2025-10-31,Diya,55.0,Bhopal,Keyboard,Accessories,3,5904.0,10,15940.8,Card,Delivered
+838,2025-06-05,Kabir,38.0,Bhopal,Phone,Electronics,6,37733.0,10,203758.2,Card,Cancelled
+839,2025-01-05,Aarav,40.0,Bhopal,Laptop,Electronics,5,19975.0,5,94881.25,UPI,Cancelled
+840,2025-01-07,Najrin,58.0,Bhopal,Keyboard,Accessories,8,1983.0,15,13484.4,UPI,Cancelled
+841,2025-06-24,Diya,54.0,Chennai,Laptop,Electronics,4,17977.0,10,64717.2,Cash,Delivered
+842,2025-12-27,Rehan,32.0,Bhopal,Laptop,Electronics,5,11257.0,5,53470.75,UPI,Delivered
+843,2025-12-17,Aarav,30.0,Bhopal,Keyboard,Accessories,3,33664.0,15,85843.2,Card,Cancelled
+844,2025-08-06,Kabir,46.0,Chennai,Keyboard,Accessories,6,8799.0,0,52794.0,UPI,Delivered
+845,2025-06-28,Aarav,,Mumbai,Phone,Electronics,7,43371.0,15,258057.45,UPI,Delivered
+846,2025-10-11,Rehan,,,Phone,Electronics,8,51050.0,15,347140.0,Card,Cancelled
+847,2025-08-21,Najrin,43.0,Pune,Keyboard,Accessories,5,8994.0,0,44970.0,Cash,Delivered
+848,2025-10-13,Ayesha,56.0,,Phone,Electronics,7,13419.0,0,93933.0,Card,Processing
+849,2025-03-29,Zoya,43.0,Pune,Keyboard,Accessories,8,50238.0,15,341618.4,UPI,Processing
+850,2025-11-03,Ayesha,22.0,Mumbai,Keyboard,Accessories,7,23271.0,0,162897.0,Cash,Processing
+851,2025-02-24,Najrin,23.0,Pune,Printer,Office,8,49347.0,15,335559.6,Cash,Delivered
+852,2025-11-14,Najrin,58.0,Jaipur,Laptop,Electronics,5,56720.0,0,283600.0,Cash,Cancelled
+853,2025-01-09,Rehan,53.0,Chennai,Laptop,Electronics,3,41401.0,15,105572.55,Card,Delivered
+854,2025-02-06,Zoya,46.0,Delhi,Printer,Office,4,24675.0,15,83895.0,Cash,Delivered
+856,2025-05-03,Aarav,45.0,Jaipur,Keyboard,Accessories,6,,10,83451.6,Cash,Delivered
+858,2025-01-07,Kabir,36.0,Bhopal,Keyboard,Accessories,3,50148.0,0,150444.0,UPI,Delivered
+859,2025-10-07,Najrin,50.0,Pune,Keyboard,Accessories,1,28202.0,5,26791.9,Cash,Processing
+860,2025-10-18,Rehan,45.0,Delhi,Laptop,Electronics,1,12084.0,15,10271.4,UPI,Delivered
+861,2025-12-27,Diya,43.0,Jaipur,Laptop,Electronics,3,44039.0,0,132117.0,UPI,Processing
+863,2025-04-22,Diya,27.0,Jaipur,Phone,Electronics,3,48807.0,5,139099.95,UPI,Cancelled
+864,2025-12-02,Aarav,56.0,,Keyboard,Accessories,8,24417.0,0,195336.0,Card,Delivered
+865,2025-11-10,Zoya,39.0,Jaipur,Printer,Office,4,3521.0,10,12675.6,UPI,Processing
+866,2025-06-25,Aarav,30.0,Bhopal,Keyboard,Accessories,6,35053.0,10,189286.2,UPI,Processing
+867,2025-05-20,Rehan,26.0,,Laptop,Electronics,1,25174.0,5,23915.3,Cash,Delivered
+868,2025-08-10,Riya,57.0,Chennai,Keyboard,Accessories,1,54671.0,15,46470.35,Cash,Cancelled
+870,2025-02-13,Kabir,44.0,Pune,Printer,Office,2,51238.0,10,92228.4,Card,Delivered
+871,2025-11-16,Aarav,20.0,Bhopal,Printer,Office,3,17183.0,15,43816.65,UPI,Processing
+872,2025-03-07,Ayesha,52.0,Bhopal,Keyboard,Accessories,6,50172.0,15,255877.2,Card,Delivered
+873,2025-02-22,Kabir,33.0,Bhopal,Printer,Office,2,19109.0,0,38218.0,UPI,Processing
+874,2025-01-01,Zoya,54.0,Jaipur,Phone,Electronics,5,49980.0,0,249900.0,UPI,Processing
+875,2025-11-23,Ayesha,50.0,Mumbai,Keyboard,Accessories,7,46080.0,0,322560.0,UPI,Cancelled
+876,2025-12-19,Aarav,27.0,Chennai,Printer,Office,2,13038.0,5,24772.2,UPI,Delivered
+877,2025-09-30,Ayesha,,Bhopal,Laptop,Electronics,8,44990.0,10,323928.0,Cash,Delivered
+878,2025-01-06,Diya,47.0,Jaipur,Printer,Office,8,27120.0,10,195264.0,Cash,Processing
+879,2025-07-29,Aarav,44.0,Chennai,Laptop,Electronics,5,21367.0,0,106835.0,Cash,Delivered
+880,2025-05-01,Kabir,22.0,Chennai,Keyboard,Accessories,five,12458.0,10,33636.6,UPI,Processing
+882,2025-01-14,Diya,25.0,Pune,Printer,Office,6,44898.0,0,269388.0,Card,Cancelled
+883,2025-04-29,Aarav,60.0,Pune,Laptop,Electronics,2,59524.0,0,119048.0,UPI,Processing
+884,2025-03-04,Aarav,28.0,,Phone,Electronics,4,32739.0,15,111312.6,Cash,Cancelled
+886,2025-11-27,Diya,35.0,,Laptop,Electronics,3,5282.0,5,15053.7,UPI,Delivered
+887,2025-06-22,Zoya,60.0,Pune,Keyboard,Accessories,2,36505.0,10,65709.0,UPI,Processing
+888,2025-01-31,Zoya,24.0,Delhi,Laptop,Electronics,2,21739.0,0,43478.0,UPI,Delivered
+890,2025-03-01,Diya,,,Printer,Office,3,42804.0,15,109150.2,Card,Cancelled
+891,2025-08-17,Zoya,,Pune,Phone,Electronics,7,50643.0,10,319050.9,Card,Cancelled
+892,2025-09-22,Riya,34.0,Mumbai,Laptop,Electronics,2,34891.0,5,66292.9,Card,Processing
+893,2025-12-12,Diya,26.0,Jaipur,Keyboard,Accessories,6,31154.0,15,158885.4,UPI,Delivered
+894,2025-12-05,Aarav,53.0,Chennai,Keyboard,Accessories,6,36545.0,0,219270.0,Cash,Delivered
+895,2025-05-16,Zoya,39.0,Chennai,Keyboard,Accessories,6,52866.0,10,285476.4,Card,Cancelled
+896,2025-11-29,Rehan,44.0,Mumbai,Printer,Office,7,34480.0,0,241360.0,Card,Processing
+897,2025-07-18,Rehan,53.0,Delhi,Keyboard,Accessories,3,,10,50139.0,UPI,Processing
+898,2025-11-21,Ayesha,49.0,Delhi,Keyboard,Accessories,1,11852.0,10,10666.8,UPI,Delivered
+899,2025-03-11,Diya,28.0,,Laptop,Electronics,5,40729.0,5,193462.75,Card,Cancelled
+900,2025-08-27,Zoya,39.0,Delhi,Phone,Electronics,8,52184.0,15,354851.2,Card,Processing
+901,2025-04-04,Najrin,29.0,Chennai,Phone,Electronics,3,56105.0,15,143067.75,UPI,Cancelled
+902,2025-03-05,Zoya,54.0,Mumbai,Printer,Office,3,5942.0,15,15152.1,Cash,Cancelled
+903,2025-12-11,Aarav,54.0,Mumbai,Phone,Electronics,5,52138.0,0,260690.0,Cash,Cancelled
+904,2025-08-24,Zoya,59.0,Pune,Printer,Office,4,,10,121784.4,UPI,Cancelled
+905,2025-03-21,Aarav,34.0,Pune,Keyboard,Accessories,4,51211.0,15,174117.4,Cash,Processing
+906,2025-05-29,Riya,42.0,Chennai,Laptop,Electronics,3,43559.0,5,124143.15,Cash,Cancelled
+907,2025-01-28,Riya,40.0,Jaipur,Phone,Electronics,4,19849.0,0,79396.0,UPI,Cancelled
+908,2025-02-15,Riya,21.0,Bhopal,Laptop,Electronics,1,25118.0,0,25118.0,UPI,Delivered
+909,2025-02-03,Rehan,33.0,Mumbai,Phone,Electronics,1,49872.0,10,44884.8,UPI,Cancelled
+910,2025-03-02,Riya,28.0,Chennai,Laptop,Electronics,8,44182.0,10,318110.4,UPI,Processing
+911,2025-12-14,Aarav,44.0,Pune,Keyboard,Accessories,1,28593.0,15,24304.05,Card,Cancelled
+912,2025-03-12,Ayesha,54.0,Chennai,Laptop,Electronics,7,35204.0,5,234106.6,Cash,Cancelled
+913,2025-04-02,Zoya,,Delhi,Phone,Electronics,7,31485.0,5,209375.25,UPI,Cancelled
+914,2025-09-19,Najrin,54.0,Delhi,Keyboard,Accessories,2,18959.0,15,32230.3,UPI,Delivered
+915,2025-09-07,Ayesha,34.0,Mumbai,Keyboard,Accessories,8,51274.0,10,369172.8,UPI,Processing
+916,2025-11-04,Aarav,40.0,Bhopal,Laptop,Electronics,7,40290.0,15,239725.5,Card,Delivered
+917,2025-01-30,Rehan,21.0,Pune,Keyboard,Accessories,1,24435.0,5,23213.25,Card,Delivered
+918,2025-05-19,Diya,21.0,Chennai,Keyboard,Accessories,7,17908.0,5,119088.2,Card,Processing
+919,2025-09-29,Ayesha,25.0,Chennai,Keyboard,Accessories,6,24299.0,5,138504.3,Card,Delivered
+920,2025-11-19,Riya,,Bhopal,Phone,Electronics,1,20247.0,10,18222.3,Card,Cancelled
+921,2025-11-26,Rehan,48.0,Mumbai,Keyboard,Accessories,6,48498.0,0,290988.0,Cash,Processing
+922,2025-10-20,Najrin,56.0,Bhopal,Printer,Office,5,35189.0,0,175945.0,UPI,Processing
+924,2025-10-07,Rehan,49.0,Mumbai,Printer,Office,8,39815.0,5,302594.0,Cash,Processing
+925,2025-08-11,Riya,37.0,Jaipur,Laptop,Electronics,5,7722.0,15,32818.5,UPI,Cancelled
+926,2025-01-14,Najrin,26.0,Delhi,Phone,Electronics,4,38679.0,15,131508.6,UPI,Cancelled
+927,2025-06-25,Ayesha,41.0,Mumbai,Phone,Electronics,3,21897.0,5,62406.45,Card,Cancelled
+928,2025-02-17,Ayesha,51.0,Jaipur,Laptop,Electronics,5,50200.0,15,213350.0,Cash,Cancelled
+929,2025-09-07,Zoya,38.0,Pune,Printer,Office,6,46206.0,15,235650.6,Cash,Cancelled
+930,2025-12-07,Najrin,19.0,Bhopal,Phone,Electronics,6,46289.0,15,236073.9,Cash,Cancelled
+931,2025-11-18,Najrin,44.0,Chennai,Laptop,Electronics,4,24513.0,0,98052.0,Cash,Cancelled
+932,2025-09-25,Zoya,23.0,Chennai,Phone,Electronics,5,8969.0,5,42602.75,UPI,Processing
+933,2025-07-16,Aarav,20.0,Bhopal,Keyboard,Accessories,7,47756.0,5,317577.4,UPI,Delivered
+934,2025-06-14,Ayesha,44.0,Delhi,Phone,Electronics,4,54416.0,15,185014.4,Cash,Cancelled
+935,2025-10-31,Zoya,47.0,Chennai,Laptop,Electronics,4,44828.0,10,161380.8,Card,Processing
+936,2025-04-15,Diya,30.0,Jaipur,Laptop,Electronics,2,48569.0,5,92281.1,Cash,Cancelled
+937,2025-06-23,Kabir,18.0,Chennai,Printer,Office,2,52432.0,10,94377.6,Cash,Processing
+938,2025-01-18, Rehan ,26.0,Bhopal,Keyboard,Accessories,8,33999.0,0,271992.0,Card,Cancelled
+939,2025-12-04,Riya,23.0,Chennai,Phone,Electronics,3,43168.0,5,123028.8,UPI,Processing
+941,2025-08-24,Aarav,33.0,Pune,Phone,Electronics,5,34560.0,0,172800.0,Card,Delivered
+942,2025-03-28,Diya,58.0,Chennai,Printer,Office,6,24815.0,10,134001.0,Cash,Processing
+943,2025-09-28,Ayesha,53.0,Pune,Laptop,Electronics,3,8661.0,5,24683.85,Cash,Delivered
+944,2025-03-21,Rehan,24.0,Chennai,Keyboard,Accessories,8,40776.0,10,293587.2,UPI,Delivered
+945,2025-10-27,Zoya,20.0,,Printer,Office,4,5228.0,5,19866.4,Cash,Cancelled
+946,2025-11-20,Kabir,33.0,Bhopal,Phone,Electronics,5,42784.0,5,203224.0,Card,Processing
+947,2025-12-05,Ayesha,53.0,Bhopal,Laptop,Electronics,2,12116.0,0,24232.0,Card,Delivered
+948,2025-08-18,Rehan,52.0,Pune,Phone,Electronics,6,11361.0,5,64757.7,Cash,Delivered
+949,2025-11-09,Riya,44.0,Chennai,Phone,Electronics,4,,10,139802.4,Cash,Processing
+950,2025-03-11,Najrin,32.0,Jaipur,Laptop,Electronics,6,46229.0,0,277374.0,UPI,Cancelled
+951,2025-06-09,Rehan,,Delhi,Printer,Office,3,47674.0,5,135870.9,UPI,Delivered
+952,2025-02-15,Riya,44.0,Mumbai,Printer,Office,1,38236.0,0,38236.0,Card,Delivered
+953,2025-09-26,Zoya,43.0,Bhopal,Phone,Electronics,3,10232.0,5,29161.2,Card,Delivered
+954,2025-04-26,Rehan,33.0,Jaipur,Keyboard,Accessories,3,36224.0,15,92371.2,Card,Delivered
+955,2025-10-20,Ayesha,24.0,Mumbai,Phone,Electronics,3,16377.0,15,41761.35,Cash,Cancelled
+956,2025-10-04,Zoya,41.0,Jaipur,printer,Office,8,44703.0,15,303980.4,Card,Cancelled
+957,2025-04-05,Diya,28.0,Chennai,Printer,Office,3,,10,137035.8,Cash,Cancelled
+958,2025-12-18,Rehan,44.0,Mumbai,Phone,Electronics,2,5472.0,0,10944.0,Card,Cancelled
+959,2025-01-31,Kabir,31.0,Delhi,Phone,Electronics,6,39331.0,10,212387.4,UPI,Processing
+960,2025-07-26,Diya,34.0,,Laptop,Electronics,5,41582.0,15,176723.5,UPI,Cancelled
+961,2025-01-19,Najrin,56.0,Delhi,Keyboard,Accessories,1,17656.0,10,15890.4,UPI,Delivered
+962,2025-12-07,Diya,32.0,Bhopal,Keyboard,Accessories,1,37174.0,10,33456.6,UPI,Processing
+963,2025-03-13,Diya,60.0,,Phone,Electronics,8,16698.0,10,120225.6,Card,Processing
+964,2025-11-18,Diya,34.0,Chennai,Laptop,Electronics,3,,15,81492.9,UPI,Processing
+965,2025-03-02,Riya,49.0,Chennai,Printer,Office,6,24167.0,15,123251.7,Card,Cancelled
+966,2025-01-25,Rehan,31.0,Chennai,Keyboard,Accessories,4,48914.0,5,185873.2,UPI,Processing
+967,2025-04-14,Rehan,52.0,Bhopal,Printer,Office,5,23805.0,5,113073.75,UPI,Delivered
+968,2025-07-08,Diya,51.0,Pune,Printer,Office,8,48936.0,10,352339.2,UPI,Cancelled
+969,2025-11-03,Ayesha,51.0,Mumbai,Phone,Electronics,7,3920.0,0,27440.0,Cash,Delivered
+970,2025-12-24,Ayesha,46.0,,Keyboard,Accessories,6,13089.0,15,66753.9,UPI,Cancelled
+972,2025-07-11,Aarav,43.0,Jaipur,Keyboard,Accessories,6,14372.0,10,77608.8,UPI,Cancelled
+973,2025-08-20,Diya,28.0,Jaipur,Printer,Office,5,6379.0,0,31895.0,UPI,Cancelled
+974,2025-08-18,Diya,27.0,Chennai,Keyboard,Accessories,5,38750.0,0,193750.0,Cash,Processing
+975,2025-07-07,Najrin,50.0,Chennai,Printer,Office,6,14820.0,10,80028.0,Cash,Processing
+976,2025-05-28,Ayesha,20.0,Bhopal,Laptop,Electronics,2,9762.0,0,19524.0,Cash,Cancelled
+977,2025-06-02,Najrin,29.0,Jaipur,Keyboard,Accessories,7,,10,108108.0,Cash,Processing
+978,2025-01-31, Rehan ,,Delhi,Phone,Electronics,7,32836.0,5,218359.4,Card,Processing
+979,2025-10-09,Najrin,59.0,Jaipur,Keyboard,Accessories,8,58162.0,10,418766.4,UPI,Processing
+980,2025-03-14, Diya ,42.0,Delhi,Printer,Office,5,54617.0,0,273085.0,Cash,Delivered
+981,2025-08-24,Rehan,58.0,Jaipur,Phone,Electronics,2,13614.0,15,23143.8,Cash,Delivered
+982,2025-07-09,Zoya,48.0,Delhi,Printer,Office,8,32165.0,0,257320.0,Cash,Cancelled
+983,2025-03-16,Aarav,53.0,Delhi,Phone,Electronics,3,42154.0,0,126462.0,Cash,Processing
+984,2025-05-23,Rehan,24.0,Jaipur,Laptop,Electronics,7,38911.0,10,245139.3,Cash,Delivered
+985,2025-07-04,Riya,58.0,Chennai,Printer,Office,4,58525.0,10,210690.0,UPI,Processing
+986,2025-11-17,Diya,,Delhi,Laptop,Electronics,2,55377.0,10,99678.6,Cash,Delivered
+987,2025-12-17,Zoya,60.0,Mumbai,Phone,Electronics,5,55592.0,10,250164.0,UPI,Processing
+988,2025-06-10,Riya,46.0,Bhopal,Laptop,Electronics,7,49099.0,10,309323.7,UPI,Cancelled
+989,2025-07-11,Aarav,30.0,Mumbai,Printer,Office,1,,0,22073.0,Card,Delivered
+990,2025-05-15,Najrin,33.0,Mumbai,Laptop,Electronics,5,35274.0,0,176370.0,Card,Delivered
+991,2025-10-15,Najrin,58.0,Bhopal,Printer,Office,4,16225.0,5,61655.0,Cash,Processing
+992,2025-06-09,Diya,55.0,Bhopal,Phone,Electronics,4,33416.0,5,126980.8,Cash,Cancelled
+993,2025-04-19,Aarav,55.0,Jaipur,Laptop,Electronics,7,38951.0,10,245391.3,Cash,Cancelled
+994,2025-04-10,Najrin,22.0,Bhopal,Printer,Office,5,21231.0,5,100847.25,Card,Delivered
+995,2025-11-26,Zoya,33.0,Jaipur,Keyboard,Accessories,4,17931.0,0,71724.0,UPI,Delivered
+996,2025-05-18,Riya,39.0,Jaipur,Laptop,Electronics,5,19288.0,0,96440.0,UPI,Delivered
+997,2025-03-16,Riya,,Chennai,Laptop,Electronics,8,28170.0,5,214092.0,Cash,Cancelled
+998,2025-11-04,Diya,54.0,Chennai,Laptop,Electronics,7,36650.0,5,243722.5,UPI,Processing
+999,2025-09-16,Riya,40.0,Mumbai,Keyboard,Accessories,5,45853.0,10,206338.5,UPI,Processing
+1000,2025-10-25,Kabir,50.0,,Printer,Office,6,20717.0,0,124302.0,Card,Cancelled
+432,2025-09-20,Riya,35.0,Mumbai,Phone,Electronics,8,7391.0,0,59128.0,Cash,Delivered
+180,2025-02-26,Zoya,25.0,Pune,Phone,Electronics,6,15001.0,0,90006.0,Card,Cancelled
+602,2025-06-11,Kabir,21.0,Jaipur,Keyboard,Accessories,7,39689.0,10,250040.7,UPI,Delivered
+248,2025-04-18,Riya,33.0,,Phone,Electronics,2,29438.0,10,52988.4,Cash,Cancelled
+657,2025-03-07,Diya,50.0,Delhi,Laptop,Electronics,1,28143.0,0,28143.0,Cash,Cancelled
+614,2025-03-04,Rehan,46.0,Mumbai,Laptop,Electronics,3,4008.0,10,10821.6,Cash,Delivered
+493,2025-06-25,Najrin,34.0,Delhi,Keyboard,Accessories,6,31110.0,5,177327.0,Card,Cancelled
+791,2025-02-20,Najrin,30.0,Jaipur,Printer,Office,4,18730.0,5,71174.0,Cash,Cancelled
+970,2025-12-24,Ayesha,46.0,,Keyboard,Accessories,6,13089.0,15,66753.9,UPI,Cancelled
+21,2025-02-19,Najrin,47.0,Pune,Printer,Office,8,,5,334552.0,Cash,Cancelled
+469,2025-08-10,Aarav,48.0,Bhopal,Keyboard,Accessories,3,29212.0,5,83254.2,UPI,Processing
+557,2025-07-20,Najrin,,Pune,Printer,Office,2,21733.0,0,43466.0,Cash,Processing
+351,2025-12-17,Najrin,18.0,Chennai,Keyboard,Accessories,5,42333.0,10,190498.5,Cash,Delivered
+587,2025-08-14, Najrin ,36.0,Mumbai,Laptop,Electronics,1,10956.0,0,10956.0,Cash,Cancelled
+778,2025-12-29,Ayesha,36.0,Chennai,Phone,Electronics,4,32689.0,10,117680.4,Card,Delivered
+150,2025-05-05,Diya,45.0,Jaipur,Keyboard,Accessories,4,25447.0,0,101788.0,Card,Processing
+537,2025-02-21,Rehan,32.0,Mumbai,Printer,Office,8,36305.0,15,246874.0,Card,Processing
