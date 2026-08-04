@@ -221,6 +221,27 @@ Successfully cleaned the dataset and exported it as a new CSV file using Pandas.
 
 ### Outcome
 Successfully generated business insights from the sales dataset using Pandas.
+
+
+## Day 12 – Project Improvement
+
+### Topics Covered
+- Notebook Formatting
+- Markdown Headings
+- Code Comments
+- Data Cleaning
+- Data Analysis
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Business Insights
+
+### Files
+- ProjectImprovement.ipynb
+- SalesDataset.csv
+
+### Outcome
+Successfully improved the notebook by organizing the code, adding comments, improving chart formatting, and making the notebook professional and easy to understand.
 ---
 
 ## Author
